@@ -73,8 +73,12 @@ Instrucciones:
    de los últimos días. Si no hay nada relevante, omite la sección.
 6. Termina con una sección "🎯 Prioridad de hoy": 2 a 4 bullets con lo más \
    importante que el jugador debería hacer hoy, en orden de importancia.
-7. Sé conciso. Nada de relleno ni explicaciones de tu proceso. Usa exactamente \
-   este formato (respeta los emojis y encabezados):
+7. Sé conciso. Nada de relleno ni explicaciones de tu proceso. NO uses \
+   markdown (nada de asteriscos ** para negrita, ni guiones bajos _, ni \
+   almohadillas #): este texto se envía tal cual a Telegram como texto \
+   plano, así que cualquier símbolo de formato se vería feo, literal, \
+   en el mensaje. Usa exactamente este formato (respeta los emojis y \
+   encabezados, pero sin negritas ni otro formato):
 
 📅 Pokémon GO - [fecha legible]
 
@@ -123,8 +127,13 @@ def call_gemini(data: dict) -> str:
                 {"role": "user", "parts": [{"text": user_message}]}
             ],
             "generationConfig": {
-                "maxOutputTokens": 1500,
+                "maxOutputTokens": 3000,
                 "temperature": 0.4,
+                # Gemini 2.5 "piensa" internamente antes de responder, y eso
+                # consume parte de maxOutputTokens, dejando a veces el texto
+                # final cortado a la mitad. La desactivamos: no la necesitamos
+                # para un texto tan simple como este.
+                "thinkingConfig": {"thinkingBudget": 0},
             },
         },
         timeout=60,
@@ -135,6 +144,13 @@ def call_gemini(data: dict) -> str:
     candidates = payload.get("candidates", [])
     if not candidates:
         raise RuntimeError(f"Gemini no devolvió respuesta: {payload}")
+
+    finish_reason = candidates[0].get("finishReason")
+    if finish_reason == "MAX_TOKENS":
+        print(
+            "[AVISO] La respuesta de Gemini se cortó por límite de tokens. "
+            "Considera subir maxOutputTokens si esto se repite."
+        )
 
     parts = candidates[0].get("content", {}).get("parts", [])
     text = "\n".join(p.get("text", "") for p in parts).strip()
