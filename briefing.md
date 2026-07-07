@@ -1,4 +1,4 @@
-📅 Pokémon GO - 06 de Julio de 2026
+📅 Pokémon GO - Lunes 06 de Julio de 2026
 
 🎉 Eventos activos
-• **¡Último día! Fiesta 10mo Aniversario:** Gimmighoul con moneda de 10mo Aniversario debuta. Pikachu con
+• **Road of Legends** (¡Nuevo!): Hasta el 10 de julio. Prepara el GO Fest con bonus de incursiones y efectos de aventura.
