@@ -24,6 +24,7 @@ https://ai.google.dev/gemini-api/docs/pricing para confirmar.
 
 import json
 import os
+import time
 from datetime import datetime
 
 import requests
@@ -115,31 +116,68 @@ def call_gemini(data: dict) -> str:
         + json.dumps(data, ensure_ascii=False)
     )
 
-    response = requests.post(
-        GEMINI_URL,
-        headers={
-            "x-goog-api-key": GEMINI_API_KEY,
-            "Content-Type": "application/json",
+    request_body = {
+        "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "contents": [
+            {"role": "user", "parts": [{"text": user_message}]}
+        ],
+        "generationConfig": {
+            "maxOutputTokens": 3000,
+            "temperature": 0.4,
+            # Gemini 2.5 "piensa" internamente antes de responder, y eso
+            # consume parte de maxOutputTokens, dejando a veces el texto
+            # final cortado a la mitad. La desactivamos: no la necesitamos
+            # para un texto tan simple como este.
+            "thinkingConfig": {"thinkingBudget": 0},
         },
-        json={
-            "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
-            "contents": [
-                {"role": "user", "parts": [{"text": user_message}]}
-            ],
-            "generationConfig": {
-                "maxOutputTokens": 3000,
-                "temperature": 0.4,
-                # Gemini 2.5 "piensa" internamente antes de responder, y eso
-                # consume parte de maxOutputTokens, dejando a veces el texto
-                # final cortado a la mitad. La desactivamos: no la necesitamos
-                # para un texto tan simple como este.
-                "thinkingConfig": {"thinkingBudget": 0},
-            },
-        },
-        timeout=60,
-    )
-    response.raise_for_status()
-    payload = response.json()
+    }
+
+    # A veces el servidor de Google devuelve 503 (saturado) o 429 (límite
+    # de peticiones alcanzado momentáneamente). En esos casos, reintentamos
+    # unas pocas veces con una pequeña espera antes de rendirnos.
+    max_attempts = 4
+    last_error = None
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = requests.post(
+                GEMINI_URL,
+                headers={
+                    "x-goog-api-key": GEMINI_API_KEY,
+                    "Content-Type": "application/json",
+                },
+                json=request_body,
+                timeout=60,
+            )
+
+            if response.status_code in (429, 500, 503) and attempt < max_attempts:
+                wait_seconds = attempt * 15
+                print(
+                    f"[AVISO] Gemini respondió {response.status_code} "
+                    f"(intento {attempt}/{max_attempts}). "
+                    f"Reintentando en {wait_seconds}s..."
+                )
+                time.sleep(wait_seconds)
+                continue
+
+            response.raise_for_status()
+            payload = response.json()
+            break
+
+        except requests.exceptions.RequestException as exc:
+            last_error = exc
+            if attempt < max_attempts:
+                wait_seconds = attempt * 15
+                print(
+                    f"[AVISO] Error de red llamando a Gemini "
+                    f"(intento {attempt}/{max_attempts}): {exc}. "
+                    f"Reintentando en {wait_seconds}s..."
+                )
+                time.sleep(wait_seconds)
+                continue
+            raise
+    else:
+        raise RuntimeError(f"Gemini no respondió tras varios intentos: {last_error}")
 
     candidates = payload.get("candidates", [])
     if not candidates:
