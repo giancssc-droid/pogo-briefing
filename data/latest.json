@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-08T17:12:27.856892+00:00",
-  "today_venezuela": "2026-07-08",
-  "today_venezuela_readable": "Wednesday 08 de July de 2026",
+  "generated_at_utc": "2026-07-09T18:26:46.090162+00:00",
+  "today_venezuela": "2026-07-09",
+  "today_venezuela_readable": "Thursday 09 de July de 2026",
   "scrapedduck": {
     "events": [
       {
@@ -1066,144 +1066,112 @@
     ],
     "raids": [
       {
-        "name": "Kyurem (White)",
+        "name": "Zacian (Crowned Sword)",
         "tier": "5-Star Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "dragon",
-            "image": "https://leekduck.com/assets/img/types/dragon.png"
+            "name": "fairy",
+            "image": "https://leekduck.com/assets/img/types/fairy.png"
           },
           {
-            "name": "ice",
-            "image": "https://leekduck.com/assets/img/types/ice.png"
+            "name": "steel",
+            "image": "https://leekduck.com/assets/img/types/steel.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 1957,
-            "max": 2042
+            "min": 2100,
+            "max": 2188
           },
           "boosted": {
-            "min": 2446,
-            "max": 2553
+            "min": 2625,
+            "max": 2735
           }
         },
         "boostedWeather": [
           {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
+            "name": "cloudy",
+            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
           },
           {
             "name": "snow",
             "image": "https://leekduck.com/assets/img/weather/snowy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm646.fWHITE.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.icon.png"
       },
       {
-        "name": "Zekrom",
+        "name": "Zamazenta (Crowned Shield)",
         "tier": "5-Star Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "dragon",
-            "image": "https://leekduck.com/assets/img/types/dragon.png"
+            "name": "fighting",
+            "image": "https://leekduck.com/assets/img/types/fighting.png"
           },
           {
-            "name": "electric",
-            "image": "https://leekduck.com/assets/img/types/electric.png"
+            "name": "steel",
+            "image": "https://leekduck.com/assets/img/types/steel.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 2217,
-            "max": 2307
+            "min": 2100,
+            "max": 2188
           },
           "boosted": {
-            "min": 2771,
-            "max": 2884
+            "min": 2625,
+            "max": 2735
           }
         },
         "boostedWeather": [
           {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
+            "name": "cloudy",
+            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
           },
           {
-            "name": "rainy",
-            "image": "https://leekduck.com/assets/img/weather/rainy.png"
+            "name": "snow",
+            "image": "https://leekduck.com/assets/img/weather/snowy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm644.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png"
       },
       {
-        "name": "Necrozma (Dawn Wings)",
-        "tier": "5-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "psychic",
-            "image": "https://leekduck.com/assets/img/types/psychic.png"
-          },
-          {
-            "name": "ghost",
-            "image": "https://leekduck.com/assets/img/types/ghost.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 2018,
-            "max": 2104
-          },
-          "boosted": {
-            "min": 2522,
-            "max": 2630
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm800.fDAWN_WINGS.icon.png"
-      },
-      {
-        "name": "Mega Tyranitar",
+        "name": "Mega Gengar",
         "tier": "Mega Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "rock",
-            "image": "https://leekduck.com/assets/img/types/rock.png"
+            "name": "ghost",
+            "image": "https://leekduck.com/assets/img/types/ghost.png"
           },
           {
-            "name": "dark",
-            "image": "https://leekduck.com/assets/img/types/dark.png"
+            "name": "poison",
+            "image": "https://leekduck.com/assets/img/types/poison.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 2103,
-            "max": 2191
+            "min": 1566,
+            "max": 1644
           },
           "boosted": {
-            "min": 2629,
-            "max": 2739
+            "min": 1958,
+            "max": 2055
           }
         },
         "boostedWeather": [
           {
-            "name": "partly cloudy",
-            "image": "https://leekduck.com/assets/img/weather/partlycloudy.png"
-          },
-          {
             "name": "fog",
             "image": "https://leekduck.com/assets/img/weather/foggy.png"
+          },
+          {
+            "name": "cloudy",
+            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm248.fMEGA.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm94.fMEGA.icon.png"
       },
       {
         "name": "Shadow Phanpy",
@@ -4497,10 +4465,16 @@
     "oficial": [],
     "gohub_events": [
       {
+        "title": "Road of Legends Day 4: All Five-Star Raids, Mega Gengar, Bonuses and Guides",
+        "summary": "<p>Road of Legends is a stacked week of Legendary raids, Mega Raids, event bonuses, Special Backgrounds, Adventure Effects, and a new GO Pass. Running from July 6, 2026, at 12:01 a.m. to July 10, 2026, at 11:59 p.m. local time, Road of Legends is a final prep event before GO Fest Global weekend. Trainers will [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/road-of-legends-day-4-all-five-star-raids-mega-gengar-bonuses-and-guides/\">Road of Legends Day 4: All Five-Star Raids,",
+        "link": "https://pokemongohub.net/post/event/road-of-legends-day-4-all-five-star-raids-mega-gengar-bonuses-and-guides/",
+        "published": "2026-07-09T07:00:23+00:00"
+      },
+      {
         "title": "Road of Legends Day 3: All Five-Star Raids, Mega Gardevoir, Bonuses and Guides",
         "summary": "<p>Road of Legends is a stacked week of Legendary raids, Mega Raids, event bonuses, Special Backgrounds, Adventure Effects, and a new GO Pass. Running from July 6, 2026, at 12:01 a.m. to July 10, 2026, at 11:59 p.m. local time, Road of Legends is a final prep event before GO Fest Global weekend. Trainers will [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/road-of-legends-day-3-all-five-star-raids-mega-gardevoir-bonuses-and-guides/\">Road of Legends Day 3: All Five-Star Rai",
         "link": "https://pokemongohub.net/post/event/road-of-legends-day-3-all-five-star-raids-mega-gardevoir-bonuses-and-guides/",
-        "published": "2026-07-08T08:00:08+00:00"
+        "published": "2026-07-08T18:00:08+00:00"
       },
       {
         "title": "Nickit Community Day (August 2026)",
@@ -4537,15 +4511,15 @@
         "summary": "<p>A new collaboration between Pokémon GO and ANA has been announced! To celebrate the launch of the Red Pokémon Jet—a special project marking Pokémon’s 30th anniversary, with special events being held with ANA at airports across Japan. The following Pokémon will appear in raids: &#160;Trainers can participate in one Raid Battle per day at each [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/ana-and-pokemon-go-partnership-red-pokemon-jet/\">ANA and Pokémon GO Partnership: R",
         "link": "https://pokemongohub.net/post/event/ana-and-pokemon-go-partnership-red-pokemon-jet/",
         "published": "2026-07-06T07:58:36+00:00"
-      },
-      {
-        "title": "Pokémon GO Events This Week: July 6-12, 2026",
-        "summary": "<p>Pokémon GO’s July 6-12 week sees us will into the season of Forever Forward! This is the biggest week of the year in Pokémon GO, with the Road of Legends and global GO Fest taking place! Plus the weekly rotating Raid Hours, Spotlight Hour, Dynamax Battles and Mega Raids. If you play only one week [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-6-12-2026/\">Pokémon GO Events This Week: July 6-12, 2026</a> appeared first on <a href=\"https:/",
-        "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-6-12-2026/",
-        "published": "2026-07-05T05:45:14+00:00"
       }
     ],
     "gohub_news": [
+      {
+        "title": "Pokémon GO 10th Anniversary Celebration Livestream: Live Updates 🔴",
+        "summary": "<p>Trainers, Scopely is hosting a special livestream to commemorate the 10th Anniversary of Pokémon GO. The company has revealed next to no information about the livestream, but a substantial number of content creators have been invited to New York City to participate in the event. Pokémon GO Hub is among these creators, bringing you live [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-10th-anniversary-celebration-livestream-live-updates/\">Pokémon GO 10th Anniver",
+        "link": "https://pokemongohub.net/post/news/pokemon-go-10th-anniversary-celebration-livestream-live-updates/",
+        "published": "2026-07-09T17:32:09+00:00"
+      },
       {
         "title": "Special Pokémon GO 10th Anniversary Livestream Announced!",
         "summary": "<p>Trainers, as we close in on the 10th Anniversary of Pokémon GO, the celebrations only seem to be getting more exciting. Aside from all the in-game grandeur, fans worldwide are in for another major surprise, as a special livestream broadcast has been announced for July 9, 2026! However, to add more spice to the thrill, [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/special-pokemon-go-10th-anniversary-livestream-announced/\">Special Pokémon GO 10th Anniversary Livestream A",
@@ -4575,62 +4549,56 @@
         "summary": "<p>Today, 6th July 2026, the Niantic games team officially updates its name to Scopely Explore. As part of the rebrand they intend to debut a new look. They have shared that the Pokémon GO team remains the same, as does their commitment to creating the best gameplay experiences for Trainers everywhere. It has been more [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/niantic-games-team-now-officially-called-scopely-explore/\">Niantic Games Team Now Officially Called Scopely E",
         "link": "https://pokemongohub.net/post/news/niantic-games-team-now-officially-called-scopely-explore/",
         "published": "2026-07-06T13:48:44+00:00"
-      },
-      {
-        "title": "Pokémon GO Events This Week: July 6-12, 2026",
-        "summary": "<p>Pokémon GO’s July 6-12 week sees us will into the season of Forever Forward! This is the biggest week of the year in Pokémon GO, with the Road of Legends and global GO Fest taking place! Plus the weekly rotating Raid Hours, Spotlight Hour, Dynamax Battles and Mega Raids. If you play only one week [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-6-12-2026/\">Pokémon GO Events This Week: July 6-12, 2026</a> appeared first on <a href=\"https:/",
-        "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-6-12-2026/",
-        "published": "2026-07-05T05:45:14+00:00"
       }
     ],
     "leekduck_twitter": [
       {
+        "title": "Trainers can get Twitch badges by purchasing a subscription to their favorite streamer while they...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3114\"><img src=\"https://cdn4.telesco.pe/file/dPkjsj4vQ6bMUAI4HHi5cI2CHRqdRWWohzfyDuGC1S6N2UtdP7i0EEaJ01S1OF2rKqpv2GD5ixbWZtjZfYSQVJhVcxeE32b6U_q00wS9frCC5m4ZWFbLntgU-TPIlLp8N9cN4xYpGCP4wbBZunohQiZanl5tvGewPsz2RD9EVwHQAJ4gJp80jIAYGHFc2HFBzxcYgbC8xB7Rc6c2Y9HTqmy1OM53OqzEsTbua-YvGIPAA9_wAz6Oov7J7Z4AVvcrApmlR4CTOsvAWw7WCAhAmBCiV2Ie_e3Bjbe1jHEfRo6FihFsZLPKBwr-yW-zw1VAVOpE-NUZIJWiGkUMUvudMg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3114",
+        "published": "2026-07-09T03:40:54+00:00"
+      },
+      {
         "title": "As voted in the Community Choice poll, Nickit will be the featured Pokémon in August Community...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3113\"><img src=\"https://cdn4.telesco.pe/file/Mh3oleI2TIjr-804wJDofUQkce5mT1vc_Td9n1NRerFz-i1Ns8cdQRufap4bW-WiFbij4Omz3S4Rz4y2ysSKJcjFsPMMbLp5siFkfsVevNsDP_JUiT7BIZV4ZHMzpSixkwBykotYaa1V8666Vm2sJbWrU8SRHKiNgJltZIqTrVDhPyfcVEGIk09j054uBPA1xotVZJ0m-QTAQn7wX2F50eXxdFmx5SeHD9gUvhn5CxvCIoOv0Y88xXk-ce-kjOXpDF2ZSiJprRG1KiIWHzi60evCozQXX0JV0u8ExPqa-MxDG-G5dKG_4FoEoxIozGcvfEOI4FvCO4yC4BHnIQW5IA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3113\"><img src=\"https://cdn4.telesco.pe/file/O_6egJiWIq8WzjcujtE9C01K2eOuzgesARLMau8A3OGG13gGfGgEtmYER_0cFhjhX-c1oc6vlVlJ9WrQ-Pwebc8jx0QYm2Un9v_hzeBUaGEw7TDF1qB2halK1tw77-Z5SsSBJQpfx6r3qo9mF3OMCvcdiqEOzfC6y-tfxtXUEMjMfNxw3DK5e4nG8uv04Oo7ZeCdVYgEctoodv5J9QAdAlsZx4Xz5pft-02KXd2_1kuQ9LtVBwMomRX-90_pnABmxTE5W7uQIFuCJzE0EXGj_BMPCzBjWrY6Se3VQDg-3lKFXF3CAtSWviAlOjJxa3Q-HfhjxxSvKmdOeOsBfm9oTg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3113",
         "published": "2026-07-07T18:30:54+00:00"
       },
       {
         "title": "Pokémon GO is hosting a 10th Anniversary Celebration stream on Twitch on July 9th. \n\nTune in for...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3112\"><img src=\"https://cdn4.telesco.pe/file/lZnvdh3xDARCpvYspuk2qhnNGP4ahFd_GN8l-B4bvVs5nHFpE2YAwetLKcCk0iUZ-rFG7fk8OwYKNHFC6HM44EsUL6L14Cx5hYFO3SEK0gU0GG0-uwunBMCu7Vanmwy_1bWHlEflPHXHZDzoeOM9rtUeqznUxNqSX5_GR_2vt6PRssq74uJ3rY5_mILYDSFiL8wdpbcpj_m3v0yonTZF8Vir7fQ1KI3m-HOi85NLOHj_qb2iFj_qrEAs-_JO-Jeb_0dG93Btc1z6yxmIyZMjfSNmqdF-2Pyui0uIzjyy36F4me1S6lGwbjvU_lGaUaLLhRdB0Qb-v6Zq0M0dYkAgzw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3112\"><img src=\"https://cdn4.telesco.pe/file/Cz7YSfqnVxP6L-JHlYsUuFEM-7FslsXrXCOvTsuGUKCRJ--sR81e82M9OGww0HzAcSyD1B--EzEtZOW1NUE4KrwG7d0rp_NhNcSjO0g2V5IvdE__2II0t2XQ6htQc3YvUVeSCcbv9C7xshSJngsEb0CZf1c7yOgEZJAIyRji4h2KgXpAVoc4P67kiLu85ApJJROHmS8VCPiSTvFvk7NSQW4IuCuZQj5vq4hqe5YT5J9aLUop5eomKzojWgP5zn8ZR-rvO2ffW2OiaowUSQmCPm5eXHP-dmHspIGc5Ltv8ezjWbD2ukyQo5WH_O3P1hVwNHE0eDWcunoEW6Gzpbvpcg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3112",
         "published": "2026-07-07T01:50:54+00:00"
       },
       {
         "title": "If Trainers complete the hourly Global challenges during GO Fest, they can unlock these upgraded...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3111\"><img src=\"https://cdn4.telesco.pe/file/AepHsKAUatntl2oyFJc8v_T5_oMufhkMkiWChLIBKb7z6mawt9Ezf338aNABY_hUYkgkQQlg9DnvrbK-DtKMeMcdj0ZyE-l1_Vj8b37vWOCIAGpJnKHtvDWY5JApNpf4rtEuW9KggtvviGaJOLoPxjG-n8LLFB6NqA5gnSnjFy44rBm1V8xMskmwutno0dfxO1J87EJOI8OAbsOXfXmAVCv0X7FvoCWl723tPvzCjA4mNQkog9RKHc8zieqFuDqIJq0EINrTZbWx-vlyt6e1bU6GJeu2OX1EzpbIJqBlK8NdL-pRycUtB2vpyul43w1W_riEp6gyssuLJRMa3HL6eg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3111\"><img src=\"https://cdn4.telesco.pe/file/UH9c7e4ACkijeIgTdyAk5bVqHuhYmZ02EjgA1WOKUrvHtvMnEFkTVxswkyixu7_jSHM1zWJ7QIyiq5oRcRDxBJaDGID1EoSLwxzKzlnFIKvj30KdjFIUqEYUJ_OSv_xQdIt4OxbH60i39KBJ8Q_DGyK9peob3NqLZIIRoMTtcqgRcV32ZvupT_u5JJ_iqPbHJADNuIFpUPpwXv1nDSiUxZn7qeJlwPiCzDYn6K172GoGfc8qrhWu00cp8wYKZ59_F41jEssiiY1DdXX4suCfcVKsweUAOtLPKDLsejhvnQR2J6F3cCU2ZX1kTYsvEjaKgs8wXBezPFDvNB1_wJGz_w.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3111",
         "published": "2026-07-06T20:30:53+00:00"
       },
       {
         "title": "This year's anniversary artwork has been released&#33; \n\nThis piece celebrating Pokémon...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3110\"><img src=\"https://cdn4.telesco.pe/file/Hc8jWRiM7MK-Xm5s0msIR3xn4T_Wt9FH6jQ0rzGoIK3YX7NQkTQ5e3pGC24d83ulyhDPhb2fDsreg-9__QQKlw2XX8Aeo-NAofsEyIYVV0WkgGFaltoICqyQ40z0AfxMqt8iGK7cCJUPmT0WYvK3Q3Mb4tqm1L1QlMmjkmDmM68Q7WAV-BRNq-pMVgeZ2ljtMk8FcmtGZhlv7USfOiFFrzTDk0sJ3S9qe7TAfFGDBM1SIIMUzqaxUcknc2IMn_Bkp3hKEY9ibb5hIWqiRr01nnHEusL5YtQsSSzRwuTTAKfeL--bBWhUwJ0GXd3aC_yU1N1Qj7fVWM3iTNi7DCRD4g.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3110\"><img src=\"https://cdn4.telesco.pe/file/uyJSPUjJYY-eWFGe-n0RwGEfxoBztEx7YZE2QXhYifD8-EYULGDpTKIZTi55OmwhE14PTNlTGRdLdDWwa6c6dpnq6OM6EA30YAJTSZhnF1RzXQP3CVQ0J7R_rUM8RgRSbuF9KR_vhmgushd7nAiwWarQVfYmHXKDg8mS40Sy82IorH6jI-23LDBKLdxyByo4LIVPQ01CKmpTClwyunBeZ4R0iAXgfYRyCPqYKhvM7Rg69ThbSgTWtsIWA4JlICfiscy1GArYbHypqViHznSsQuuaaLk7Gt3200cs3i_YTHzrQh6gYr56Q-exQcus0WfJqC1zTcEjbFfokiSf-8IHsw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3110",
         "published": "2026-07-06T20:10:54+00:00"
       },
       {
         "title": "Want to quickly check how many Trainers you need or more robust counters for every Legendary...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3109\"><img src=\"https://cdn4.telesco.pe/file/TPqSFAJ7nHjrVtrBq37_9FexR7t0NJAAnjS1lEuPoApI-R3xNTZi4SEDRlpu9WKd0coQW6chEDdKLG_GMTUXi8hbigjaSsg9c2PhdGMwjYfKn_0BCkzlyZx5QFpActlNib5mNmgM4tWL_16bqkjV_VeJafs6jdZqrrZwIEULqW6ub--ixZXMXoOglX6Ye_2Xl8BxCVlKwuTJLDXhwy5XyMpbLW7Bh2lwnJ2lcrCHIThufbdFAXivRtItcj3VPHf98KW8AtYko0CtZESdA_iL37p5qmSilcWAh5PhtXw3BTilkUYNS2rLiikNf_8gqcf0ZQZPs-dS0zYge-Vcca2e7Q.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3109\"><img src=\"https://cdn4.telesco.pe/file/jfNOSL_-a-HdRafRPY6LfFXL7K1qB-hmzJc6ApmMhZsSDUCgHg70jDNQGVoHxMtaQWLyuC-i5VBSDi1qWAst8ar93ASI9eD2qppMaYDipPoaGN9zVtLWPCWdm3b2VhO4XZebpyFdo7a7pADv1_BhG7CoyZGp7_7LLtWZOJU6pjaanq3ZHrUnWDVqwgWMssGmhVLRom_lhf113M0C_sFkznSlJHpNEei30WHxdjeESFwD2ZH7zV5Zc7zdmb_MhQLwsmzajuZINe-UCYzSh55ZSCkqt0E73pT1_f_WvxkBnmtWhjBrnV_yZlM-EysPpR4eIT3iUH1g97dNKs410jT2bA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3109",
         "published": "2026-07-06T15:40:54+00:00"
       },
       {
         "title": "More than a year after Scopely's acquisition, the Niantic Games team has adopted a new name:...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3108\"><img src=\"https://cdn4.telesco.pe/file/j1uEq09MYo6g44rp0sQWfGFm8XDBeoemqHDnlLl5gGFhnXz8zf89k8R-AyDF41gpm-6OVUkMS6qVvDHPiEUaf8sKJVn5klsjSNLVq3paYCj6KxjbKbx9r3u8RSU8qYQ_nVhxlyZug8WtokzSF-tp5cdQe6ePm2rsZOmTyLTFvoqrKpbvs1ATcAIakQxPu6wjNPnoLVBJsUei4k3rMfe2cdXoWGUXEtFlsbo-ovKNFh4s-BTdSYDKnUSI1axUOgGzUeYPu9fXHGx2gqDQW6xMJj0OuB9m2HxUcB9KUgNfWhra1Gb8C-xB6D_jyjg9xRu4qn0hMAsUBFvxEfrnDHiABw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3108\"><img src=\"https://cdn4.telesco.pe/file/tuFOrYC1uO32Kx8mcaI-cEpGSSJi2dIv204oBqqlEJ8SfX-sPXraarpiBLO17KYmBF-ILlzrNBacMn4n7KOb4suAG4cB9nYA2eywNq3O69fO281MKwtp7lFnxBLcqNoI9QwFYbuT_IZphhU3IUoEnDyC4Pip8H66w44D-L6BPiAOdo4ev02dSIH5P26BIKqaz_ZdAuKS123_DvoioAvQOqlkrsU4loOUCch9wsttT2AZChyKaJdK5uMu2UqHWymZNkauipJQQL95z59f8Mr7FpZBA0IxflVzjIUy88Wmq3HD5wHCQJSvRp0rjIRKhEYmHW1_j91hUPErgH1GrsWlYw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3108",
         "published": "2026-07-06T14:30:53+00:00"
       },
       {
         "title": "All Trainers can now purchase more Pokémon Storage and Item Storage in Pokémon GO. \n\nMax...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3107\"><img src=\"https://cdn4.telesco.pe/file/CYkaY7Juj6eMvP3pB9-eROyYRN2ekcGos5jcv7SFRCFitBH-WjaiWZQIIpmIz661Mah0YnlVMgZMcOFimmff-BVMjdoV3OEs0Odhr3DF2ziLT1m1gvvHiq257lHuGv-TQkG_jptjyYEnqk7tGLFyjdUqljmPMx7jxClzDHa-me2NNSc_H9AVh6JB7ssZ-8t0_a9eDjHB-jwIQjuhKB4kmYWHXIouoJZt2CCWXqzPGbJjEeRMSds6KNHHkL0ouKoixeTI8gpLvITfqlPxejXtbS-WmSAM7OCq_lctaeuWjaL3fqG24-RaP8nEN3U3Ht-RKshWOqR7q3HZaa-QjZr5YA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3107\"><img src=\"https://cdn4.telesco.pe/file/Ya9lpAY8H5wuYXwJmHgOcxsNe16PALg2ZpCG3fD24xhtiIPXo70sgS3GvF7dGwiZnujEjU1_6R_WKFhtBplLHXOJHaVIgpVH6XjHW_jKx9NlhF3-DMnJNhqB6ABHokUsw9loJZWL3bhNHY9MnCvYPpJ1SJqnNdm3t4xl0zoRjvPqyHsbAQN87Ea-0eGVH8OiGHL0SA9k1KeL7E57c6arR5_y8UpEItlLtzyfaDW73DohEYNHuXp0Gk8OHVcamejDs0h0pWQyxloRBMwTiZgVKaNiuawXCnKv7K6mBsbzsEthbQ7J1whTDqFjGnWgKiVrEy8W5WPnPP4Dh-pK1UZ1xw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3107",
         "published": "2026-07-06T00:30:55+00:00"
-      },
-      {
-        "title": "This year, I’m releasing a dedicated page on Leek Duck to help you stay in the loop during this...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3106\"><img src=\"https://cdn4.telesco.pe/file/AbKj5jp5EhMaxMd6lkSl_1q26pau-wPzr3PnzCIcD2nypXuSxejvAnCGodZVvGVe0gS5hE015I-P5YlP-YOWI_sgDIY813VcwUW8KlCz4gNmZd0Rc-yVW6W5hua0p0D8YldDwjOgoSvreWcUXm57gPH-uKkCtz3d0Z3HOr9JeoaG9l-dWOjkIOTAPbNSwPXb026NJnvU-l054wZq_AokTM8jKDJv-CmtV92GMKo1YpdbrasCO8kfRti9P5lPXumol7M8Ms2nrkl_2sC79q64i1r1fI6tsskEM1sBt1rBRWObu5QLmD9u3PQD9-dOe2BfhSaIbLDxNfuTOoRZf3Hb3A.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3106",
-        "published": "2026-07-05T15:00:53+00:00"
       }
     ]
   }
