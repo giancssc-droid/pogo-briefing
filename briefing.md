@@ -1,31 +1,37 @@
-📅 Pokémon GO - 10 de Julio de 2026
+📅 Pokémon GO - 11 de Julio de 2026
 
 🎉 Eventos activos
-• Road of Legends (hasta hoy)
-• Twitch Drops por el 10mo Aniversario de Pokémon GO (hasta 12 de julio)
-• Ultra League y Fantasy Cup: Ultra League Edition (hasta 14 de julio)
-• GO Pass: Julio (hasta 4 de agosto)
-• Temporada Forever Forward (hasta 8 de septiembre)
+• Pokémon GO Fest 2026: Global (11-12 de Julio)
+• Twitch Drops por el 10º Aniversario de Pokémon GO (hasta el 12 de Julio)
+• Ultra League y Fantasy Cup: Ultra League Edition | Forever Forward (hasta el 14 de Julio)
+• GO Pass: Julio (hasta el 4 de Agosto)
+• Shadow Palkia en Incursiones Oscuras (hasta el 4 de Agosto)
+• Temporada Forever Forward (hasta el 8 de Septiembre)
 
-Próximos eventos:
-• Pokémon GO Fest 2026: Global (11 de julio)
-• Dynamax Deino durante Max Monday (13 de julio)
+🎉 Próximos eventos
+• Dynamax Deino durante Max Monday (13 de Julio)
+• Mega Lucario en Mega Raids (13-14 de Julio)
 
 ⚔️ Raids activas
-• 5 Estrellas: Dialga (Origen) ✨, Palkia (Origen) ✨
-• Mega Raids: Primal Kyogre ✨, Primal Groudon ✨
-• Shadow Raids: Shadow Palkia ✨
+• 5 Estrellas: Articuno (shiny), Zapdos (shiny), Moltres (shiny), Raikou (shiny), Entei (shiny), Suicune (shiny), Lugia (shiny), Ho-Oh (shiny), Shadow Palkia (shiny)
+• Mega Raids: Mega Mewtwo X (shiny), Mega Ampharos (shiny), Mega Blaziken (shiny), Mega Abomasnow (shiny)
+• 1 Estrella: Pikachu con gorro de Equipo Instinct (shiny), Pikachu con gorro de Equipo Mystic (shiny), Pikachu con gorro de Equipo Valor (shiny)
 
 🟣 Dynamax / Max Battles
-• Bulbasaur ✨, Charmander ✨, Squirtle ✨, Chikorita ✨, Cyndaquil ✨, Totodile ✨, Treecko ✨, Torchic ✨, Mudkip ✨, Turtwig ✨, Chimchar ✨, Piplup ✨, Snivy ✨, Tepig ✨, Oshawott ✨, Chespin ✨, Fennekin ✨, Froakie ✨, Rowlet ✨, Litten ✨, Popplio ✨, Grookey ✨, Scorbunny ✨, Sobble, Sprigatito ✨, Fuecoco ✨, Quaxly ✨, Exeggcute ✨, Pichu ✨, Cleffa ✨, Togepi ✨, Corphish ✨, Wynaut ✨, Larvesta ✨, Riolu ✨, Mantyke ✨, Snom, Indeedee (Macho) ✨, Indeedee (Hembra) ✨, Flittle, Budew ✨, Chingling ✨, Sableye ✨, Tyrogue ✨, Happiny ✨, Galarian Meowth ✨, Galarian Corsola ✨, Galarian Zigzagoon ✨, Galarian Darumaka ✨, Galarian Stunfisk ✨, Alolan Geodude ✨, Alolan Diglett ✨, Hisuian Sneasel ✨, Hisuian Growlithe ✨, Basculin (Raya Blanca) ✨, Mawile ✨, Absol ✨, Honedge ✨, Charcadet ✨, Tinkatink ✨, Frigibax ✨, Druddigon ✨, Toxel ✨, Bagon ✨, Drampa ✨, Gible ✨, Sandile ✨, Vullaby ✨, Shroodle, Pancham ✨, Salandit ✨, Varoom ✨
+• 1 km: Bulbasaur (shiny), Charmander (shiny), Squirtle (shiny), Chikorita (shiny), Cyndaquil (shiny), Totodile (shiny), Treecko (shiny), Torchic (shiny), Mudkip (shiny), Turtwig (shiny), Chimchar (shiny), Piplup (shiny), Snivy (shiny), Tepig (shiny), Oshawott (shiny), Chespin (shiny), Fennekin (shiny), Froakie (shiny), Rowlet (shiny), Litten (shiny), Popplio (shiny), Grookey (shiny), Scorbunny (shiny), Sobble, Sprigatito (shiny), Fuecoco (shiny), Quaxly (shiny)
+• 2 km: Exeggcute (shiny), Pichu (shiny), Cleffa (shiny), Togepi (shiny), Corphish (shiny), Wynaut (shiny), Larvesta (shiny)
+• 5 km: Riolu (shiny), Mantyke (shiny), Snom, Indeedee (Macho) (shiny), Indeedee (Hembra) (shiny), Flittle, Larvesta (shiny), Budew (shiny), Chingling (shiny), Sableye (shiny), Tyrogue (shiny), Happiny (shiny)
+• 7 km: Galarian Meowth (shiny), Galarian Corsola (shiny), Galarian Zigzagoon (shiny), Galarian Darumaka (shiny), Galarian Stunfisk (shiny), Alolan Geodude (shiny), Alolan Diglett (shiny), Galarian Corsola (shiny), Galarian Slowpoke (shiny), Hisuian Sneasel (shiny), Hisuian Growlithe (shiny), Basculin (Raya Blanca) (shiny)
+• 10 km: Mawile (shiny), Absol (shiny), Honedge (shiny), Charcadet (shiny), Tinkatink (shiny), Frigibax (shiny), Larvesta (shiny), Druddigon (shiny), Toxel (shiny), Bagon (shiny), Drampa (shiny), Gible (shiny)
+• 12 km: Sandile (shiny), Vullaby (shiny), Shroodle, Pancham (shiny), Salandit (shiny), Varoom (shiny)
 
 📰 Noticias importantes
-• ¡Mega Mewtwo X y Y, junto a Zeraora, debutarán en Pokémon GO Fest 2026: Global! El evento es GRATIS para todos los entrenadores.
-• Se ha anunciado un livestream especial por el 10mo Aniversario de Pokémon GO.
-• Nickit será el Pokémon destacado en el Día de la Comunidad de agosto.
+• Pokémon GO Fest 2026: Global es GRATIS para todos los Entrenadores y presenta el debut de Mega Mewtwo X y Y, junto a Zeraora.
+• Se ha anunciado un livestream especial por el 10º Aniversario de Pokémon GO el 9 de Julio.
+• Nickit será el Pokémon destacado en el Día de la Comunidad de Agosto 2026.
 
 🎯 Prioridad de hoy
-• Aprovecha el último día del evento Road of Legends.
-• Realiza incursiones de Dialga (Origen) y Palkia (Origen) para buscar sus versiones shiny.
-• Participa en incursiones Primal para obtener energía de Primal Kyogre y Primal Groudon.
-• No olvides reclamar tus Twitch Drops del 10mo Aniversario.
+• Participa en el Pokémon GO Fest 2026: Global para Mega Mewtwo X y Y, y Zeraora.
+• Realiza incursiones de 5 estrellas para obtener Legendarios shiny.
+• Completa tareas de investigación de campo con recompensas de Pokémon shiny.
+• Recoge tus Twitch Drops por el 10º Aniversario.
