@@ -1,31 +1,60 @@
-📅 Pokémon GO - Sunday 12 de July de 2026
+📅 Pokémon GO - Monday 13 de July de 2026
 
 🎉 Eventos activos
-• Pokémon GO Fest 2026: Global (hasta hoy a las 7:00 pm)
-• Ultra League y Fantasy Cup: Ultra League Edition | Forever Forward (hasta el 14 de julio)
-• Season 23: Forever Forward (hasta el 8 de septiembre)
+• Dynamax Deino durante Max Monday (hasta hoy a las 9 PM)
+• Liga Ultra y Copa Fantasía: Edición Liga Ultra | Forever Forward (hasta mañana a las 4 PM VET)
+• Celebración Especial de Aniversario de Pikachu (hasta 20 de julio)
+• GO Pass: Julio (hasta 4 de agosto)
+• Temporada 23: Forever Forward (hasta 8 de septiembre)
 
 🎉 Próximos eventos
-• Dynamax Deino durante Max Monday (empieza el 13 de julio)
-• Mega Lucario en Mega Raids (empieza el 13 de julio)
+• Hora de Incursiones de Kyogre (15 de julio)
+• Hora Destacada de Zubat (16 de julio)
 
 ⚔️ Raids activas
-• Super Mega Raids: Mega Mewtwo Y (shiny disponible)
-• Mega Raids: Mega Metagross (shiny disponible), Mega Garchomp (shiny disponible), Mega Beedrill (shiny disponible), Mega Pinsir (shiny disponible), Mega Sceptile (shiny disponible), Mega Tyranitar (shiny disponible), Mega Gardevoir (shiny disponible), Mega Lucario (shiny disponible)
-• 5-Star Raids: Regirock (shiny disponible), Regice (shiny disponible), Registeel (shiny disponible), Dialga (Origin) (shiny disponible), Palkia (Origin) (shiny disponible), Heatran (shiny disponible), Regigigas (shiny disponible), Tornadus (Incarnate) (shiny disponible), Tornadus (Therian) (shiny disponible), Thundurus (Incarnate) (shiny disponible), Thundurus (Therian) (shiny disponible), Landorus (Incarnate) (shiny disponible), Landorus (Therian) (shiny disponible), Regieleki (shiny disponible), Regidrago (shiny disponible), Deoxys (Normal) (shiny disponible), Deoxys (Attack) (shiny disponible), Deoxys (Defense) (shiny disponible), Deoxys (Speed) (shiny disponible), Genesect (shiny disponible), Tapu Koko (shiny disponible), Tapu Lele (shiny disponible), Tapu Bulu (shiny disponible), Tapu Fini (shiny disponible), Nihilego (shiny disponible), Buzzwole (shiny disponible), Pheromosa (shiny disponible), Xurkitree (shiny disponible), Celesteela (shiny disponible), Kartana (shiny disponible), Guzzlord (shiny disponible), Necrozma (shiny disponible), Stakataka (shiny disponible), Blacephalon (shiny disponible), Latias (shiny disponible), Latios (shiny disponible), Cresselia (shiny disponible), Darkrai (shiny disponible), Cobalion (shiny disponible), Terrakion (shiny disponible), Virizion (shiny disponible), Zacian (Hero) (shiny disponible), Zamazenta (Hero) (shiny disponible)
-• Shadow Raids: Shadow Palkia (shiny disponible)
-• 1-Star Raids: Pikachu con gorra de Team Instinct (shiny disponible), Pikachu con gorra de Team Mystic (shiny disponible), Pikachu con gorra de Team Valor (shiny disponible), Shadow Phanpy (shiny disponible), Shadow Ralts (shiny disponible), Shadow Darumaka (shiny disponible), Shadow Mankey (shiny disponible)
-• 3-Star Raids: Shadow Scyther (shiny disponible), Shadow Hitmonchan (shiny disponible), Shadow Graveler (shiny disponible)
+• 5 Estrellas: Articuno (shiny), Zapdos (shiny), Moltres (shiny)
+• Mega Raids: Mega Lucario (shiny)
+• Shadow Raids: Shadow Palkia (shiny)
 
 🟣 Dynamax / Max Battles
-• Nada destacado hoy
+• Bulbasaur (shiny)
+• Charmander (shiny)
+• Squirtle (shiny)
+• Chikorita (shiny)
+• Cyndaquil (shiny)
+• Totodile (shiny)
+• Treecko (shiny)
+• Torchic (shiny)
+• Mudkip (shiny)
+• Turtwig (shiny)
+• Chimchar (shiny)
+• Piplup (shiny)
+• Snivy (shiny)
+• Tepig (shiny)
+• Oshawott (shiny)
+• Chespin (shiny)
+• Fennekin (shiny)
+• Froakie (shiny)
+• Rowlet (shiny)
+• Litten (shiny)
+• Popplio (shiny)
+• Grookey (shiny)
+• Scorbunny (shiny)
+• Sobble
+• Sprigatito (shiny)
+• Fuecoco (shiny)
+• Quaxly (shiny)
 
 📰 Noticias importantes
-• Pokémon GO Fest 2026: Global es GRATIS para todos los entrenadores. ¡Mega Mewtwo X y Y, y Zeraora debutan!
-• Se han liberado dos códigos promocionales para 100 Link Charges y 15 Poké Balls.
+• Ultra Unlock: Edición 10º Aniversario (21-27 de julio)
+• Celebración Especial de Aniversario de Pikachu (13-20 de julio)
+• Pokémon GO Summer Quest en Londres (1-9 de agosto)
+• Pokémon GO Fest 2026: Global con Mega Mewtwo X y Y, y Zeraora (11-12 de julio, GRATIS)
+• Esta semana en Pokémon GO: 13-19 de julio de 2026
+• Evento de Celebración del 10º Aniversario de Pokémon GO en NYC: Mewtwo en Times Square
 
 🎯 Prioridad de hoy
-• Aprovecha el último día del Pokémon GO Fest 2026: Global para capturar los Pokémon de evento y participar en las incursiones de Mega Mewtwo Y.
-• Realiza incursiones de 5 estrellas para intentar conseguir legendarios con shiny disponible.
-• Completa tareas de investigación de campo que den Pokémon con shiny disponible, especialmente los Pikachu con gorra de equipo.
-• Canjea los códigos promocionales para Link Charges y Poké Balls.
+• Participa en las incursiones de Mega Lucario para conseguir Mega Energía y la versión shiny.
+• Aprovecha el evento "Dynamax Deino durante Max Monday" si te interesa Deino.
+• Completa tareas de investigación de campo que ofrezcan Pikachus disfrazados o Pokémon shiny.
+• Disfruta de la Celebración Especial de Aniversario de Pikachu para capturar Pikachus disfrazados.
