@@ -1,44 +1,9 @@
 {
-  "generated_at_utc": "2026-07-15T16:52:20.024493+00:00",
-  "today_venezuela": "2026-07-15",
-  "today_venezuela_readable": "Wednesday 15 de July de 2026",
+  "generated_at_utc": "2026-07-16T16:49:37.909724+00:00",
+  "today_venezuela": "2026-07-16",
+  "today_venezuela_readable": "Thursday 16 de July de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "mega-lucario-in-mega-raids-july-13-2026",
-        "name": "Mega Lucario in Mega Raids - July 13",
-        "eventType": "raid-battles",
-        "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-13-2026/",
-        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-        "start": "2026-07-13T06:00:00.000",
-        "end": "2026-07-14T22:00:00.000",
-        "extraData": {
-          "raidbattles": {
-            "bosses": [
-              {
-                "name": "Mega Lucario",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png",
-                "canBeShiny": true
-              }
-            ],
-            "shinies": [
-              {
-                "name": "Lucario",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00_shiny.png"
-              },
-              {
-                "name": "Mega Lucario",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.s.icon.png"
-              }
-            ]
-          },
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "raidhour20260715",
         "name": "Kyogre Raid Hour",
@@ -639,6 +604,22 @@
         "extraData": {
           "generic": {
             "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "summer-marathon-2026",
+        "name": "Summer Marathon: Arctic Embers",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/summer-marathon-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
+        "start": "2026-08-04T10:00:00.000",
+        "end": "2026-08-10T20:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": true,
             "hasFieldResearchTasks": false
           }
         }
@@ -1302,44 +1283,8 @@
         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2024.icon.png"
       },
       {
-        "name": "Articuno",
-        "tier": "5-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "ice",
-            "image": "https://leekduck.com/assets/img/types/ice.png"
-          },
-          {
-            "name": "flying",
-            "image": "https://leekduck.com/assets/img/types/flying.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 1665,
-            "max": 1743
-          },
-          "boosted": {
-            "min": 2082,
-            "max": 2179
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "snow",
-            "image": "https://leekduck.com/assets/img/weather/snowy.png"
-          },
-          {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm144.icon.png"
-      },
-      {
-        "name": "Zapdos",
-        "tier": "5-Star Raids",
+        "name": "Alolan Raichu",
+        "tier": "3-Star Raids",
         "canBeShiny": true,
         "types": [
           {
@@ -1347,18 +1292,18 @@
             "image": "https://leekduck.com/assets/img/types/electric.png"
           },
           {
-            "name": "flying",
-            "image": "https://leekduck.com/assets/img/types/flying.png"
+            "name": "psychic",
+            "image": "https://leekduck.com/assets/img/types/psychic.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 1930,
-            "max": 2015
+            "min": 1238,
+            "max": 1306
           },
           "boosted": {
-            "min": 2413,
-            "max": 2519
+            "min": 1548,
+            "max": 1633
           }
         },
         "boostedWeather": [
@@ -1371,11 +1316,11 @@
             "image": "https://leekduck.com/assets/img/weather/windy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm145.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fALOLA.icon.png"
       },
       {
-        "name": "Moltres",
-        "tier": "5-Star Raids",
+        "name": "Hisuian Typhlosion",
+        "tier": "3-Star Raids",
         "canBeShiny": true,
         "types": [
           {
@@ -1383,18 +1328,18 @@
             "image": "https://leekduck.com/assets/img/types/fire.png"
           },
           {
-            "name": "flying",
-            "image": "https://leekduck.com/assets/img/types/flying.png"
+            "name": "ghost",
+            "image": "https://leekduck.com/assets/img/types/ghost.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 1896,
-            "max": 1980
+            "min": 1632,
+            "max": 1710
           },
           "boosted": {
-            "min": 2370,
-            "max": 2475
+            "min": 2041,
+            "max": 2138
           }
         },
         "boostedWeather": [
@@ -1403,47 +1348,107 @@
             "image": "https://leekduck.com/assets/img/weather/sunny.png"
           },
           {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
+            "name": "fog",
+            "image": "https://leekduck.com/assets/img/weather/foggy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm146.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm157.fHISUIAN.icon.png"
       },
       {
-        "name": "Mega Lucario",
-        "tier": "Mega Raids",
+        "name": "Duraludon",
+        "tier": "3-Star Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "fighting",
-            "image": "https://leekduck.com/assets/img/types/fighting.png"
-          },
-          {
             "name": "steel",
             "image": "https://leekduck.com/assets/img/types/steel.png"
+          },
+          {
+            "name": "dragon",
+            "image": "https://leekduck.com/assets/img/types/dragon.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 1469,
-            "max": 1544
+            "min": 1674,
+            "max": 1753
           },
           "boosted": {
-            "min": 1837,
-            "max": 1930
+            "min": 2092,
+            "max": 2191
           }
         },
         "boostedWeather": [
           {
-            "name": "cloudy",
-            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
-          },
-          {
             "name": "snow",
             "image": "https://leekduck.com/assets/img/weather/snowy.png"
+          },
+          {
+            "name": "windy",
+            "image": "https://leekduck.com/assets/img/weather/windy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+      },
+      {
+        "name": "Kyogre",
+        "tier": "5-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "water",
+            "image": "https://leekduck.com/assets/img/types/water.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 2260,
+            "max": 2351
+          },
+          "boosted": {
+            "min": 2825,
+            "max": 2939
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "rainy",
+            "image": "https://leekduck.com/assets/img/weather/rainy.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.icon.png"
+      },
+      {
+        "name": "Mega Sceptile",
+        "tier": "Mega Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "grass",
+            "image": "https://leekduck.com/assets/img/types/grass.png"
+          },
+          {
+            "name": "dragon",
+            "image": "https://leekduck.com/assets/img/types/dragon.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 1500,
+            "max": 1575
+          },
+          "boosted": {
+            "min": 1876,
+            "max": 1969
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "sunny",
+            "image": "https://leekduck.com/assets/img/weather/sunny.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png"
       },
       {
         "name": "Shadow Phanpy",
@@ -4941,6 +4946,12 @@
     "oficial": [],
     "gohub_events": [
       {
+        "title": "Summer Marathon: Arctic Embers Event",
+        "summary": "<p>Shiny Snom makes their Pokémon GO debuts during the Summer Marathon: Arctic Embers event! Running from Tuesday, August 4, at 10:00 a.m. to Monday, August 10, 2026, at 8:00 p.m. local time, the event features a new GO Pass, boosted Shiny rates for select Pokémon, timed research, and more. This guide covers everything you need [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/\">Summer Marathon: Arctic Embers Event</a> appeared first on <a",
+        "link": "https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/",
+        "published": "2026-07-15T16:54:46+00:00"
+      },
+      {
         "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
         "summary": "<p>During Pokémon GO Fest 2026: Global certain areas experienced issues with raids. This led to Scopely Explore turning off Team GO Rocket to help the event run smoother. Trainers experienced technical issues when attempting to join raid battles that led to them being unable to participate in raids. As a result, a special make-up raid [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/\">Pokémon GO Fest 2026: Raid Make-Up Event</a> appear",
         "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/",
@@ -4981,15 +4992,21 @@
         "summary": "<p>Costume Pikachu have made their return to Pokémon GO debut during the Special Anniversary Pikachu Celebration event! The Pokémon GO Special Anniversary Pikachu Celebration event runs from Monday, July 13, at 10:00 a.m. to Monday, July 20, 2026, at 8:00 p.m. local time. The event sees the return of Rock Star Pikachu, Pop Star Pikachu, [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/special-anniversary-pikachu-celebration-event/\">Special Anniversary Pikachu Celebration Ev",
         "link": "https://pokemongohub.net/post/event/special-anniversary-pikachu-celebration-event/",
         "published": "2026-07-13T09:33:44+00:00"
-      },
-      {
-        "title": "Pokémon GO Summer Quest",
-        "summary": "<p>To celebrate 10 years of Pokémon GO, the area around The Green at Boxpark in Shoreditch, London will be turned into a real-world Pokémon GO playground with the Pokémon GO Summer Quest event. The Green at Boxpark in Shoreditch, London, UK August 1–2 August 8–9 Free Timed Research will be available to Trainers exploring the [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-summer-quest/\">Pokémon GO Summer Quest</a> appeared first on <a href=\"https://pokemongohub.",
-        "link": "https://pokemongohub.net/post/event/pokemon-go-summer-quest/",
-        "published": "2026-07-13T09:32:49+00:00"
       }
     ],
     "gohub_news": [
+      {
+        "title": "Pokémon GO World Championships Switch to 3v3 Team Format in 2027",
+        "summary": "<p>The Pokémon Company has revealed several major changes for the 2027 Pokémon Championship Series, including a completely new format for the Pokémon GO World Championships. For the first time, the Pokémon GO World Championships will feature 3-on-3 team competition, with teams formed from the pool of individually qualified players. Dates and venues have also been [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-world-championships-switch-to-3v3-team-format-in-2027",
+        "link": "https://pokemongohub.net/post/news/pokemon-go-world-championships-switch-to-3v3-team-format-in-2027/",
+        "published": "2026-07-16T04:51:07+00:00"
+      },
+      {
+        "title": "Pokémon GO Wild Area 2026 Event Dates Announced",
+        "summary": "<p>After the hype of the 2026 Pokémon GO Fest events and the excitement of Mega Mewtwo X and Y, we are buzzing to share that the Pokémon GO Wild Area is returning in November 2026! This year there will also be two in-person Pokémon GO Wild Area events, alongside the global event. The Pokémon GO [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-wild-area-2026-event-dates-announced/\">Pokémon GO Wild Area 2026 Event Dates Announced</a> appeared first on <a href=\"https",
+        "link": "https://pokemongohub.net/post/news/pokemon-go-wild-area-2026-event-dates-announced/",
+        "published": "2026-07-15T22:56:24+00:00"
+      },
       {
         "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
         "summary": "<p>During Pokémon GO Fest 2026: Global certain areas experienced issues with raids. This led to Scopely Explore turning off Team GO Rocket to help the event run smoother. Trainers experienced technical issues when attempting to join raid battles that led to them being unable to participate in raids. As a result, a special make-up raid [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/\">Pokémon GO Fest 2026: Raid Make-Up Event</a> appear",
@@ -5001,24 +5018,42 @@
         "summary": "<p>Pokémon GO’s July 13 -19 week has us well into the season of Forever Forward! GO Fest may be over for another year, but don&#8217;t think the hype ends yet! A special anniversary Pikachu celebration takes place, and Mega Raichu X and Y debut. Plus the weekly rotating Raid Hours, Spotlight Hour, Dynamax Battles and [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/this-week-in-pokemon-go-july-13-july-19-2026/\">This week in Pokémon GO: July 13 &#8211; July 19, 2026</a> appea",
         "link": "https://pokemongohub.net/post/news/this-week-in-pokemon-go-july-13-july-19-2026/",
         "published": "2026-07-12T21:41:20+00:00"
-      },
-      {
-        "title": "Pokémon GO Fest 2026: Global Wild Spawns",
-        "summary": "<p>Pokémon GO Fest 2026: Global features a large variety of wild Pokémon across six rotating habitats, with each habitat spotlighting three different Pokémon types. While Pokémon from all three types will appear throughout each three-hour block, one type will be featured more frequently during each hour. This guide breaks down every confirmed wild spawn by [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-fest-2026-global-wild-spawns/\">Pokémon GO Fest 2026: Global ",
-        "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-global-wild-spawns/",
-        "published": "2026-07-12T09:55:53+00:00"
       }
     ],
     "leekduck_twitter": [
       {
+        "title": "Both the locations and dates are now confirmed....",
+        "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Both the locations and dates are now confirmed. <br /><br /><a href=\"https://pokemongo.com/news/save-the-date-go-wild-area-2026\" rel=\"noopener\" target=\"_blank\">https://pokemongo.com/news/save-the-date-go-wild-area-2026</a><br /><br /><a href=\"https://www.threads.net/@leekduck/post/Da1NStFDonc\" rel=\"noopener\" target=\"_blank\"><b><i class=\"emoji\"><b>🔗</b></i> Thread link</b></a> | <a href=\"http://t.me/KingCasualBot?startgroup\" rel=\"no",
+        "link": "https://t.me/LeekDuckTwitter/3140",
+        "published": "2026-07-15T23:10:53+00:00"
+      },
+      {
+        "title": "Pokémon GO Wild Area locations have leaked for Mexico City, Mexico, and Sendai, Japan, from...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3139\"><img src=\"https://cdn4.telesco.pe/file/U4dY0MAISGVmmxE57Gud8JiV7MHb1Yw7HMpI1GuJ79fPJuEbPRWntlkif7C2phAYEIs9TjZMga2TipFkBV-s1IQWxLCGZpQJdLED0TYvgS5H2kXb6CgBSMzykgb5aPuW56xEpl6jhz9nYMVlOMJQY4FurTEDCJLO-y4aaItA783zY_7bAInbgh9guRe10lmcVZ3w6uszcE5_LWiEbpAUzW92OxYn0CDN_AsvsunS76SUFAonJpntkLoyLADA3aihS7IJ87ekizcLcinIJnclOEvuYdWsLN6C6BdSsxIeIxaRC4H-NACnjHKqx4Ea0SDfeVubktnDM5uz6BsKALaoTg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3139",
+        "published": "2026-07-15T22:40:54+00:00"
+      },
+      {
+        "title": "The weekly Pokémon Spotlight Hour is set for Thursday, July 16, from 6 pm to 7 pm local time....",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3138\"><img src=\"https://cdn4.telesco.pe/file/LDeRQPltSUDHJr1yprm7kI8nMm9iCwPOlg1t7tUPLpZfGJ2BxloFJxm9Ws2PSi_iAVW2zw8osgxrweHWraoFcZEswFki_yXEmES65vrp3k7Ta9Vggxa_M41lnaoyC30QTot4lAysUVF8Sm7cLgqn-ezLN8StR7e90p1pX5yKsj1uYLR1xjzp_vB8MjPjbH4ocXVyGTwgjyvSB7c-LUKY1-Z8PSEdudHdvlnEQRYdXtN8vKB9nOfqv4vKUbuDsblLjwWsLwbxg56AI1uIr00TB5h6BYvNnimQSfCF_csdYtAVxyKsezHPQOjEgmv7snnxlRMiaR64DhIHaYQGvo5dZg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3138",
+        "published": "2026-07-15T21:10:54+00:00"
+      },
+      {
+        "title": "Shiny Snom makes its Pokémon GO debut in the GO Pass and from 5 km Eggs. Look forward to Fire- and...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3137\"><img src=\"https://cdn4.telesco.pe/file/H4gXT9jgDEfwGYbDy7A6zRPX-FG6Kx-v2Fg6RfpZ88x7TseR1i5ySMerxyq-L0y4tBjQlxomWYioLt9oEN2_7AUFDFlTGRnZOlv-EYKQYeUwJIfts2MWExU5vb1M7NfnOYwhGw273m0YzwhuBVUoxISOAgOfX9VdEmXN5v-6aE9zeGrxL5SfQDjiiCTqV6zIKFuXC06crOoYO_71VApPLNXzkf42TnCUG0Gpen1v16kK7Nrcz-eFqifbroRQSug5WY5d0XvTgO9ajuw4alnOL8Np-T5jRN6ugqkVGGSmLeh-r3Y9ztusrMFLFBNZtXDHa9BDgYo5PSf3Zfcl7YYK7w.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3137",
+        "published": "2026-07-15T17:30:54+00:00"
+      },
+      {
         "title": "The upcoming Pokémon GO Fest makeup event for some regions has been detailed. It will be a re-run...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3136\"><img src=\"https://cdn4.telesco.pe/file/JLW6p-joMs7Qk9966u8MVMUf7C3fWbjaJA61T6wCalLf1SLv3fbAo7UkOQeVcE4lD7s6XIXlwAeF56g7FUxpkhcnckApqgpUptLOGbluJd4OikAcuLWYS3hEEJcPnFd1pzIljLnekZ8v-WmLBaDYMK7NhYX9f5RF3W9ygABRpePUlByJN_zdNQS3_jVef4ntRKTp2HiodiMwVqNDJ6hJJvOZ9SN8cjNBUPvWu2dUPAJMIS7x5y1Rd-Ytqu54918y_TMQD1rQru-V0fcnlVBA0z4Jthqgi-f0lkwvzlurYI1grufIIHsEHqLWaQNbUu1tyUjYeg72DWEEJZx9OdaBiQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3136\"><img src=\"https://cdn4.telesco.pe/file/ZO6QcVBb89MP0BsyCGELC5qfMTLk8iWSOjQjuW929_pYj-VwaE3D8pAoqIVDyCcfb4mm4L0sVMHXGrpta48Loa2Yl-C1MrLnNLfbLzT6LZd0RdOURUpGio5Xd96oH7ldbVS8CRIuxWkG1lFfj3kImpMOjMXxEzvr3A3DXhn-T1P6FPSWH2sokxA6TO75lJmDiMol-7_2d3rnuOHoFv7tkvI5YR22PRQwVOqznB-_kiJZho3MUQNxbi29Xs-2sVKbPwfJ7R4A_c_MWePKAK54AhAPCNpsQuONDapJqozyOI_SewG3SEYdVymXoH3MPFpuR0aZOXNUTkcrWuF0W9aWYQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3136",
         "published": "2026-07-15T08:50:54+00:00"
       },
       {
         "title": "Mega Raichu debuts during a Super Mega Raid Day this weekend in Pokémon GO. \n\nFull Details:...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3135\"><img src=\"https://cdn4.telesco.pe/file/e7BIsWODLMke-a4AtNmxZ56vABPUgJrktTjS4IJ3HRAaopp2F-n7yqGMk0gsrPNnFNvR4zaOoHfBG7JXTHOmdFf6wYwc4PA8ry6mkAsTOejaLrkgtD1x7Fp8gRnoBiUDTRHV0HEqNO9IZV7ILLkQG-UcPP4NTN7E8II4GM3ex98mUaZX_KhS9J8y0nlggZlQJ3XLOZkjsVMKMYGwa7M4Be8oR4229q6EUjG6fORaK8vpkUr5Gd7gCDBSTE40GuCELevViR0ULFkCuW5khsIg-7ND2IUL2KHCl7n_vYJfG1qpizsNlmK5krwSqOlmY-LkUFj9NclDWGUyly70kROUhA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3135\"><img src=\"https://cdn4.telesco.pe/file/oqsl4MSB93uAwD53cyMwXNNHFRjA5lVSLvPxqNqj61NANXDn9AKxVfL-lnri_aUAG76d5JS2A5F1aM7uvD9rMGdJCT3wPqzsWD_LKdTdOCyOojXWTeAA3784z3k01c6xBJ3JPCPHdEAZPCJ2Os8NwHt1t9Yt6cgJHp3w6XowMEmOlUHtLsklO8sAP07jdKk3JwpH5WOQqC1LhiWMP8gqR69dltoAuRet-a3QJROzEiE8odrU6Edyr33r0HoibfmUdtxP4QRCcDMYnbHAPnyKahdGpcmVCcs2HYKPIdYdbJ0G2p8JjlTsxeYZd-_5Jq_VziSfxVkbKMYjHBUXXJmEcA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3135",
         "published": "2026-07-15T06:40:54+00:00"
       },
@@ -5030,33 +5065,9 @@
       },
       {
         "title": "Kyogre returns to 5-star raids in Pokémon GO from Wednesday, July 15, 2026, to Tuesday, July 21,...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3133\"><img src=\"https://cdn4.telesco.pe/file/RJf-uy2hEwLiZcbMjX7iPtRi0NPiEIkqqefujd-ZpsjJxYcw_NfMwAwwuBHifnquumxKsA70gt73BD1LfsWGNXYloEK2D7yp5y22Tf_Jth5KnSJ7V3uIeYD6HhetvBqXAdgoU77M-ZZXJS4K3Otdh8dOQYkClSN3FyIShZHFgLJ6Qso_A0Pc1lC8EowwSJzZh-c-Vi7k9ABSj9UrZtSHXEmYf33Jd2aPGSDYA5i--aLx-jquLpxnHJNadiUm-qqwZtJ-HwMJ_bOSOMy9XWeKHgdSLVE-E5bCetFdzLIVzM9p93mK-675UDDnztciTD9j1DkUiznJmOc1XGE4x0kZcg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3133\"><img src=\"https://cdn4.telesco.pe/file/c5KhdhqFyox-SbFdAriuYVIGwbqKlYXtL4KYoyO04qQAvxdjLgwqxDBRooeKJPgFT8ho0y-vbq_7Vb8VXaGx_YEJf6QkGO3LsMiWuhZrzZslgusb8By0Td4tWR6eoAKiewocADH9czpb_yENkLlH0rWy5BjFtV7R1TARP4XOHIrvZ4mKf2CAoGU1hMiG2bpemKiEkhc7EYmkDE0wCIcfITQ4jIzf6xP20NAS0ETOiZa7SzLJ5hnmUQmrD4bnO-WEX2uvpPXtlQswbi8sjfbUQNj2_0t6HTjcSTkZzYaOIO_x_cG1V0dvWWv9Op36NJ46_cL3jhSxa57Nygo324oN1g.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3133",
         "published": "2026-07-14T23:20:54+00:00"
-      },
-      {
-        "title": "Gigantamax Rillaboom returns during a Max Battle Day. Max Particle collection limit will be...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3132\"><img src=\"https://cdn4.telesco.pe/file/u1H3xbnrGSYC_zeXrdPclQUvwuKHzdvn85cEBgs89PbH26UiSk8YX2onnFYFKwDz5f-4A6AOtRi9Ol1jPZLU4gc775U8t0s6c8Yi3B0a9tdYzHTWqpQXAabTj8qXX_SYbdf9lzOG4Krbbu-U6ZdVGIr6OJCz2eOeubWOFkfUBZbchUk99AAsX3-HVM6i_ps4sqeZ5IacJro4Ex_ph32Jj5Xbf74jb5_XVx19GWEGvk3net_xc3zquDWNpAJ6KuUUzwWmCemLMNbuGjXdMld6W4JFLcIPapTuEdadcCYSxu1hhEYT3yKp6mzNtTevk5AKWiLsI9Btmppiyfgk-untBw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3132",
-        "published": "2026-07-14T20:20:57+00:00"
-      },
-      {
-        "title": "Mega Starmie debuts in a Super Mega Raid Day in Pokémon GO.\n\nTrainers can receive up to 6 free...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3131\"><img src=\"https://cdn4.telesco.pe/file/Pk10sTUrU23GMlC-VSh1M9s7QsUc0UWid-YspbTW5VLVUF2sI8zV0XMVecchaYv_vybRatk8k_N9F1YWMz8NjqBM9cLpmOYkmNy1nJw9_HGdBoedmABBNK0DC2QtnFnXTlF4v4mNJi7KoMnlfyKALsdAFWvSfpBKf1V3hqDt9MVI-Wgf1jR4UWQlb-j3pvR6t2Z-ol_NNbNwAgLbC5WUlXNh1Bud33pSut2XjsE1SMQraYgVPOC722uMLstg_hiRUz_wFYrkXoofiLnW0tZ0ofPb55MS8xGMD2Xir4k6EKXqNkpi0ydbIOAv9MapmUVCQZHQFmlnjGfd5tSm9x9fIA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3131",
-        "published": "2026-07-14T17:30:54+00:00"
-      },
-      {
-        "title": "To make up for issues with raids in certain areas during Pokémon GO Fest, there will be a special...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3130\"><img src=\"https://cdn4.telesco.pe/file/NeNqzx8X0VKURDPQHMJHcpRkQoyTAdI-VUfiEXnfQX72yiMxG3kLQIyGzLd9gMsLfRVr2xALTF4D__xVRWL3jWqpnpOXFSggaCYrSDPbYTr9jaSnqLd3icLVtDpsxRUnqKZiG0YCN4HMQyNs3IivuoTta8tszAfYmFA0OTWQiytURYrlCr7uvSUPbIH1ZyfNuKu2ib3iIDWF2ROtsJLKXGsQqlBe9AP1bgHobU__kIZZO7fnAZeJui5jRATkMhj47vYupxl8nVtTQtN0xsmnJI8Aiz_zVPU-0lebRhQzE5IJPQoeXeW_tSCr3IQuOqm7wpGdKA0IqR7qNRnQ2EKIbg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3130",
-        "published": "2026-07-14T08:50:54+00:00"
-      },
-      {
-        "title": "Arrokuda and Cramorant will debut during this year’s Water Festival in Pokémon GO&#33; \n\nLook...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3129\"><img src=\"https://cdn4.telesco.pe/file/PmybCTf0LzJp4_RVJ5GoTsn_f9vBwr2JcySHbaRXhBnwEsurqNeF9CwGOq8IRmD9f-nkc_0sHcfMg3C10ktZkdnxfRfp1CjX37QPKvEISneEUSO30Aub86dbF6VcTCVXmHlabNdstMlRc7a63jiG9MARavDbYxzhiceJTbWONQu81jzkufVuJES1mKJ2a788cqEuZCIJwnfbOnOuLBGNemRULuia38b9emTFQ95jS95271baUPbcv6zRUpKK8KMdzlHvZzfVff_utrGVLrKGbDNLMI1H8GjDzbu5qdHCYJ5GiaC5GDWjQzvTj59RNK0Ld9n1bNAT6Nm3zfZ3Lqeyvw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3129",
-        "published": "2026-07-13T20:40:54+00:00"
       }
     ]
   }
