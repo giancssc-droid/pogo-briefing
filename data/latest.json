@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-17T16:36:45.483832+00:00",
-  "today_venezuela": "2026-07-17",
-  "today_venezuela_readable": "Friday 17 de July de 2026",
+  "generated_at_utc": "2026-07-18T15:32:12.647111+00:00",
+  "today_venezuela": "2026-07-18",
+  "today_venezuela_readable": "Saturday 18 de July de 2026",
   "scrapedduck": {
     "events": [
       {
@@ -1764,6 +1764,60 @@
               "min": 369,
               "max": 402
             }
+          },
+          {
+            "name": "Pikachu wearing Calem's Hat",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_C.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "Pikachu wearing Hilbert's Hat",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_A.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "Pikachu wearing Hilda's Hat",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_A_02.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "Pikachu wearing Nate's Visor",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_B.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "Pikachu wearing Rosa's Visor",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_B_02.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "Pikachu wearing Serena's Hat",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_C_02.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
           }
         ]
       },
@@ -1787,12 +1841,57 @@
               "min": 369,
               "max": 402
             }
+          },
+          {
+            "name": "Shaymin Scarf Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2022.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
           }
         ]
       },
       {
         "text": "<span>Win 3 raids</span>",
         "rewards": [
+          {
+            "name": "Pikachu wearing a varsity jacket",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2025.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "World Championships 2022 Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2022.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "World Championships 2023 Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2023.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
+          {
+            "name": "World Championships 2024 Pikachu",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2024.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 369,
+              "max": 402
+            }
+          },
           {
             "name": "Pikachu wearing a varsity jacket",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2025.icon.png",
@@ -4935,18 +5034,6 @@
         "summary": "<p>During GO Fest trainers globally completed 45 hourly Global Challenges for the Ultra Unlock challenge, resulting in the debut of Mega Starmie in Pokémon GO! Mega Starmie will debut during a special Super Mega Raid Day event on Saturday, August 22, 2026, from 11:00 a.m. to 5:00 p.m. local time. You can look forward to [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/super-mega-starmie-raid-day/\">Super Mega Starmie Raid Day (2026): Shiny Odds, Counters &#038; Bonuses</a> a",
         "link": "https://pokemongohub.net/post/event/super-mega-starmie-raid-day/",
         "published": "2026-07-14T16:55:53+00:00"
-      },
-      {
-        "title": "National Trust x Pokémon GO Events",
-        "summary": "<p>Pokémon GO has teamed up with the National Trust in the UK to make your Pokémon adventures more interesting than ever! From historic houses and castles to gardens, parklands, and coastal landscapes, the National Trust offers countless opportunities for adventure. Trainers will be able to enjoy special Pokémon GO activities at participating National Trust locations [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/national-trust-x-pokemon-go-events/\">National Trust x Pokém",
-        "link": "https://pokemongohub.net/post/event/national-trust-x-pokemon-go-events/",
-        "published": "2026-07-14T09:38:19+00:00"
-      },
-      {
-        "title": "Pokémon GO Water Festival 2026 Guide – Arrokuda, Cramorant, Bonuses and GO Pass",
-        "summary": "<p>Arrokuda and Cramorant make their Pokémon GO debuts during the Ultra Unlock: Water Festival 2026 event! Running from Tuesday, August 18, at 10:00 a.m. to Monday, August 24, 2026, at 8:00 p.m. local time, the event features a new GO Pass, boosted Shiny rates for select Pokémon, escalating catch bonuses, and more. Water Festival also [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/water-festival-2026/\">Pokémon GO Water Festival 2026 Guide – Arrokuda, Cramorant, Bonuses an",
-        "link": "https://pokemongohub.net/post/event/water-festival-2026/",
-        "published": "2026-07-13T19:55:16+00:00"
       }
     ],
     "gohub_news": [
@@ -4977,8 +5064,20 @@
     ],
     "leekduck_twitter": [
       {
+        "title": "The Pokémon GO Fest Sunday Raids makeup event will now be global across all time zones. \n\nFull...",
+        "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">The Pokémon GO Fest Sunday Raids makeup event will now be global across all time zones. <br /><br />Full Details: <a href=\"https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/\" rel=\"noopener\" target=\"_blank\">https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/</a><br /><br /><a href=\"https://www.threads.net/@leekduck/post/Da6kxm2Doi4\" rel=\"noopener\" target=\"_blank\"><b><i class=\"emoji\"><",
+        "link": "https://t.me/LeekDuckTwitter/3144",
+        "published": "2026-07-18T01:10:53+00:00"
+      },
+      {
+        "title": "Different Costumed Pikachu are appearing during part 3 of the Special Anniversary Pikachu...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3143\"><img src=\"https://cdn4.telesco.pe/file/BTMRZJK8TbbudOi9YnJ7Z4Y8kSNTZtub-0rrNvUzI_ptqxtsRC2v735ulHiIDQRteVWIiylYuykB7njctxLvaOdSKZVfNeDWcbO3h4FyjPJBoHfwGnMuZfFypWVUMhLXzNTN1fLhxNx9jLd9kydEhIQN49qOvNj5Sa2_kWfa6bEoeIzSkTCfcEgFSrrYqYc7O42FSbMoShaK1CagRfTDUNcF46v0Nzsgr9lhUda3Fb6-FmphcXFTvS3USNJ-uXYXhIZuIRepJHE9_wS8XsrgqiBnhXIUyd65A2IWYpVaDIHnJGfxeX099B6zPsnO-cDuq1b-_nOhCOruxGa0N4fjKw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3143",
+        "published": "2026-07-17T22:00:55+00:00"
+      },
+      {
         "title": "During Fire and Ice Hatch Day in Pokémon GO, Smoochum and Magby will hatch more frequently from 2...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3142\"><img src=\"https://cdn4.telesco.pe/file/ZIKP17P9E5knhSlIHpAP7Fo5lmmCTIwa0dXwxuCpZrllYC9TFBy_H8R3a8OxxKEBhPkzj-1EQ3Xb6-Am6uombnt6njo2HDv-MWSGY1NbVgm7WUSlEqVlrJF_RjMtSoesPJZtEGSedmc3CnAHNwR_w6YWeAr4BB1xT4B8V88ujZXl_mg_DAFilMWS22WEa8BrEPyWomrRtcK_wxULuxisQRzLFuks5f9cd5TAwW7Hm4yK6jdibiclNJr1Y7InoCYQarny5fBEBFwK-jWrv97NjbaNgVCLnZl-vUSugHCpnqD8hje0QYogB7JZdcPW_I9Q5vyNanD_PZx9hpPtBwvM8Q.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3142\"><img src=\"https://cdn4.telesco.pe/file/TDWHHgZRhrO2ydRKUgoUIUv0sUdH3UZdHVbAR9BoSIcuqIgArQpxGkRWsKEBdfxGcXpMnWiG12pcur1t6503c-yBzu8KIgcFFXWSNSu5PmzJQGfp7Qzn9oFDP4bPe9w18lDLLgUBq_h8DT22eMyAY6m4rtu3NJZkQ8zyvveCUt9N-Me5a-PKrr3jRVBok0CeSEz8THgm9tXDYTJRTEJgIXP_lEJf_D_QA7gaoGKw8yXKmzcw57V6EcFva25drLxb6SpSB8SBzHkjvRhFP8JDOiC4qB-tyFXyNcZ8QsPcURnzPWAwU0ZozmH9PE1s9RxxtEBB7o1IH-YwHUJL8rdJ6Q.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3142",
         "published": "2026-07-16T19:50:54+00:00"
       },
@@ -4996,33 +5095,21 @@
       },
       {
         "title": "Pokémon GO Wild Area locations have leaked for Mexico City, Mexico, and Sendai, Japan, from...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3139\"><img src=\"https://cdn4.telesco.pe/file/CErtXblek1yins0UYx3J-ROwL5FnQJPE6jj4qwHxpnqz271KauGhZ-vSQJgdgPofd-JplgDHzfPY7w8CbM4eKDWBIVUfU5OyVMm6ZS9vO-eNob7x1vr7GXqEVuXtdU1-y_-Q7MlPwPndFmonKG8MvJt_NEfuiAardyWWJ9DpRowtHL0waRyHXMmlG-uKfvipBY1VKqC3W3Bki-Kos5cqYMiesy_yYw26pthqNElEGb9XIYTTv6jdELLplsWwd9tQdbaKJe8a5r-ICwPNCYC9rHmiamY-p_zwMuuTYxw30_Zfko4wZu-R5HRp0095M8o6yW4glLtrDn4jhjnEjS-Dnw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3139\"><img src=\"https://cdn4.telesco.pe/file/bsV6Z07hkupdclHQIwsfEAbOU6Cq45LVXWrSi9tUwcHZnuREaZACtaoE6bndL7RD2Hdc72ZmLTtInUfotqS8LoYPD608jGH9EvbyPzQeM-Xjpo-eCafafCWThmSXKMxrBSbab0Wm9ydjWTyDgM1XfPLIIfH5XscjXfUNRQga6MaNkXAG9YJigLdezv0XPOZziFKuSykgrhbuLM_yu0WIhpb5yYbcVkomjFgsSF08JjgYmfyYcw20eXCilKTGJYfMx9k84G2J6EyP-qIxogh9TKXUw0OJozcuWcnGo2eghebqNXRyEy0AEI11P8efbIC1pxQ17ZATPXMCC6DUfGUS_w.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3139",
         "published": "2026-07-15T22:40:54+00:00"
       },
       {
         "title": "The weekly Pokémon Spotlight Hour is set for Thursday, July 16, from 6 pm to 7 pm local time....",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3138\"><img src=\"https://cdn4.telesco.pe/file/Z3IlaX-316Y21ebl2WJEzoh4bhigpB_QuXsPtJFDZsPCqQ6_htEmBfIQkoxgXPpRaI39EpSNFNx3a9pzakaq8eXE6e-X7FGYpzAMi9UIToB5fWDHtMIqb65fhDSTGxMJjmvF3S9r4wNYTIzwB8nS_LWAgZZhiSfljR1nE3P_7OMW6kpGXib7tvnWjyaZUZlMfOqwdLzT4nLwr-CsmLv-acZn6168EAAJdJ0Vqb46ZiOhsx6j56u4q6BHt_zAvrWJU-DjBwewzRIsdhd0RMeQuz5ZJDejaVd9QTDer25a6xMtXKffsI3AsDllVsBSLun-5Nx9O7XxU52PEgYdXGcAhA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3138\"><img src=\"https://cdn4.telesco.pe/file/L-i5LBn_ntJ0pbHvP_pVlYhfg0EJUU6jN5J0OcgtszAh4IU-1hxe7_qqiaolHXXjs0OC2FcXhKrxagKWDSrih7ynoGhOlkS7E_MHMDGPM7qXgiwkKlOmRQ8fMitdjiho_6eKfSFNjK6WGZhFra5idWLGuSKpvUcTVJDr5yjpIkak03DWdEQmpdPrWbryOhPYcS3_YuOnIKV1GYP193OXxncn_cMGpLhV227Lp2BQxUek6zTbDFqRkORmkw5ZPrruS52CTlLMSwi8I-hQ2HF8XwNwpWhnce4KqV9tiYCyMc2_TDj12JRWx4vhkz8Z2ozoSOAbEIf1JmWUXCUo54AUsQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3138",
         "published": "2026-07-15T21:10:54+00:00"
       },
       {
         "title": "Shiny Snom makes its Pokémon GO debut in the GO Pass and from 5 km Eggs. Look forward to Fire- and...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3137\"><img src=\"https://cdn4.telesco.pe/file/g0POpME2YLeUEk6F1mPKQKVybIMGpaLU6zoI5LvXPcxQMajE72DDL30bKYsBXOMmqX64ZUSJImXFvhQZxfYzr6G0J3GwiCwA5J_xsisOYGEKB_yKm4DXSXUaAO1RlUGaUkkbAVoKUGhD1eT5IqER2kpeyim-b3hf6EkAdJu3URQr8MD8MXG2ChvpT3JGPrTg99iAdFjBMK7_TZqoGiZxhVHfCl2P0eDsKqH_PivrXt0SZseUa48DdDnH5iUu65bXMbaWPzfFZm_V6wtl3veveRgR41JGhix_tKZ40NovreWPx68lQRQDk9DF1iO8pkD6CzRFAhHp3rMYiOB0NPib9Q.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3137\"><img src=\"https://cdn4.telesco.pe/file/Ju6K0Q18Hk44c-BMu4aW1oPbmOW-5dcILS4LVt4r--MFabWDfKk1isn8NKJiQKg76nu6JKxwIAdReXjg40VgVrO9zf0exjU6lm2IQQQGfp4UxgBJBF1n4bUmIIgCgMjTyWBe5DAPB-t2LBAv9htsJYoyPdYojWiVwL7_8feyGM0So8RqPr7F_0Ve7Cu0mdtBfOPwYPa2ZTXt-a3DZbpkRsB3sd2JZDC6Ta4zJd8grku0cWs16eCR3TmL-TRXrjv1DFfHQPrE_l-lzGX2-Ei-xulXgcezQzGJVundsmy7Qmt6dLph1ZSaaOJHoXDiT75g9-w0ZFeCp1UmzR1BjPMo3Q.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3137",
         "published": "2026-07-15T17:30:54+00:00"
-      },
-      {
-        "title": "The upcoming Pokémon GO Fest makeup event for some regions has been detailed. It will be a re-run...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3136\"><img src=\"https://cdn4.telesco.pe/file/Cqv0CgLC_My6N_DCxhzGbmf1aeNOOV4CtQzSsYWGNAMW8OFSeH1DvE55xBXnxsUW1bwrqptaGgkrcmBR7EGCWNL6cm-Vq-YkukXd1TuA7TGpeYOQgaIXeq2jeEiFRyVPY402YMtkgxhaowMLlkuf3hYO9RlqUM6Mw0Ghudp-qBhcVtKIkSU-1sTpUepSo1izuecKSrJHgpTy-iPiuz2sa5Jn4nNpzq335OYVBmqMNr7eF9FTjhnHjrbwz7adGnqw95TkeWQ3fwhSzanGKdH0R25XOrtWDbZxxSDxEJ9M9vg6xFM_goKqZ0Ump3akMa2K2oNnSf-bJ4fO_Vvq6J_ycA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3136",
-        "published": "2026-07-15T08:50:54+00:00"
-      },
-      {
-        "title": "Mega Raichu debuts during a Super Mega Raid Day this weekend in Pokémon GO. \n\nFull Details:...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3135\"><img src=\"https://cdn4.telesco.pe/file/QX5_sqzdbvoiYzxTT6pJiBQ7XIfkvst7IASxbwMKCohosFbSkDsGSHvnGZYTHq9tMzyZs0uQK90rOpnlRwRPGy3q54Txpp-A4xotf9fFmzXyWpEYfD69aPzIGMJzFI63NkOE_v-5ehYq-wPIayO_RN0f_HZOtubS9HkwW7FJ7KhR8CVyBRJiEyBos53uiSftVpDHqkPIQW_N0rrE6pvzyWbRjoKsMG6dl69Dzh4XtWo7mUOxJ0G067aQCFKygaV5LIo_qJ_7U7ZHIaVaTthd1vcaP5AWqzfiPppDt2lAIuUWUKbIxlJvFGoiaRxk2jwry_8UqzY8s0xaskDA_3kcRQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3135",
-        "published": "2026-07-15T06:40:54+00:00"
       }
     ]
   }
