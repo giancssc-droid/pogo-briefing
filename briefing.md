@@ -1,37 +1,31 @@
-📅 Pokémon GO - 20 de julio de 2026
+📅 Pokémon GO - Tuesday 21 de July de 2026
 
 🎉 Eventos activos
-• Special Anniversary Pikachu Celebration (hasta hoy a las 8 PM VET)
-• Dynamax Trubbish during Max Monday (hasta hoy a las 9 PM VET)
-• Master League y Retro Cup: Great League Edition (hasta mañana a las 4 PM VET)
-• Kyogre en incursiones de 5 estrellas (hasta mañana a las 6 PM VET)
-• Mega Sceptile en Mega Incursiones (hasta mañana a las 6 PM VET)
+• Happy Birthday, Professor Willow!: hasta hoy 21 de julio a las 8:00 p.m.
+• Ultra Unlock: 10th Anniversary Edition: hasta el 27 de julio a las 8:00 p.m.
+• Temporada Forever Forward: hasta el 8 de septiembre a las 10:00 a.m.
 
-Próximos eventos:
-• Happy Birthday, Professor Willow! (comienza mañana a las 6 AM VET)
-• Ultra Unlock: 10th Anniversary Edition (comienza mañana a las 6 AM VET)
+🎉 Próximos eventos
+• Ozone Ascent: comienza el 25 de julio a las 10:00 a.m.
+• GO Fest 2026 Sunday Raid Makeup: comienza el 26 de julio a las 10:00 a.m.
 
 ⚔️ Raids activas
-• 5 estrellas: Kyogre (puede ser shiny)
-• Mega Incursiones: Mega Sceptile (puede ser shiny)
-• 3 estrellas: Alolan Raichu (puede ser shiny), Hisuian Typhlosion (puede ser shiny), Duraludon (puede ser shiny)
-• Incursiones Oscuras: Shadow Palkia (puede ser shiny), Shadow Scyther (puede ser shiny), Shadow Hitmonchan (puede ser shiny), Shadow Graveler (puede ser shiny)
+• 5 Estrellas: Kyogre (puede ser shiny)
+• Mega Raids: Mega Sceptile (puede ser shiny)
+• Shadow Raids: Shadow Palkia (puede ser shiny)
+• 3 Estrellas: Alolan Raichu (puede ser shiny), Hisuian Typhlosion (puede ser shiny), Duraludon (puede ser shiny)
+• 1 Estrella: Jangmo-o (puede ser shiny)
 
 🟣 Dynamax / Max Battles
-• Bulbasaur, Charmander, Squirtle, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip, Turtwig, Chimchar, Piplup, Snivy, Tepig, Oshawott, Chespin, Fennekin, Froakie, Rowlet, Litten, Popplio, Grookey, Scorbunny, Sobble, Sprigatito, Fuecoco, Quaxly (en huevos de 1km)
-• Exeggcute, Pichu, Cleffa, Togepi, Corphish, Wynaut, Larvesta, Riolu, Mantyke, Snom, Indeedee (Macho y Hembra), Flittle (en huevos de 2km y 5km)
-• Budew, Chingling, Sableye, Tyrogue, Happiny (en huevos de 5km de Sincroaventura)
-• Galarian Meowth, Galarian Corsola, Galarian Zigzagoon, Galarian Darumaka, Galarian Stunfisk, Alolan Geodude, Alolan Diglett, Hisuian Sneasel, Hisuian Growlithe, Basculin (White Striped) (en huevos de 7km)
-• Mawile, Absol, Honedge, Charcadet, Tinkatink, Frigibax, Larvesta, Druddigon, Toxel, Bagon, Drampa, Gible (en huevos de 10km)
-• Sandile, Vullaby, Shroodle, Pancham, Salandit, Varoom (en huevos de 12km)
+• Nada destacado hoy
 
 📰 Noticias importantes
-• Evento de compensación por problemas en incursiones del GO Fest 2026 el 26 de julio.
-• Esta semana continúa la celebración del 10mo aniversario con el cumpleaños del Profesor Willow.
-• Debut de Profesor Pikachu y Pokémon iniciales con fondos especiales de 10mo aniversario.
+• El evento Ultra Unlock: 10th Anniversary Edition trae a los Pokémon iniciales con fondos especiales y bonos diarios rotativos.
+• El evento de cumpleaños del Profesor Willow trae a un Pikachu asistente y PokéMonedas en la investigación de campo.
+• Habrá un evento de compensación global por los problemas en las incursiones del GO Fest 2026.
 
 🎯 Prioridad de hoy
-• Aprovecha las últimas horas del evento Special Anniversary Pikachu Celebration.
-• Realiza incursiones de Kyogre y Mega Sceptile para conseguir sus versiones shiny.
-• Participa en las batallas de Master League y Retro Cup: Great League Edition antes de que terminen.
-• Completa tareas de investigación de campo que den Pokémon shiny o raros.
+• Aprovecha las últimas horas del evento de cumpleaños del Profesor Willow para conseguir a Pikachu asistente.
+• Haz incursiones de Kyogre y Mega Sceptile antes de que roten.
+• Completa las tareas de investigación de campo del Ultra Unlock para los Pokémon iniciales.
+• Participa en la Liga de Combate GO en Master League o Retro Cup: Great League Edition.
