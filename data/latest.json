@@ -1,139 +1,9 @@
 {
-  "generated_at_utc": "2026-07-21T16:59:17.753008+00:00",
-  "today_venezuela": "2026-07-21",
-  "today_venezuela_readable": "Tuesday 21 de July de 2026",
+  "generated_at_utc": "2026-07-22T16:59:40.442923+00:00",
+  "today_venezuela": "2026-07-22",
+  "today_venezuela_readable": "Wednesday 22 de July de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "special-anniversary-pikachu-celebration-2026",
-        "name": "Special Anniversary Pikachu Celebration",
-        "eventType": "event",
-        "heading": "Event",
-        "link": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
-        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
-        "start": "2026-07-13T10:00:00.000",
-        "end": "2026-07-20T20:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": true,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "max-mondays-2026-07-20",
-        "name": "Dynamax Trubbish during Max Monday",
-        "eventType": "max-mondays",
-        "heading": "Max Mondays",
-        "link": "https://leekduck.com/events/max-mondays-2026-07-20/",
-        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-        "start": "2026-07-20T06:00:00.000",
-        "end": "2026-07-20T21:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "gbl-forever-forward_master-league_retro-cup-great-league-edition",
-        "name": "Master League and Retro Cup: Great League Edition | Forever Forward",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/gbl-forever-forward_master-league_retro-cup-great-league-edition/",
-        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-        "start": "2026-07-14T20:00:00.000Z",
-        "end": "2026-07-21T20:00:00.000Z",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "happy-birthday-professor-willow-2026",
-        "name": "Happy Birthday, Professor Willow!",
-        "eventType": "event",
-        "heading": "Event",
-        "link": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
-        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
-        "start": "2026-07-21T10:00:00.000",
-        "end": "2026-07-21T20:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "kyogre-in-5-star-raid-battles-july-2026",
-        "name": "Kyogre in 5-star Raid Battles",
-        "eventType": "raid-battles",
-        "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/",
-        "image": "https://cdn.leekduck.com/assets/img/events/kyogre.jpg",
-        "start": "2026-07-15T06:00:00.000",
-        "end": "2026-07-21T22:00:00.000",
-        "extraData": {
-          "raidbattles": {
-            "bosses": [
-              {
-                "name": "Kyogre",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png",
-                "canBeShiny": true
-              }
-            ],
-            "shinies": [
-              {
-                "name": "Kyogre",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00_shiny.png"
-              }
-            ]
-          },
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "mega-sceptile-in-mega-raids-july-2026",
-        "name": "Mega Sceptile in Mega Raids",
-        "eventType": "raid-battles",
-        "heading": "Raid Battles",
-        "link": "https://leekduck.com/events/mega-sceptile-in-mega-raids-july-2026/",
-        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-        "start": "2026-07-15T06:00:00.000",
-        "end": "2026-07-21T22:00:00.000",
-        "extraData": {
-          "raidbattles": {
-            "bosses": [
-              {
-                "name": "Mega Sceptile",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
-                "canBeShiny": true
-              }
-            ],
-            "shinies": [
-              {
-                "name": "Sceptile",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00_shiny.png"
-              },
-              {
-                "name": "Mega Sceptile",
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png"
-              }
-            ]
-          },
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "raidhour20260722",
         "name": "Solgaleo Raid Hour",
@@ -952,6 +822,22 @@
         }
       },
       {
+        "eventID": "go-pass-august-2026",
+        "name": "GO Pass: August",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
+        "start": "2026-08-04T10:00:00.000",
+        "end": "2026-09-08T10:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "gbl-forever-forward_great-league_ultra-league_master-league-mega-edition",
         "name": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
         "eventType": "go-battle-league",
@@ -970,8 +856,128 @@
     ],
     "raids": [
       {
-        "name": "Wobbuffet",
+        "name": "Professor Willow's assistant Pikachu",
         "tier": "1-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "electric",
+            "image": "https://leekduck.com/assets/img/types/electric.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 493,
+            "max": 536
+          },
+          "boosted": {
+            "min": 616,
+            "max": 670
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "rainy",
+            "image": "https://leekduck.com/assets/img/weather/rainy.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fANNIVERSARY_2026.icon.png"
+      },
+      {
+        "name": "Raticate with a Party Hat",
+        "tier": "3-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "normal",
+            "image": "https://leekduck.com/assets/img/types/normal.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 930,
+            "max": 989
+          },
+          "boosted": {
+            "min": 1163,
+            "max": 1236
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "partly cloudy",
+            "image": "https://leekduck.com/assets/img/weather/partlycloudy.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm20.cJAN_2020_NOEVOLVE.icon.png"
+      },
+      {
+        "name": "Party Hat Nidorino",
+        "tier": "3-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "poison",
+            "image": "https://leekduck.com/assets/img/types/poison.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 743,
+            "max": 796
+          },
+          "boosted": {
+            "min": 929,
+            "max": 995
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "cloudy",
+            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm33.cJAN_2020_NOEVOLVE.icon.png"
+      },
+      {
+        "name": "Gengar wearing a Party Hat",
+        "tier": "3-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "ghost",
+            "image": "https://leekduck.com/assets/img/types/ghost.png"
+          },
+          {
+            "name": "poison",
+            "image": "https://leekduck.com/assets/img/types/poison.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 1566,
+            "max": 1644
+          },
+          "boosted": {
+            "min": 1958,
+            "max": 2055
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "fog",
+            "image": "https://leekduck.com/assets/img/weather/foggy.png"
+          },
+          {
+            "name": "cloudy",
+            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_11.png"
+      },
+      {
+        "name": "Wobbuffet wearing a party hat",
+        "tier": "3-Star Raids",
         "canBeShiny": true,
         "types": [
           {
@@ -995,215 +1001,7 @@
             "image": "https://leekduck.com/assets/img/weather/windy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm202.icon.png"
-      },
-      {
-        "name": "Lileep",
-        "tier": "1-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "rock",
-            "image": "https://leekduck.com/assets/img/types/rock.png"
-          },
-          {
-            "name": "grass",
-            "image": "https://leekduck.com/assets/img/types/grass.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 686,
-            "max": 738
-          },
-          "boosted": {
-            "min": 858,
-            "max": 922
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "partly cloudy",
-            "image": "https://leekduck.com/assets/img/weather/partlycloudy.png"
-          },
-          {
-            "name": "sunny",
-            "image": "https://leekduck.com/assets/img/weather/sunny.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm345.icon.png"
-      },
-      {
-        "name": "Anorith",
-        "tier": "1-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "rock",
-            "image": "https://leekduck.com/assets/img/types/rock.png"
-          },
-          {
-            "name": "bug",
-            "image": "https://leekduck.com/assets/img/types/bug.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 817,
-            "max": 874
-          },
-          "boosted": {
-            "min": 1022,
-            "max": 1092
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "partly cloudy",
-            "image": "https://leekduck.com/assets/img/weather/partlycloudy.png"
-          },
-          {
-            "name": "rainy",
-            "image": "https://leekduck.com/assets/img/weather/rainy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm347.icon.png"
-      },
-      {
-        "name": "Jangmo-o",
-        "tier": "1-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "dragon",
-            "image": "https://leekduck.com/assets/img/types/dragon.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 510,
-            "max": 553
-          },
-          "boosted": {
-            "min": 637,
-            "max": 692
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png"
-      },
-      {
-        "name": "Alolan Raichu",
-        "tier": "3-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "electric",
-            "image": "https://leekduck.com/assets/img/types/electric.png"
-          },
-          {
-            "name": "psychic",
-            "image": "https://leekduck.com/assets/img/types/psychic.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 1238,
-            "max": 1306
-          },
-          "boosted": {
-            "min": 1548,
-            "max": 1633
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "rainy",
-            "image": "https://leekduck.com/assets/img/weather/rainy.png"
-          },
-          {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fALOLA.icon.png"
-      },
-      {
-        "name": "Hisuian Typhlosion",
-        "tier": "3-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "fire",
-            "image": "https://leekduck.com/assets/img/types/fire.png"
-          },
-          {
-            "name": "ghost",
-            "image": "https://leekduck.com/assets/img/types/ghost.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 1632,
-            "max": 1710
-          },
-          "boosted": {
-            "min": 2041,
-            "max": 2138
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "sunny",
-            "image": "https://leekduck.com/assets/img/weather/sunny.png"
-          },
-          {
-            "name": "fog",
-            "image": "https://leekduck.com/assets/img/weather/foggy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm157.fHISUIAN.icon.png"
-      },
-      {
-        "name": "Duraludon",
-        "tier": "3-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "steel",
-            "image": "https://leekduck.com/assets/img/types/steel.png"
-          },
-          {
-            "name": "dragon",
-            "image": "https://leekduck.com/assets/img/types/dragon.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 1674,
-            "max": 1753
-          },
-          "boosted": {
-            "min": 2092,
-            "max": 2191
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "snow",
-            "image": "https://leekduck.com/assets/img/weather/snowy.png"
-          },
-          {
-            "name": "windy",
-            "image": "https://leekduck.com/assets/img/weather/windy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png"
       },
       {
         "name": "Kyogre",
@@ -1786,309 +1584,6 @@
           {
             "name": "Professor Willow's assistant Pikachu",
             "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fANNIVERSARY_2026.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          }
-        ]
-      },
-      {
-        "text": "<span>Catch 10 Pikachu</span>",
-        "rewards": [
-          {
-            "name": "Pikachu wearing Leaf's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_A_02.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Lyra's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B_02.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing May's Bandana",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Red's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_A.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Akari's Kerchief",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_B_02.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Brendan's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_HAT.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Dawn's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_A_02.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Ethan's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Lucas's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_A.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing May's Bandana",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Rei's Cap",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_B.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Calem's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_C.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Hilbert's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_A.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Hilda's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_A_02.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Nate's Visor",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_B.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Rosa's Visor",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2025_B_02.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing Serena's Hat",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_C_02.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          }
-        ]
-      },
-      {
-        "text": "<span>Catch 15 Pikachu</span>",
-        "rewards": [
-          {
-            "name": "Meloetta Hat Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOFEST_2021_NOEVOLVE.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Gracidea Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOFEST_2022_NOEVOLVE.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Shaymin Scarf Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2022.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          }
-        ]
-      },
-      {
-        "text": "<span>Win 3 raids</span>",
-        "rewards": [
-          {
-            "name": "Pikachu wearing a varsity jacket",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2025.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2022 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2022.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2023 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2023.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2024 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2024.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing a varsity jacket",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2025.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2022 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2022.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2023 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2023.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2024 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2024.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "Pikachu wearing a varsity jacket",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2025.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2022 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2022.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2023 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2023.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
-            }
-          },
-          {
-            "name": "World Championships 2024 Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2024.icon.png",
             "canBeShiny": true,
             "combatPower": {
               "min": 369,
@@ -5131,6 +4626,12 @@
     "oficial": [],
     "gohub_events": [
       {
+        "title": "Pokémon GO August 2026 Events",
+        "summary": "<p>The Pokémon GO August 2026&#160;events schedule is here! In July, featured Pokémon are Lunala, Shadow Altered Forme Giratina and Dynamax Magikarp. A variety of different Pokémon will be featured throughout the month, and there is a whole host of in-game events to look forward to! Here are all the major events happening in August 2026 [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-august-2026-events/\">Pokémon GO August 2026 Events</a> appeared first on <a hre",
+        "link": "https://pokemongohub.net/post/event/pokemon-go-august-2026-events/",
+        "published": "2026-07-22T16:55:45+00:00"
+      },
+      {
         "title": "Ultra Unlock: 10th Anniversary Edition",
         "summary": "<p>First Partner Pokémon with special backgrounds feature during the Ultra Unlock: 10th Anniversary event! The Pokémon GO Ultra Unlock: 10th Anniversary event runs from Tuesday, July 21, 2026, at 10:00 a.m. to Monday, July 27, 2026 at 8:00 p.m. local time. The event also sees a variety of rotating daily bonuses! This guide covers everything [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/\">Ultra Unlock: 10th Anniversary Edition</a> app",
         "link": "https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/",
@@ -5163,6 +4664,12 @@
     ],
     "gohub_news": [
       {
+        "title": "GO Pass August 2026: Latias, Bonuses and Lucky Trinket returns!",
+        "summary": "<p>Pokémon GO&#8217;s August 2026 GO Pass&#160;and GO Pass Deluxe feature exclusive rewards, including an encounter with Latias, XP and Stardust bonuses, and the return of the Lucky Trinket! This is the third and final GO Pass of the Forever Forward season. Trainers can earn GO Points by completing Pass Tasks, unlock milestone rewards through ranking [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/guide/go-pass-august-2026-latias-bonuses-and-lucky-trinket-returns/\">GO Pass Augus",
+        "link": "https://pokemongohub.net/post/guide/go-pass-august-2026-latias-bonuses-and-lucky-trinket-returns/",
+        "published": "2026-07-21T17:33:44+00:00"
+      },
+      {
         "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
         "summary": "<p>During Pokémon GO Fest 2026: Global certain areas experienced issues with raids. This led to Scopely Explore turning off Team GO Rocket to help the event run smoother. Trainers experienced technical issues when attempting to join raid battles that led to them being unable to participate in raids. As a result, a special make-up raid [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/\">Pokémon GO Fest 2026: Raid Make-Up Event</a> appear",
         "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/",
@@ -5171,8 +4678,20 @@
     ],
     "leekduck_twitter": [
       {
+        "title": "Solgaleo returns to 5-star raids in Pokémon GO from Wednesday, July 22, 2026, to Tuesday, July 28,...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3150\"><img src=\"https://cdn4.telesco.pe/file/Jdkaj6OTY56AIuH9DKi92CnCv0zuI25lMllaIjeuBoOjrmwxBaNjfhOvVUrvURGJUXWQZA1QstqYmO0FiPAz3_spmN5VyzRJIg2fshNGzHMdd1YFn9YTWxjZP5-od0rpniS29FbKiL5iyG5IDW1mxzn1i3M-2YjN1o4ECzAqCAcS1u9P0DJXx065EHZpU7lVVQOEzxk6EnGTYPFMRZ7paHt3mUw3-Fp9ZpE7GpdLLIZLyXKBQtO7fqzE6Jy6Ar9-jio4qCJ6hFvajC98HZpRU970TAQ7i2tSCMA2eQVZ9D-eaCANiZ1n8cw_7u6edv7EY20I-BkSVKlOYEZSabGrug.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3150",
+        "published": "2026-07-21T22:00:53+00:00"
+      },
+      {
+        "title": "Trainers can encounter Latias in the August GO Pass in Pokémon GO. \n\nMilestone bonuses include...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3149\"><img src=\"https://cdn4.telesco.pe/file/DpLwLFDmmHlNrA1ZigFaeJxln-8WVT7zbA2oP4UfjozvyoDoRW5qv1zeKKgPgsQKqAiwtY_NPlUbQQwnddBwyDhz4XRSR6Jyi0V1ZDL5ioLcKbexcO-GXhWMRQm0_jifdqecqlvks95EJjK3nP4s2eg3z_51aCNhyRLFsokhjNEUfKv9IwyVSysyFZ4z-d4YeSgdOIXQdkQI0d7rVOn-5ezDPjcm69T9sgLCtdvOrMyGhtHs6e1Ef8lNZ1Ep2CWka047VQ82al3Wrt_yt7NnKMshLW98sg2HE9A80rpXlQz-qTo9hA4lr7XHSKzpH2ulbNo47l1ldtASpvKmypBcgQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3149",
+        "published": "2026-07-21T20:20:53+00:00"
+      },
+      {
         "title": "Professor Willow's assistant Pikachu debuts during Ultra Unlock: 10th Anniversary Edition in...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3146?single\"><img src=\"https://cdn4.telesco.pe/file/UNfVpsFhEOawyO2JmCioU5vHHNscicPjNE-zzSFLW-t-kViGnBcqiqBjWLaCvokZMgD-8a3DQU5Pw-kqIjb7bk_abS8WchpFr1FoEoG1lDO3-sk73X0XQ2WGUib_RD_Gsk1ehZaiSBQFEGP_I_MaeF4DgIm1tf5VOftwzJuks23kZcNI_NlbEN9XqPOEu7XwnPm7x5r7e9gwu3V4l9R_2tvbhYVTsazn0tp6BwQjA7SuqL_VUgX-mpG45CFRg_Kazwj8ZX5_UEXdvvn7P0undaxFMHPqj-AlvJZRDFYzX9VSzj1hzFUur-VhqZoKVNX_9X68RyRRxe8jS3ZwkSi_-g.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3147?single\"",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3146?single\"><img src=\"https://cdn4.telesco.pe/file/WdYOPPxW8tbKYyKwK6jgC223XAsxlLHPOOAyrGml2ZoNWPWRAjylVX5gw2u40rc3L_Gk-eqU873CJpCQRo0_doAh6tWQYpuc4fKkVKjj-nYbJcaCS7a8Yrq7Xp5c8zIyrr93QJII070dzp_t3Qlb59BT7bPsKRrqGL-bR9Ol77sSYm5eZsoIaqje4qiTF6yujNt4SkD6LkMtiPhL2eo8enhjG2CalcuLUVRzeukYhxE32tzxcrQzN9FHkF8PWMZkTcsAAw-C-b0Vt3lMPCGEWHCmPX2Z6h2HYYdNukfTcJEouBkZNLJH5F_mqNjBE75jjS37pYmksUm18AH7jsniqw.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3147?single\"",
         "link": "https://t.me/LeekDuckTwitter/3146",
         "published": "2026-07-21T04:00:54+00:00"
       },
@@ -5181,18 +4700,6 @@
         "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">The 10th Anniversary Party continues this week in Pokémon GO&#33;<br /><br />Professor Willow's Assistant Pikachu makes its debut&#33;. PokéCoins will be available in Field Research during Willow's Birthday&#33;<br /><br />Full Details: <a href=\"https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/\" rel=\"noopener\" target=\"_blank\">https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/</a><br /><br /><a href=",
         "link": "https://t.me/LeekDuckTwitter/3145",
         "published": "2026-07-20T22:40:53+00:00"
-      },
-      {
-        "title": "The Pokémon GO Fest Sunday Raids makeup event will now be global across all time zones. \n\nFull...",
-        "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">The Pokémon GO Fest Sunday Raids makeup event will now be global across all time zones. <br /><br />Full Details: <a href=\"https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/\" rel=\"noopener\" target=\"_blank\">https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/</a><br /><br /><a href=\"https://www.threads.net/@leekduck/post/Da6kxm2Doi4\" rel=\"noopener\" target=\"_blank\"><b><i class=\"emoji\"><",
-        "link": "https://t.me/LeekDuckTwitter/3144",
-        "published": "2026-07-18T01:10:53+00:00"
-      },
-      {
-        "title": "Different Costumed Pikachu are appearing during part 3 of the Special Anniversary Pikachu...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3143\"><img src=\"https://cdn4.telesco.pe/file/K_GLoZfLarxTjF4e4Ial2nyPCofes70FreM0n1Fzcj9Z4ODCu6TBgevajA8BwwdtsfFsOBbcvVNrSsQGkDTnoz_9hDtyjZJrcyoovkVnp8lxOYRDNMCkJpxhtH5OKlUuRj8zzddRMJWF73wS0qpZxRLDUtqvnMrZLkVmy9iGHko4AS67TLqXxH7DAU2v2qtEW5T8csbmR_z1Ta6umNWlSslZ4xArFanziMF0un75y7OJ5zg10Oy6LnX6ViAvkiuUPofmvyHbwQ7J-ZYPm1ERThqMiCGLL12qgdYq7gB9ftmD8oBIng5dFydJ70jQt-mJUog1G61wP9oYvOiav4fYiw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3143",
-        "published": "2026-07-17T22:00:55+00:00"
       }
     ]
   }
