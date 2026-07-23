@@ -1,25 +1,9 @@
 {
-  "generated_at_utc": "2026-07-22T16:59:40.442923+00:00",
-  "today_venezuela": "2026-07-22",
-  "today_venezuela_readable": "Wednesday 22 de July de 2026",
+  "generated_at_utc": "2026-07-23T17:03:39.248045+00:00",
+  "today_venezuela": "2026-07-23",
+  "today_venezuela_readable": "Thursday 23 de July de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "raidhour20260722",
-        "name": "Solgaleo Raid Hour",
-        "eventType": "raid-hour",
-        "heading": "Raid Hour",
-        "link": "https://leekduck.com/events/raidhour20260722/",
-        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-        "start": "2026-07-22T18:00:00.000",
-        "end": "2026-07-22T19:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "pokemonspotlighthour2026-07-23",
         "name": "Eevee Spotlight Hour",
@@ -273,6 +257,22 @@
         }
       },
       {
+        "eventID": "max-mondays-2026-08-03",
+        "name": "Dynamax Magmar during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-08-03/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-08-03T06:00:00.000",
+        "end": "2026-08-03T21:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "go-pass-july-2026",
         "name": "GO Pass: July",
         "eventType": "go-pass",
@@ -402,6 +402,22 @@
         }
       },
       {
+        "eventID": "raidhour20260805",
+        "name": "Uxie, Mesprit, and Azelf Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260805/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-08-05T18:00:00.000",
+        "end": "2026-08-05T19:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "fire-and-ice-hatch-day-2026",
         "name": "Fire and Ice Hatch Day",
         "eventType": "event",
@@ -434,6 +450,22 @@
         }
       },
       {
+        "eventID": "max-mondays-2026-08-10",
+        "name": "Dynamax Beldum during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-08-10/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-08-10T06:00:00.000",
+        "end": "2026-08-10T21:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "gbl-forever-forward_ultra-league_weather-cup-great-league-edition",
         "name": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
         "eventType": "go-battle-league",
@@ -442,6 +474,106 @@
         "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
         "start": "2026-08-04T20:00:00.000Z",
         "end": "2026-08-11T20:00:00.000Z",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "mega-blaziken-in-mega-raids-august-2026",
+        "name": "Mega Blaziken in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-blaziken-in-mega-raids-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-08-05T06:00:00.000",
+        "end": "2026-08-11T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Mega Blaziken",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Blaziken",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00_shiny.png"
+              },
+              {
+                "name": "Mega Blaziken",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "uxie-mesprit-azelf-in-5-star-raid-battles-august-2026",
+        "name": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-08-05T06:00:00.000",
+        "end": "2026-08-11T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Uxie",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
+                "canBeShiny": true
+              },
+              {
+                "name": "Mesprit",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
+                "canBeShiny": true
+              },
+              {
+                "name": "Azelf",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Uxie",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png"
+              },
+              {
+                "name": "Mesprit",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png"
+              },
+              {
+                "name": "Azelf",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "raidhour20260812",
+        "name": "Groudon Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260812/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-08-12T18:00:00.000",
+        "end": "2026-08-12T19:00:00.000",
         "extraData": {
           "generic": {
             "hasSpawns": false,
@@ -726,6 +858,22 @@
         }
       },
       {
+        "eventID": "max-mondays-2026-08-17",
+        "name": "Dynamax Magikarp during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-08-17/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-08-17T06:00:00.000",
+        "end": "2026-08-17T21:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "gbl-forever-forward_master-league_evolution-cup-great-league-edition",
         "name": "Master League and Evolution Cup: Great League Edition | Forever Forward",
         "eventType": "go-battle-league",
@@ -734,6 +882,88 @@
         "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
         "start": "2026-08-11T20:00:00.000Z",
         "end": "2026-08-18T20:00:00.000Z",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "groudon-in-5-star-raid-battles-august-2026",
+        "name": "Groudon in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-08-12T06:00:00.000",
+        "end": "2026-08-18T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Groudon",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Groudon",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00_shiny.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "mega-garchomp-in-mega-raids-august-2026",
+        "name": "Mega Garchomp in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-08-12T06:00:00.000",
+        "end": "2026-08-18T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Mega Garchomp",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Garchomp",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_445_00_shiny.png"
+              },
+              {
+                "name": "Mega Garchomp",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.s.icon.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "raidhour20260819",
+        "name": "Lunala Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260819/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-08-19T18:00:00.000",
+        "end": "2026-08-19T19:00:00.000",
         "extraData": {
           "generic": {
             "hasSpawns": false,
@@ -774,6 +1004,22 @@
         }
       },
       {
+        "eventID": "max-mondays-2026-08-24",
+        "name": "Dynamax Hitmontop during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-08-24/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-08-24T06:00:00.000",
+        "end": "2026-08-24T21:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "gbl-forever-forward_great-league_scroll-cup-great-league-edition",
         "name": "Great League and Scroll Cup: Great League Edition | Forever Forward",
         "eventType": "go-battle-league",
@@ -790,6 +1036,120 @@
         }
       },
       {
+        "eventID": "lunala-in-5-star-raid-battles-august-2026",
+        "name": "Lunala in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-08-19T06:00:00.000",
+        "end": "2026-08-25T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Lunala",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Lunala",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.s.icon.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "mega-swampert-in-mega-raids-august-2026",
+        "name": "Mega Swampert in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-08-19T06:00:00.000",
+        "end": "2026-08-25T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Mega Swampert",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Swampert",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png"
+              },
+              {
+                "name": "Mega Swampert",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "raidhour20260826",
+        "name": "Regirock, Regice, and Registeel Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260826/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-08-26T18:00:00.000",
+        "end": "2026-08-26T19:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "pokemon-xp-2026-worlds",
+        "name": "Pokémon XP &amp; 2026 Worlds",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-08-25T10:00:00.000",
+        "end": "2026-08-30T20:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "max-mondays-2026-08-31",
+        "name": "Dynamax Eevee during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-08-31/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-08-31T06:00:00.000",
+        "end": "2026-08-31T21:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "gbl-forever-forward_great-league_ultra-league_master-league-split-3",
         "name": "Great League, Ultra League, and Master League | Forever Forward",
         "eventType": "go-battle-league",
@@ -798,6 +1158,22 @@
         "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
         "start": "2026-08-25T20:00:00.000Z",
         "end": "2026-09-01T20:00:00.000Z",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "raidhour20260902",
+        "name": "Regirock, Regice, and Registeel Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260902/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-09-02T18:00:00.000",
+        "end": "2026-09-02T19:00:00.000",
         "extraData": {
           "generic": {
             "hasSpawns": false,
@@ -847,6 +1223,121 @@
         "start": "2026-09-01T20:00:00.000Z",
         "end": "2026-09-08T20:00:00.000Z",
         "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "shadow-giratina-altered-in-shadow-raids-august-2026",
+        "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-08-05T06:00:00.000",
+        "end": "2026-09-08T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Giratina (Altered)",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Giratina (Altered)",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "mega-gyarados-in-mega-raids-august-2026",
+        "name": "Mega Gyarados in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-08-26T06:00:00.000",
+        "end": "2026-09-08T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Mega Gyarados",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Gyarados",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00_shiny.png"
+              },
+              {
+                "name": "Mega Gyarados",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51_shiny.png"
+              }
+            ]
+          },
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "regirock-regice-registeel-in-5-star-raid-battles-august-2026",
+        "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-08-26T06:00:00.000",
+        "end": "2026-09-08T22:00:00.000",
+        "extraData": {
+          "raidbattles": {
+            "bosses": [
+              {
+                "name": "Regirock",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
+                "canBeShiny": true
+              },
+              {
+                "name": "Regice",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
+                "canBeShiny": true
+              },
+              {
+                "name": "Registeel",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
+                "canBeShiny": true
+              }
+            ],
+            "shinies": [
+              {
+                "name": "Regirock",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00_shiny.png"
+              },
+              {
+                "name": "Regice",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png"
+              },
+              {
+                "name": "Registeel",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00_shiny.png"
+              }
+            ]
+          },
           "generic": {
             "hasSpawns": false,
             "hasFieldResearchTasks": false
@@ -1004,64 +1495,72 @@
         "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png"
       },
       {
-        "name": "Kyogre",
+        "name": "Solgaleo",
         "tier": "5-Star Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "water",
-            "image": "https://leekduck.com/assets/img/types/water.png"
+            "name": "psychic",
+            "image": "https://leekduck.com/assets/img/types/psychic.png"
+          },
+          {
+            "name": "steel",
+            "image": "https://leekduck.com/assets/img/types/steel.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 2260,
-            "max": 2351
+            "min": 2219,
+            "max": 2310
           },
           "boosted": {
-            "min": 2825,
-            "max": 2939
+            "min": 2774,
+            "max": 2887
           }
         },
         "boostedWeather": [
           {
-            "name": "rainy",
-            "image": "https://leekduck.com/assets/img/weather/rainy.png"
+            "name": "windy",
+            "image": "https://leekduck.com/assets/img/weather/windy.png"
+          },
+          {
+            "name": "snow",
+            "image": "https://leekduck.com/assets/img/weather/snowy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.icon.png"
       },
       {
-        "name": "Mega Sceptile",
+        "name": "Mega Salamence",
         "tier": "Mega Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "grass",
-            "image": "https://leekduck.com/assets/img/types/grass.png"
-          },
-          {
             "name": "dragon",
             "image": "https://leekduck.com/assets/img/types/dragon.png"
+          },
+          {
+            "name": "flying",
+            "image": "https://leekduck.com/assets/img/types/flying.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 1500,
-            "max": 1575
+            "min": 2054,
+            "max": 2142
           },
           "boosted": {
-            "min": 1876,
-            "max": 1969
+            "min": 2568,
+            "max": 2678
           }
         },
         "boostedWeather": [
           {
-            "name": "sunny",
-            "image": "https://leekduck.com/assets/img/weather/sunny.png"
+            "name": "windy",
+            "image": "https://leekduck.com/assets/img/weather/windy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.icon.png"
       },
       {
         "name": "Shadow Phanpy",
@@ -1565,15 +2064,6 @@
             "combatPower": {
               "min": 425,
               "max": 460
-            }
-          },
-          {
-            "name": "Professor Willow's assistant Pikachu",
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fANNIVERSARY_2026.icon.png",
-            "canBeShiny": true,
-            "combatPower": {
-              "min": 369,
-              "max": 402
             }
           }
         ]
@@ -4648,21 +5138,21 @@
         "summary": "<p>During Pokémon GO Fest 2026: Global certain areas experienced issues with raids. This led to Scopely Explore turning off Team GO Rocket to help the event run smoother. Trainers experienced technical issues when attempting to join raid battles that led to them being unable to participate in raids. As a result, a special make-up raid [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/\">Pokémon GO Fest 2026: Raid Make-Up Event</a> appear",
         "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/",
         "published": "2026-07-20T05:00:05+00:00"
-      },
-      {
-        "title": "This Week in Pokémon GO: July 20 – July 26, 2026",
-        "summary": "<p>Pokémon GO’s July 20-26 week has us well into the season of Forever Forward! The post-GO Fest 10th anniversary celebrations continue with Professor Willow&#8217;s birthday! Professor Pikachu debuts, along with First Partner Pokémon with special 10th anniversary backgrounds. Plus the weekly rotating Raid Hours, Spotlight Hour, Dynamax Battles and Mega Raids. ⭐Highlights Raid Boss Change [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/this-week-in-pokemon-go-july-20-july-",
-        "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-july-20-july-26-2026/",
-        "published": "2026-07-19T08:00:53+00:00"
-      },
-      {
-        "title": "Dynamax Trubbish Max Monday: Event Guide",
-        "summary": "<p>Trubbish Max Monday takes place on July 13th, 2026 when Trubbish will be appearing in power spots all day. This Max Monday is the third July Pokémon, and it is the return of Dynamax Trubbish! Dynamax Trubbish is a type which means it is only weak to and moves. It is a Tier 1 Dynamax [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/dynamax-trubbish-max-monday-event-guide/\">Dynamax Trubbish Max Monday: Event Guide</a> appeared first on <a href=\"https://pokemongohub.net\">Po",
-        "link": "https://pokemongohub.net/post/event/dynamax-trubbish-max-monday-event-guide/",
-        "published": "2026-07-19T07:54:51+00:00"
       }
     ],
     "gohub_news": [
+      {
+        "title": "Pokémon GO VP Michael Steranka on Arceus, Gym Updates, Remote Raids, and the Future of the Game",
+        "summary": "<p>During our visit to the&#160;Pokémon GO 10th Anniversary Celebration in New York City, we had the opportunity to speak with&#160;Michael Steranka, Vice President of Product at Scopely. Earlier in the event, Steranka and&#160;Ed Wu&#160;shared Scopely&#8217;s long-term vision for Pokémon GO, describing it as a &#8220;forever game&#8221; built around three core pillars for the next decade: [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-vp-michael-steranka-on-ar",
+        "link": "https://pokemongohub.net/post/news/pokemon-go-vp-michael-steranka-on-arceus-gym-updates-remote-raids-and-the-future-of-the-game/",
+        "published": "2026-07-23T15:02:42+00:00"
+      },
+      {
+        "title": "Pokémon GO Could Finally Give Special Backgrounds a Bigger Purpose",
+        "summary": "<p>A newly datamined feature in Pokémon GO suggests that Trainers may soon be able to use their Buddy Pokémon&#8217;s Location Card or Special Background as their profile background. The feature isn&#8217;t live yet, but assets and functionality have been discovered in version 421.0. If Scopely decides to release this feature, it finally gives Trainers a [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-could-finally-give-special-backgrounds-a-bigger-purpose/\">Poké",
+        "link": "https://pokemongohub.net/post/news/pokemon-go-could-finally-give-special-backgrounds-a-bigger-purpose/",
+        "published": "2026-07-23T10:32:36+00:00"
+      },
       {
         "title": "GO Pass August 2026: Latias, Bonuses and Lucky Trinket returns!",
         "summary": "<p>Pokémon GO&#8217;s August 2026 GO Pass&#160;and GO Pass Deluxe feature exclusive rewards, including an encounter with Latias, XP and Stardust bonuses, and the return of the Lucky Trinket! This is the third and final GO Pass of the Forever Forward season. Trainers can earn GO Points by completing Pass Tasks, unlock milestone rewards through ranking [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/guide/go-pass-august-2026-latias-bonuses-and-lucky-trinket-returns/\">GO Pass Augus",
@@ -4678,28 +5168,52 @@
     ],
     "leekduck_twitter": [
       {
+        "title": "The weekly Pokémon Spotlight Hour is set for Thursday, July 23, from 6 pm to 7 pm local time....",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3158\"><img src=\"https://cdn4.telesco.pe/file/Mre-EVh1vvkRv1FNuYSJLgu_B2CH6Lc005PjsiJxQNicM_gImUq5aXiTHyj-NuVhWLsAIcgqQ95_By7XqVvOFrqA5yje49XwFOtljn_TErve_nieIOJzuvlSa0K4yCMhjN5CUK9XjkrB4J6mt06OvvthCIF1LHKbEUlsqRj__F9KFfL-Khm43ZWvmo4tsvKMa_7rQPoPt1mqJtuLfNFCfM6j0705TIY6EKpLXXsFGPFr3jADsKixODq97pFPe6-51aIMwnyc79hkO3MB28I99e9YNMkkGAnbDqQEq5fvLsmh6zlCu0njMTzJ0D-l9_FOdEdakYi8SSDCFFoFd0Q95w.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3158",
+        "published": "2026-07-22T21:50:55+00:00"
+      },
+      {
+        "title": "🗓️ Events\n• Aug 1 — Gigantamax Rillaboom Max Battle Day\n• Aug 4–10 — Summer...",
+        "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\"><b>🗓️</b></i> Events<br />• Aug 1 — Gigantamax Rillaboom Max Battle Day<br />• Aug 4–10 — Summer Marathon: Arctic Embers<br />• Aug 8 — Fire and Ice Hatch Day<br />• Aug 16 — Nickit Community Day<br />• Aug 18–24 — Ultra Unlock: Water Festival<br />• Aug 22 — Ultra Unlock: Starmie Super Mega Raid Day<br />• Aug 25–30 — Pokémon XP &amp; 2026 Worlds<br /><br /><a href=\"https://www.threads.net/@leekduck/post/DbG8R_pCc",
+        "link": "https://t.me/LeekDuckTwitter/3157",
+        "published": "2026-07-22T20:31:07+00:00"
+      },
+      {
+        "title": "⏰ Raid Hours\n Wednesdays · 6:00–7:00 p.m. local time\n• Aug 5 — Uxie (Asia-Pacific),...",
+        "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\"><b>⏰</b></i> Raid Hours<br /> Wednesdays · 6:00–7:00 p.m. local time<br />• Aug 5 — Uxie (Asia-Pacific), Mesprit (Europe, Middle East, Africa, India), Azelf (Americas &amp; Greenland)<br />• Aug 12 — Groudon<br />• Aug 19 — Lunala (Shiny debut)<br />• Aug 26 — Regirock, Regice, Registeel<br /><br /><i class=\"emoji\"><b>😈</b></i> Shadow Raids<br />• Aug 5–Sep 8 — Shadow Giratina (Altered Forme) (Shadow debut)<br /><b",
+        "link": "https://t.me/LeekDuckTwitter/3156",
+        "published": "2026-07-22T20:31:02+00:00"
+      },
+      {
+        "title": "⚔️ Five-Star Raids\n Raid bosses change at 6:00 a.m. local time\n• Jul 29–Aug 4 —...",
+        "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\"><b>⚔️</b></i> Five-Star Raids<br /> Raid bosses change at 6:00 a.m. local time<br />• Jul 29–Aug 4 — Kyurem<br />• Aug 5–11 — Uxie (Asia-Pacific), Mesprit (Europe, Middle East, Africa, India), Azelf (Americas &amp; Greenland)<br />• Aug 12–18 — Groudon<br />• Aug 19–25 — Lunala (Shiny debut)<br />• Aug 26–Sep 8 — Regirock, Regice, Registeel<br /><br /><i class=\"emoji\"><b>🧬</b></i> Mega Raids<br /> Raid bosses chang",
+        "link": "https://t.me/LeekDuckTwitter/3155",
+        "published": "2026-07-22T20:30:58+00:00"
+      },
+      {
+        "title": "Here's what's coming up in August during Forward Forward in Pokémon GO&#33;\n\nTrack...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3151?single\"><img src=\"https://cdn4.telesco.pe/file/gkXdYo3X6zJ7Z2KKIq1Y9c4JAoyMmwatN59CiIq7awHzKtT_KPmU-Zjs6Q3e0-e-Qma8MdNeGLt4zb76FNEqcBZvBHwqc1NSadjCytvOvIsYYeVCPrvOsXISnipmMKLyR8kZkb_YqFPPGfqfSgfZM-CMLq8k3WI_I-91iH3AhaNBQ5Pm5JvNvBZ0nq8BvSN8Vb6sPxgqGsDxJMhFZSsuDqKwVAH1gg7poxIPuCwZaPFCjH3UbK3GyOqwEJY-o0suEZEv41dxQIpU0BWbyqrFM0RB8qEf0jXfBbk8NicO2JV7jUbaEI5VwYC263poSKjYaG7U9RxQbhULdzS1JW0CKg.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3152?single\"",
+        "link": "https://t.me/LeekDuckTwitter/3151",
+        "published": "2026-07-22T20:30:53+00:00"
+      },
+      {
         "title": "Solgaleo returns to 5-star raids in Pokémon GO from Wednesday, July 22, 2026, to Tuesday, July 28,...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3150\"><img src=\"https://cdn4.telesco.pe/file/Jdkaj6OTY56AIuH9DKi92CnCv0zuI25lMllaIjeuBoOjrmwxBaNjfhOvVUrvURGJUXWQZA1QstqYmO0FiPAz3_spmN5VyzRJIg2fshNGzHMdd1YFn9YTWxjZP5-od0rpniS29FbKiL5iyG5IDW1mxzn1i3M-2YjN1o4ECzAqCAcS1u9P0DJXx065EHZpU7lVVQOEzxk6EnGTYPFMRZ7paHt3mUw3-Fp9ZpE7GpdLLIZLyXKBQtO7fqzE6Jy6Ar9-jio4qCJ6hFvajC98HZpRU970TAQ7i2tSCMA2eQVZ9D-eaCANiZ1n8cw_7u6edv7EY20I-BkSVKlOYEZSabGrug.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3150\"><img src=\"https://cdn4.telesco.pe/file/OoJX8V5yRptONf5udXdUd56b_2xYV_USpBmlr8lJ33vExgoYqvTcpLQa6ywunhjQLRGNWfRVftyG1zLKy3Gg2RXnnWsehof4dJ4IRnjEnPbNFYGAplvQ7SIbeFDqzzTGBu416CA2LQlJ_zm2pYDtHDa1D6Z-Vliz1lXx8YCQHYdyB5CjqecpAf_HqIaGLffcu4gljOxrG02xqWig1S3ecQKJs--9h9GG5Za061C8udO6Ask8IgUCmgqEjKoB2B0KOvbzB3jk7sPOlHNGEu0F8vsNg4saKl-tcCInaj0uTzFrPcXj_PO2zr5Rq284uBtGgvA6z5Kh4B-EihTv6ciOtQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3150",
         "published": "2026-07-21T22:00:53+00:00"
       },
       {
         "title": "Trainers can encounter Latias in the August GO Pass in Pokémon GO. \n\nMilestone bonuses include...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3149\"><img src=\"https://cdn4.telesco.pe/file/DpLwLFDmmHlNrA1ZigFaeJxln-8WVT7zbA2oP4UfjozvyoDoRW5qv1zeKKgPgsQKqAiwtY_NPlUbQQwnddBwyDhz4XRSR6Jyi0V1ZDL5ioLcKbexcO-GXhWMRQm0_jifdqecqlvks95EJjK3nP4s2eg3z_51aCNhyRLFsokhjNEUfKv9IwyVSysyFZ4z-d4YeSgdOIXQdkQI0d7rVOn-5ezDPjcm69T9sgLCtdvOrMyGhtHs6e1Ef8lNZ1Ep2CWka047VQ82al3Wrt_yt7NnKMshLW98sg2HE9A80rpXlQz-qTo9hA4lr7XHSKzpH2ulbNo47l1ldtASpvKmypBcgQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3149\"><img src=\"https://cdn4.telesco.pe/file/Kv_EFyvIyVQ4eOvDmhHKXzp7v0OkjK4bReiB5z906aoyb9ll8efwSLyzfdVtgysFC_YOBgfhCmmjA-QcSz5aSalZf-VKklZQI5sJGuAH460Q3pImouBqS-uK2prUpq1c4JvcZpwcKJ81zx5V7JiGTkGRjf8HOWX1ep51SZRRVdze3NwPKLghCGcQFWQv_tfsN0EfM9AlsveYLxx4nVjQthOhcuoatYYDJ73D12iAbbzqITc-dMQQjn5O5WdOaBOSBy7Wx7xkO-VKr03xlwy8UC3Jq9_4pfmOkNl7f25e-tuqO-ghrZKDq9Xe-DYX3fm2b97KkNgkXryLryt6Z3WkfQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3149",
         "published": "2026-07-21T20:20:53+00:00"
       },
       {
         "title": "Professor Willow's assistant Pikachu debuts during Ultra Unlock: 10th Anniversary Edition in...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3146?single\"><img src=\"https://cdn4.telesco.pe/file/WdYOPPxW8tbKYyKwK6jgC223XAsxlLHPOOAyrGml2ZoNWPWRAjylVX5gw2u40rc3L_Gk-eqU873CJpCQRo0_doAh6tWQYpuc4fKkVKjj-nYbJcaCS7a8Yrq7Xp5c8zIyrr93QJII070dzp_t3Qlb59BT7bPsKRrqGL-bR9Ol77sSYm5eZsoIaqje4qiTF6yujNt4SkD6LkMtiPhL2eo8enhjG2CalcuLUVRzeukYhxE32tzxcrQzN9FHkF8PWMZkTcsAAw-C-b0Vt3lMPCGEWHCmPX2Z6h2HYYdNukfTcJEouBkZNLJH5F_mqNjBE75jjS37pYmksUm18AH7jsniqw.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3147?single\"",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3146?single\"><img src=\"https://cdn4.telesco.pe/file/Z4XVwdpJEvCKx8MfycHXJfhCuMCrhybB7IZSUab0iK79IEKkQiqfsRbckNEgrd3tLBzdRknpjqxZ6TnAY6kBl1Vlt1uhIoMfaedrXtMNT3ZyjjnGeuBZja9jtq7gg_W4YoEcoQhjLpLJOCd0SNE65Hb9R8sybwWcWIwLlpE2iI0ThzUnb4TkkxdpFI7-d_A6u93oLoAEMV_KzFJpIbh8oJD9xRYn-nFFaZ0gOo85mnpNHJ2DvflKPyx4EZzW_EdybvUVIRwXnXYRGvzlBK6-_oXJeu9ljc9CsXv6MQFjvlvkOYp3cNZYBaa1tVJAB4l6mFyT-0Ls0DIDAvGEX_r_HQ.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3147?single\"",
         "link": "https://t.me/LeekDuckTwitter/3146",
         "published": "2026-07-21T04:00:54+00:00"
-      },
-      {
-        "title": "The 10th Anniversary Party continues this week in Pokémon GO&#33;\n\nProfessor Willow's...",
-        "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">The 10th Anniversary Party continues this week in Pokémon GO&#33;<br /><br />Professor Willow's Assistant Pikachu makes its debut&#33;. PokéCoins will be available in Field Research during Willow's Birthday&#33;<br /><br />Full Details: <a href=\"https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/\" rel=\"noopener\" target=\"_blank\">https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/</a><br /><br /><a href=",
-        "link": "https://t.me/LeekDuckTwitter/3145",
-        "published": "2026-07-20T22:40:53+00:00"
       }
     ]
   }
