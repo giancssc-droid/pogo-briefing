@@ -1,38 +1,9 @@
 {
-  "generated_at_utc": "2026-07-24T17:13:41.019998+00:00",
-  "today_venezuela": "2026-07-24",
-  "today_venezuela_readable": "Friday 24 de July de 2026",
+  "generated_at_utc": "2026-07-25T15:45:56.793620+00:00",
+  "today_venezuela": "2026-07-25",
+  "today_venezuela_readable": "Saturday 25 de July de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "pokemonspotlighthour2026-07-23",
-        "name": "Eevee Spotlight Hour",
-        "eventType": "pokemon-spotlight-hour",
-        "heading": "Pokémon Spotlight Hour",
-        "link": "https://leekduck.com/events/pokemonspotlighthour2026-07-23/",
-        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-        "start": "2026-07-23T18:00:00.000",
-        "end": "2026-07-23T19:00:00.000",
-        "extraData": {
-          "spotlight": {
-            "name": "Eevee",
-            "canBeShiny": true,
-            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
-            "bonus": "2× Catch Candy",
-            "list": [
-              {
-                "name": "Eevee",
-                "canBeShiny": true,
-                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png"
-              }
-            ]
-          },
-          "generic": {
-            "hasSpawns": true,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "pokemon-go-fest-2026-global-sunday-raid-makeup",
         "name": "GO Fest 2026 Sunday Raid Makeup",
@@ -51,7 +22,7 @@
       },
       {
         "eventID": "ozone-ascent-2026",
-        "name": "Ozone Ascent",
+        "name": "Ozone Ascent - Rayquaza Timed Research",
         "eventType": "event",
         "heading": "Event",
         "link": "https://leekduck.com/events/ozone-ascent-2026/",
@@ -5123,7 +5094,7 @@
       },
       {
         "title": "Ozone Ascent: Mega Rayquaza Timed Research",
-        "summary": "<p>From Saturday, July 25, at 10:00 a.m. to Sunday, July 26, 2026, at 8:00 p.m. local time free Timed Research will be available to all Trainers that rewards a Meteorite that enables you to Mega Evolve Rayquaza! Complete the research tasks to earn a Meteorite, an encounter with Rayquaza, and more. Unlike other Mega-Evolving Pokémon, [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/\">Ozone Ascent: Mega Rayquaza Timed Research</a> app",
+        "summary": "<p>From Saturday, July 25, at 10:00 a.m. to Sunday, July 26, 2026, at 8:00 p.m. local time free Timed Research will be available to all Trainers that rewards a Meteorite that enables you to Mega Evolve Rayquaza! Ozone Ascent Free Timed Research Rewards Unlike other Mega-Evolving Pokémon, Rayquaza can’t Mega Evolve with Mega Energy alone. [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/\">Ozone Ascent: Mega Rayquaza Timed Research</a",
         "link": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/",
         "published": "2026-07-24T07:06:48+00:00"
       },
@@ -5132,18 +5103,6 @@
         "summary": "<p>The Pokémon GO August 2026&#160;events schedule is here! In July, featured Pokémon are Lunala, Shadow Altered Forme Giratina and Dynamax Magikarp. A variety of different Pokémon will be featured throughout the month, and there is a whole host of in-game events to look forward to! Here are all the major events happening in August 2026 [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-august-2026-events/\">Pokémon GO August 2026 Events</a> appeared first on <a hre",
         "link": "https://pokemongohub.net/post/event/pokemon-go-august-2026-events/",
         "published": "2026-07-22T16:55:45+00:00"
-      },
-      {
-        "title": "Ultra Unlock: 10th Anniversary Edition",
-        "summary": "<p>First Partner Pokémon with special backgrounds feature during the Ultra Unlock: 10th Anniversary event! The Pokémon GO Ultra Unlock: 10th Anniversary event runs from Tuesday, July 21, 2026, at 10:00 a.m. to Monday, July 27, 2026 at 8:00 p.m. local time. The event also sees a variety of rotating daily bonuses! This guide covers everything [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/\">Ultra Unlock: 10th Anniversary Edition</a> app",
-        "link": "https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/",
-        "published": "2026-07-21T06:00:54+00:00"
-      },
-      {
-        "title": "Professor Willow’s Birthday Research",
-        "summary": "<p>Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu! This adorable Pikachu makes their Pokémon GO debut as part of the Willow&#8217;s Birthday Research event along with GO Snapshots, raids, and more from Tuesday, July 21, 2026, from 10:00 a.m. to 8:00 p.m. local time. A new costumed Pokémon will appear in [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/professor-willows-birthday-research/\">Professor Willow’s Birthday Research</a> appear",
-        "link": "https://pokemongohub.net/post/event/professor-willows-birthday-research/",
-        "published": "2026-07-21T06:00:32+00:00"
       }
     ],
     "gohub_news": [
@@ -5174,8 +5133,14 @@
     ],
     "leekduck_twitter": [
       {
+        "title": "Encounter Rayquaza in free Timed Research in Pokémon GO&#33;\n\nTrainers will also be able to earn...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3159\"><img src=\"https://cdn4.telesco.pe/file/KulCJZrTDuOSPR6Vz2TXqxFzp7_IcHJV51QeP6D-s8ti39inlR5E4mf7_HsPJBeXcdiHTsXOc80X18aQhb9JbJE4meZjFb7LPFFA8qHgwkT2XGoLv17FTUW19TcBQjof-yI2nhD8GtjksxU5fUsGwzMDZ_YknCNG8syEHfUnE6qFvvEC8ZegtOkX_DZV-Mgo6sa9crqQ34gPy1wbHJxIjXReOeXmPnHd0dBPSdcfD6sexVSDIer8DzSvdzYZKahoUOFlghjqmxZRBNYa0xrV8x6YwgDuYZIBEa7crXuMPjXHuvjpNm6ejoqJmJrC9oyUlKVYMB88V_BHFHp15jGHEw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3159",
+        "published": "2026-07-24T21:00:54+00:00"
+      },
+      {
         "title": "The weekly Pokémon Spotlight Hour is set for Thursday, July 23, from 6 pm to 7 pm local time....",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3158\"><img src=\"https://cdn4.telesco.pe/file/lH_bh1rXGbHo_7eOU5kmLqjAxMza7rJIX5gsW7lTe2NrW5db-4VYBSJtMhn8vFYJ5mzOuTDZMHuCRNFs2SGcUbMcF-ggdIXmsesFyndSYuXrRkDI-jIsTXHqdiP4eZ6cfqrHsuNvm4iEuO59d7iwkh-Smrgl-TvG3V2LBxlmGYpb2FzQSdVIaa0n3hY7n6KimQOG3dmroedHKpK7lfgofLg8lN7W7oa1JDn0HgBB_5hylYA_mmfjqA6aMNealm8i2Xu6prmbYU9pJ71Or_r6HN03rgjx4GxlIC9eegdAaqQkPBm0XYWS4Ghl6bOxZgpwMTFMZp602BPSXnISQ0ab5A.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3158\"><img src=\"https://cdn4.telesco.pe/file/DnyGKvZAPUm56KGUf4nLoEq0LDU3-Q5xtysuAEqG4KfTB4KlmMjS6MH1pO0WkiWQeeSb85EuGP9ohifWxWg-MjiI9hU8wHjoqmQYhm4NEhvkzB9Zy4jTPoKy-LD8lmMya9OnzFdElEx2lcVaqIef2L5IgqwtuCtV_5UAn3vlHwe4lIhwMQPnmwpxX1L34UQmuBBufXCZdajA94Rm7baqdFQhX5jxUqp7ajaQyMKpB0rep2dNn9Vfyp0sySM5xgxhmPehxm0sKQpOnlOMhR-aqWhKWO5p6fRt7j7JFXIC_uPXOnEXu1YkromhN_09jTbqBcS-bSVjK4wJzWbebWayQw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3158",
         "published": "2026-07-22T21:50:55+00:00"
       },
@@ -5199,27 +5164,21 @@
       },
       {
         "title": "Here's what's coming up in August during Forward Forward in Pokémon GO&#33;\n\nTrack...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3151?single\"><img src=\"https://cdn4.telesco.pe/file/MCAXQrHSBV0mB0lqJUbzHXkIj2pdljCadDJlFoMLDfhIXhBg5UlxPp7dAk92PLQrSr-hFbTpXp48KSX3t_qI9OCvDw4HMBg6jOBXeidN04u3_BjS-klzQ9abUvwrvPF_I0S_2P56vOX78l1FYE2PHzUGYVv2LDYzgYybwnZJks0gcWRHTWhIZ-c36LibGxaKYTNK-0Le_vcfNOrcU8_8lpqabjSfyHyJqNDetbyPiOaC20WfxkZTwXy9aNFibcI8Ue-xg26CNDpYmV-a6wHfbc6KJP0pWAfpPRDkJkRh41LjRUnMvwzTzMGD02cEicj8kc8h2KqL_BJNNMSS8_VLvw.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3152?single\"",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3151?single\"><img src=\"https://cdn4.telesco.pe/file/IdojGm87RXgTxOF5PnT4vzKiacq_h78Lm4MsR1baDaIiPApd69uDOPSRrNEdtLE_s3lig1vY2yhzEsiDCwrSbVssfftzxCxAPfDfQAC1vvOdc5xHsmgN5ZWOjXrc_CE66uYsW-7faTPYkZNbFA3GN0bivlh3tqOGZP8sy8icsVKZdyD3OwJ80ukOA4YAhHTrkwN8NGGBfFpSVDTiUBXwkF6YCX0WPYLk8Eutcrqid4oA9RmFWrPNVqN0OiafD4yVeuyY85OhqwAU3oh57P0AMUMPYPmdlwyu6_csWyA7wbRyZtPlN1bQetk-HqLj1NkyjZd9JyqgR0ut57Up4Mp6dA.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3152?single\"",
         "link": "https://t.me/LeekDuckTwitter/3151",
         "published": "2026-07-22T20:30:53+00:00"
       },
       {
         "title": "Solgaleo returns to 5-star raids in Pokémon GO from Wednesday, July 22, 2026, to Tuesday, July 28,...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3150\"><img src=\"https://cdn4.telesco.pe/file/oZkpPLEa_rnQYYFNCg-3_qySYn-fJ7xcw5bSNyYCYi1u-R2d8FULSIGh0BI81OFXPUKjhSWCilgIV_7fB0l8T_Jo7u6vSWSyebeeuco6jaxUH2pUA7EPuiBQyqx79C8uh5GaAsOlSWThKwsiGbcpM4_r7gWgxrTqhjMYeCEn_n-Ps1ajFpsPtK6CJ7SeTMm6erAF52uhHDRNSMRKoweTGJIjSL5otyAOj5weCQypiX7NhICeWzb1nB6GfcuYGM7DSTbx0u3zTP1MQPI0v3dgsYr85Hg5b8c9ggN4bisVhxLRU1mglzRCiPivKhR1pJRyqEnLX0fgMOLeGMFUJzA6Sw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3150\"><img src=\"https://cdn4.telesco.pe/file/ZAOwjCPhdIgT9YlmGI9n3jNBdCxgEn2G0lehosFB_4HIRSh9o6g6i4hNnfB6UjLhHaEwxuSVd0AT9ZMSO4P0YZzAszNG7KdTET2m1VKQ81AstQ5AbyYiL3v-K-9lHaUwPi6hjFqBfBZdDMd_FlxhjUK8PygMB9aV9-qOPl6HGqc8zLma0Z3vU2_nLIkkNDLup57LApdAGW7rDXAX3KqU76pvnZES8ykIrLJKEQF2eeqXn6dl35wy4QXhxNYAWV-mEIXDWoWxxU0ootKDPvFCYV3uP_1JGCsIS-vAUS-aQ870YpQqaCN4UudeR6mDC59A9GA55cJ-Cb9opYdS3oCvXQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3150",
         "published": "2026-07-21T22:00:53+00:00"
       },
       {
         "title": "Trainers can encounter Latias in the August GO Pass in Pokémon GO. \n\nMilestone bonuses include...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3149\"><img src=\"https://cdn4.telesco.pe/file/PznW2ckrr_wNIAThC0HNsNarUsm7TBLyNXm83T1CoTegFPqCmXHUH99Ul0pvxEjTUSysFDohjyonvK4TAPLzSRT70JQ40442VAXT3ybZ8618ISR9-NfeWNC8DAWyHHQDHKtxr03T5fFQg_BYjuZEfuLGLe6t53mN-tWnzG3NZvnJXWXXGOvQXPU0KCzXgiNVrJYFeLNf5CMt2jGo7PVlIcekyuzM9sZFvKvkW8FpO4UNiArbcLlNIgafccd-jYhG1csFZQ_gsmbbyAWpuNmZ-mskCVesSBEDErve6usztNk7lLOkadYdhbffwb-qwpU2B3IMZLDF6okWcTj1gbMjDg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3149\"><img src=\"https://cdn4.telesco.pe/file/Nn6xPJ7amfWvFjDjbJWLlSke_vVb1-k9hcQ5IO9B8rkIOA0_C5bkD9ZpIT3Y0BVQBjmgA0j8CzD7M3gW7OWoKpjTi2lpXpK1s9kwUFjl8WbJ_K12-zZL5k-sOUzlgQLg0C8_Pc4iuQhHeHJqXBSHOyfFeefHQBsfwZmgMzm0LDLDtZcOP0LjxA1gY4qMfFWLvuN5KvTO3BettzDdJCU3lXSc2pXa6fjjl_HSt-dbJMBC8A88BKq_yyVvODa-LNYXM__rF12QmnHfqlIxaOVCLsdlgrnajWIl-SMv_IKyZk1KW_HljcJPPUXQ3DSqQx4aKvrjd0EhWsdR3H_wkuqYrw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3149",
         "published": "2026-07-21T20:20:53+00:00"
-      },
-      {
-        "title": "Professor Willow's assistant Pikachu debuts during Ultra Unlock: 10th Anniversary Edition in...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3146?single\"><img src=\"https://cdn4.telesco.pe/file/PYb0_wsMFinIK14mcT6YGkdFZLM4YYZvQwiZ8Lg_0AHCWKms4DWWmiK8gAkUp2qoVehIlPvUL57bSfh7yeLr9iuHhuETzWa3lraKQIwXG79zQKiXk57pEvcH6miY7xhzr54kD3YKDSMdhImqf6qEn9YRvn5E1GKeKFznHxWzeExRx7Aw_PWzpInvU6CcmIW0N4oa5aKv7krmavgtY3DTbsgK4e1rLyzz6a3PkF23zQnsw7F9tRNEqpq8WUChwaMPUBLSqqjN3XT4UytAjP3Ue2ExQnbapWoy1pdz9Pb26fLfQyWcDiPQ51-V5gKvV5x_S1oebpxDVNoJRtmL-JdrKA.jpg\" /></a><br /><a href=\"https://t.me/LeekDuckTwitter/3147?single\"",
-        "link": "https://t.me/LeekDuckTwitter/3146",
-        "published": "2026-07-21T04:00:54+00:00"
       }
     ]
   }
