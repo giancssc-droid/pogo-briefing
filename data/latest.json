@@ -1,41 +1,9 @@
 {
-  "generated_at_utc": "2026-07-27T17:59:08.083940+00:00",
-  "today_venezuela": "2026-07-27",
-  "today_venezuela_readable": "Monday 27 de July de 2026",
+  "generated_at_utc": "2026-07-28T17:11:26.894165+00:00",
+  "today_venezuela": "2026-07-28",
+  "today_venezuela_readable": "Tuesday 28 de July de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "pokemon-go-fest-2026-global-sunday-raid-makeup",
-        "name": "GO Fest 2026 Sunday Raid Makeup",
-        "eventType": "pokemon-go-fest",
-        "heading": "Pokémon GO Fest",
-        "link": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/",
-        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-26-pokemon-go-fest-2026-global-sunday-raid-makeup/pokemon-go-fest-2026-global-sunday-raid-makeup.jpg",
-        "start": "2026-07-26T10:00:00.000",
-        "end": "2026-07-26T19:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "ozone-ascent-2026",
-        "name": "Ozone Ascent - Rayquaza Timed Research",
-        "eventType": "event",
-        "heading": "Event",
-        "link": "https://leekduck.com/events/ozone-ascent-2026/",
-        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
-        "start": "2026-07-25T10:00:00.000",
-        "end": "2026-07-26T20:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "ultra-unlock-10th-anniversary-edition",
         "name": "Ultra Unlock: 10th Anniversary Edition",
@@ -1318,7 +1286,99 @@
     ],
     "raids": [
       {
-        "name": "Professor Willow's assistant Pikachu",
+        "name": "Bulbasaur",
+        "tier": "1-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "grass",
+            "image": "https://leekduck.com/assets/img/types/grass.png"
+          },
+          {
+            "name": "poison",
+            "image": "https://leekduck.com/assets/img/types/poison.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 590,
+            "max": 637
+          },
+          "boosted": {
+            "min": 737,
+            "max": 796
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "sunny",
+            "image": "https://leekduck.com/assets/img/weather/sunny.png"
+          },
+          {
+            "name": "cloudy",
+            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1.icon.png"
+      },
+      {
+        "name": "Charmander",
+        "tier": "1-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "fire",
+            "image": "https://leekduck.com/assets/img/types/fire.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 516,
+            "max": 560
+          },
+          "boosted": {
+            "min": 645,
+            "max": 700
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "sunny",
+            "image": "https://leekduck.com/assets/img/weather/sunny.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.icon.png"
+      },
+      {
+        "name": "Squirtle",
+        "tier": "1-Star Raids",
+        "canBeShiny": true,
+        "types": [
+          {
+            "name": "water",
+            "image": "https://leekduck.com/assets/img/types/water.png"
+          }
+        ],
+        "combatPower": {
+          "normal": {
+            "min": 497,
+            "max": 540
+          },
+          "boosted": {
+            "min": 621,
+            "max": 675
+          }
+        },
+        "boostedWeather": [
+          {
+            "name": "rainy",
+            "image": "https://leekduck.com/assets/img/weather/rainy.png"
+          }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm7.icon.png"
+      },
+      {
+        "name": "Pikachu",
         "tier": "1-Star Raids",
         "canBeShiny": true,
         "types": [
@@ -1343,118 +1403,94 @@
             "image": "https://leekduck.com/assets/img/weather/rainy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fANNIVERSARY_2026.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.icon.png"
       },
       {
-        "name": "Raticate with a Party Hat",
+        "name": "Lapras",
         "tier": "3-Star Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "normal",
-            "image": "https://leekduck.com/assets/img/types/normal.png"
+            "name": "water",
+            "image": "https://leekduck.com/assets/img/types/water.png"
+          },
+          {
+            "name": "ice",
+            "image": "https://leekduck.com/assets/img/types/ice.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 930,
-            "max": 989
+            "min": 1435,
+            "max": 1509
           },
           "boosted": {
-            "min": 1163,
-            "max": 1236
+            "min": 1794,
+            "max": 1886
           }
         },
         "boostedWeather": [
           {
-            "name": "partly cloudy",
-            "image": "https://leekduck.com/assets/img/weather/partlycloudy.png"
+            "name": "rainy",
+            "image": "https://leekduck.com/assets/img/weather/rainy.png"
+          },
+          {
+            "name": "snow",
+            "image": "https://leekduck.com/assets/img/weather/snowy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm20.cJAN_2020_NOEVOLVE.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm131.icon.png"
       },
       {
-        "name": "Party Hat Nidorino",
+        "name": "Vaporeon",
         "tier": "3-Star Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "poison",
-            "image": "https://leekduck.com/assets/img/types/poison.png"
+            "name": "water",
+            "image": "https://leekduck.com/assets/img/types/water.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 743,
-            "max": 796
+            "min": 1699,
+            "max": 1779
           },
           "boosted": {
-            "min": 929,
-            "max": 995
+            "min": 2124,
+            "max": 2225
           }
         },
         "boostedWeather": [
           {
-            "name": "cloudy",
-            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+            "name": "rainy",
+            "image": "https://leekduck.com/assets/img/weather/rainy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm33.cJAN_2020_NOEVOLVE.icon.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm134.icon.png"
       },
       {
-        "name": "Gengar wearing a Party Hat",
+        "name": "Dragonite",
         "tier": "3-Star Raids",
         "canBeShiny": true,
         "types": [
           {
-            "name": "ghost",
-            "image": "https://leekduck.com/assets/img/types/ghost.png"
+            "name": "dragon",
+            "image": "https://leekduck.com/assets/img/types/dragon.png"
           },
           {
-            "name": "poison",
-            "image": "https://leekduck.com/assets/img/types/poison.png"
+            "name": "flying",
+            "image": "https://leekduck.com/assets/img/types/flying.png"
           }
         ],
         "combatPower": {
           "normal": {
-            "min": 1566,
-            "max": 1644
+            "min": 2079,
+            "max": 2167
           },
           "boosted": {
-            "min": 1958,
-            "max": 2055
-          }
-        },
-        "boostedWeather": [
-          {
-            "name": "fog",
-            "image": "https://leekduck.com/assets/img/weather/foggy.png"
-          },
-          {
-            "name": "cloudy",
-            "image": "https://leekduck.com/assets/img/weather/cloudy.png"
-          }
-        ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_11.png"
-      },
-      {
-        "name": "Wobbuffet wearing a party hat",
-        "tier": "3-Star Raids",
-        "canBeShiny": true,
-        "types": [
-          {
-            "name": "psychic",
-            "image": "https://leekduck.com/assets/img/types/psychic.png"
-          }
-        ],
-        "combatPower": {
-          "normal": {
-            "min": 532,
-            "max": 586
-          },
-          "boosted": {
-            "min": 665,
-            "max": 733
+            "min": 2599,
+            "max": 2709
           }
         },
         "boostedWeather": [
@@ -1463,7 +1499,7 @@
             "image": "https://leekduck.com/assets/img/weather/windy.png"
           }
         ],
-        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png"
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.icon.png"
       },
       {
         "name": "Solgaleo",
@@ -1791,6 +1827,75 @@
       }
     ],
     "research": [
+      {
+        "text": "<span>Defeat a Team GO Rocket Grunt</span>",
+        "rewards": [
+          {
+            "name": "Morelull",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 409,
+              "max": 442
+            }
+          },
+          {
+            "name": "Impidimp",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 315,
+              "max": 346
+            }
+          }
+        ]
+      },
+      {
+        "text": "<span>Make 5 Nice Throws</span>",
+        "rewards": [
+          {
+            "name": "Morelull",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 409,
+              "max": 442
+            }
+          },
+          {
+            "name": "Impidimp",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 315,
+              "max": 346
+            }
+          }
+        ]
+      },
+      {
+        "text": "<span>Explore 1 km</span>",
+        "rewards": [
+          {
+            "name": "Morelull",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 409,
+              "max": 442
+            }
+          },
+          {
+            "name": "Impidimp",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 315,
+              "max": 346
+            }
+          }
+        ]
+      },
       {
         "text": "<span>Catch 10 Pokémon</span>",
         "rewards": [
@@ -5087,25 +5192,31 @@
     "oficial": [],
     "gohub_events": [
       {
+        "title": "Pokémon GO Fest: Mega Finale Announced",
+        "summary": "<p>Just when you thought Pokémon GO Fest was over for another year, it turns out one more global adventure is still ahead! Mark your calendars for Pokémon GO Fest 2026: Mega Finale, happening September 5th and 6th, 2026. We don&#8217;t know any details yet, but Scopely have shared the following: &#8220;The excitement of GO Fest [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/\">Pokémon GO Fest: Mega Finale Announced</a> appeared first o",
+        "link": "https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/",
+        "published": "2026-07-28T13:11:50+00:00"
+      },
+      {
+        "title": "Choose Your Path: Fairy Trail Timed Research (All Paths)",
+        "summary": "<p>Choose Your Path: Fairy Trails&#160;is a special Timed Research in Pokémon GO, available from Tuesday, July 28th, 2026, at 10:00 a.m. local time until Monday, August 3rd, 2026, at 8:00 p.m. local time. This is part of the Forever Forward Season’s Choose Your Path Timed Research series, which gives Trainers a way to customize their [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/choose-your-path-fairy-trail-timed-research-all-paths/\">Choose Your Path: Fairy Trail Timed R",
+        "link": "https://pokemongohub.net/post/event/choose-your-path-fairy-trail-timed-research-all-paths/",
+        "published": "2026-07-28T12:09:59+00:00"
+      },
+      {
         "title": "This Week in Pokémon GO: July 27 – August 2, 2026",
         "summary": "<p>Pokémon GO’s July 27-August 2 week has us well into the season of Forever Forward!&#160; We finish off the 10th Anniversary celebrations, and Gigiantamax Rillaboom makes their return, with a newly released shiny form. Plus the weekly rotating Raid Hours, Spotlight Hour, Dynamax Battles and Mega Raids. ⭐Highlights Raid Boss Change (July 29): Kyurem and [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/this-week-in-pokemon-go-july-27-august-2-2026/\">This Week in Pokémon GO:",
         "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-july-27-august-2-2026/",
         "published": "2026-07-26T11:00:29+00:00"
-      },
-      {
-        "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
-        "summary": "<p>During Pokémon GO Fest 2026: Global certain areas experienced issues with raids. This led to Scopely Explore turning off Team GO Rocket to help the event run smoother. Trainers experienced technical issues when attempting to join raid battles that led to them being unable to participate in raids. As a result, a special make-up raid [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/\">Pokémon GO Fest 2026: Raid Make-Up Event</a> appear",
-        "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/",
-        "published": "2026-07-24T11:04:05+00:00"
-      },
-      {
-        "title": "Ozone Ascent: Mega Rayquaza Timed Research",
-        "summary": "<p>From Saturday, July 25, at 10:00 a.m. to Sunday, July 26, 2026, at 8:00 p.m. local time free Timed Research will be available to all Trainers that rewards a Meteorite that enables you to Mega Evolve Rayquaza! Ozone Ascent Free Timed Research Rewards Unlike other Mega-Evolving Pokémon, Rayquaza can’t Mega Evolve with Mega Energy alone. [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/\">Ozone Ascent: Mega Rayquaza Timed Research</a",
-        "link": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/",
-        "published": "2026-07-24T07:06:48+00:00"
       }
     ],
     "gohub_news": [
+      {
+        "title": "Pokémon GO Fest: Mega Finale Announced",
+        "summary": "<p>Just when you thought Pokémon GO Fest was over for another year, it turns out one more global adventure is still ahead! Mark your calendars for Pokémon GO Fest 2026: Mega Finale, happening September 5th and 6th, 2026. We don&#8217;t know any details yet, but Scopely have shared the following: &#8220;The excitement of GO Fest [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/\">Pokémon GO Fest: Mega Finale Announced</a> appeared first o",
+        "link": "https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/",
+        "published": "2026-07-28T13:11:50+00:00"
+      },
       {
         "title": "Pokémon News Weekly Roundup: Pokémon Worlds Plushies, JLeague Collab, Japan Launches Scalping Taskforce, and More",
         "summary": "<p>This week in Pokémon news, Japan have established a taskforce to tackle scalping, adorable exclusive plushies will be available at Pokémon Worlds, Uniqlo launch a new Pokémon t-shirt range, the JLeague in Japan have collaborated with Pokémon, and more! PokémonXP&#160;and the&#160;2026 Pokémon World Championships take place August 28 to 30 in San Francisco, California. The [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-news-weekly-roundup-pokemon-worlds-plushies-",
@@ -5117,18 +5228,30 @@
         "summary": "<p>Feebas Max Monday takes place on July 27th, 2026 when Feebas will be appearing in power spots all day. This Max Monday is the fourth July Pokémon, and it is the debut of Dynamax Feebas! Dynamax Feebas is a type which means it is only weak to and moves. It is a Tier 2 Dynamax [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/dynamax-feebas-max-monday-event-guide/\">Dynamax Feebas Max Monday: Event Guide</a> appeared first on <a href=\"https://pokemongohub.net\">Pokémon GO Hub<",
         "link": "https://pokemongohub.net/post/news/dynamax-feebas-max-monday-event-guide/",
         "published": "2026-07-27T07:00:27+00:00"
-      },
-      {
-        "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
-        "summary": "<p>During Pokémon GO Fest 2026: Global certain areas experienced issues with raids. This led to Scopely Explore turning off Team GO Rocket to help the event run smoother. Trainers experienced technical issues when attempting to join raid battles that led to them being unable to participate in raids. As a result, a special make-up raid [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/\">Pokémon GO Fest 2026: Raid Make-Up Event</a> appear",
-        "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/",
-        "published": "2026-07-24T11:04:05+00:00"
       }
     ],
     "leekduck_twitter": [
       {
+        "title": "Pokémon GO Fest: Mega Finale has been announced for the weekend of September 5–6, 2026. \n\nOne...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3162\"><img src=\"https://cdn4.telesco.pe/file/TAatEAw8j2V1b2KlmOAqKcYsb5gtKun1nuphjoJVENnw23Pm8fO3RfKcFTRx2LJ-mjDB8J3eYIIig86OBGGDrcRnjjahoAjEchIfCGbRsTUsqFjXv9McYX3O1Y63QuYCcFiJAVhG2ajqjtoydx2CTdOhvZ62i-6EDGtxFPCQjdFKdEGdDMvoJFJFRya8-t0r8DCkaDz0DrKXg3ckiWPR1ns63MyZ4rAYOALO-Lw3EEsxxLn9ey1iE44yMhq7dU507cZa_Edsr9yZpow7Qw6NrmcSUb-SNgNG1HNsPRWuJKTFBF74Rr7sIwakVpo8DUmADGkaZn6KxsjDRIglhyZaKA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3162",
+        "published": "2026-07-28T13:20:55+00:00"
+      },
+      {
+        "title": "Kyurem returns to 5-star raids in Pokémon GO from Wednesday, July 29, 2026, to Tuesday, August 4,...",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3161\"><img src=\"https://cdn4.telesco.pe/file/vkU0-qIxezzEFbPVv4huNgeTCqCmaXaVGkhNBupyp8q7dl5rnmIWxx3X3WMMUfOkZjJ3c5-Nb6o5VJTzEOzqdRmDtniSXAAOQjugRhtVWQkanlYN8yD2xH7upw1lIz-VoO-b6MRDKmOmYfl0TK_77pel1Kxr2DAZXLbCpP137hYNDjQ-lRdw5G4RthH1vh8t137coYK8418iNcRk7lEzQeZ1WnoZ698eT5y7bE48ifj05PU_0RPaA8u7NAsfIY2MJnCPPkSAZFjNuQTj_rdn1qVsi1XGHjAxfIn3a8_9OlJrOCFyh2SKm0ngrOj-JCb2Ztv1OxJkh8drqu9ZOwye2A.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3161",
+        "published": "2026-07-28T07:40:54+00:00"
+      },
+      {
+        "title": "This week’s Choose Your Path features Impidimp and Morelull in Timed Research and Field Research....",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3160\"><img src=\"https://cdn4.telesco.pe/file/Hv1HlrDRSQ0RsmcrsfAIVqSDKf1Zwq1J66ImHMU7kX3Ww6v8im_nt2LKNClDZM70BX7KZOlglzRXO4qtzCs_ZL66Bos4U9BamfjKRUGT53ew_Exl-BqeA-BGhR00dyr1FSaUADuh625x1F9rxG-7EMHttcUIoQ3wJCWxBLmKwcS8zKfqs9Ccu7EOSrvDOg6ovl6Wj245A5GyYWOqhZjbSifyOpZAliv36wTLQpNs0eKZOPYOTwAFufNs35yGOz_2F-jyMZpea4YYjPRr4IYifc-hbQBPzxQqZuQPYu_mXiCGKoTVsIqv8F1knbVkKOU49ZzJAA0-VCvNe5rnMuEiIQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "link": "https://t.me/LeekDuckTwitter/3160",
+        "published": "2026-07-27T21:50:54+00:00"
+      },
+      {
         "title": "Encounter Rayquaza in free Timed Research in Pokémon GO&#33;\n\nTrainers will also be able to earn...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3159\"><img src=\"https://cdn4.telesco.pe/file/GRpfH-dCryjGD-hJIrN1vEkpVkVBBN-t2PxarEO76HPNh5LrRX7NUvaUnhaig5nFTu47v-h260n0-dQn7l6bkc_nSKwqXOroEN7JSX_vAHaRJSGM6XZhDgfDxEjjF9iEeeYBZiYmCSuM3VdHG8MhE3kD497ZMGBQ2VAH-opQ4kF4cXUApQnAt15COai3vUjyxbAyXhCf2KE98zttvDdjc3BTmt8Xlfq2DV9N1vfZwxtPMQU9H1_nGlDZC-Yh7A8jdqLEk1LDkhnC8f5CU0YhuHQ5l5cvB9gmUjETLPp6mcbDCtFvfyiHGMymeXiub0EgdxW3qhBM3ZdVJfbsa4LOEg.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
+        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3159\"><img src=\"https://cdn4.telesco.pe/file/kgP0gS-ZWTrHSvG7KGVpkGQ2MjJjUFUuykApBdl_IJvMY0ZR2o8RcZY7u1E0GHuMq_2xCOb7YvlVZWdDrf-uHozIcjjq0rz-8BYAIRwc7VYi3HdR0wg7XJXTg2ubuiGh5F3uPhiyGPRlwFP0SkL8MzINlxKiifr-_fbTlcKjMnI8nwVY1Sebpl_nyC9wjnzHllK83pX8137P1VptnzaghmVb9xJX_A_BJwS0PtlvT3iS9emfopk-rE5OMUjgkR2e4TJbWCwpWKUsEO9u_KEBmvI4gq10cVXK6VZOQUGXh46E-Dfh-ExkuoAdyJGSfKF-h370Gez7-w-TRDHng36LWw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
         "link": "https://t.me/LeekDuckTwitter/3159",
         "published": "2026-07-24T21:00:54+00:00"
       }
