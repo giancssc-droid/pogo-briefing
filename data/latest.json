@@ -1,57 +1,9 @@
 {
-  "generated_at_utc": "2026-07-28T17:11:26.894165+00:00",
-  "today_venezuela": "2026-07-28",
-  "today_venezuela_readable": "Tuesday 28 de July de 2026",
+  "generated_at_utc": "2026-07-29T16:50:59.620888+00:00",
+  "today_venezuela": "2026-07-29",
+  "today_venezuela_readable": "Wednesday 29 de July de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "ultra-unlock-10th-anniversary-edition",
-        "name": "Ultra Unlock: 10th Anniversary Edition",
-        "eventType": "event",
-        "heading": "Event",
-        "link": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
-        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-ultra-unlock-10th-anniversary-edition/ultra-unlock-10th-anniversary-edition.jpg",
-        "start": "2026-07-21T10:00:00.000",
-        "end": "2026-07-27T20:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": true,
-            "hasFieldResearchTasks": true
-          }
-        }
-      },
-      {
-        "eventID": "max-mondays-2026-07-27",
-        "name": "Dynamax Feebas during Max Monday",
-        "eventType": "max-mondays",
-        "heading": "Max Mondays",
-        "link": "https://leekduck.com/events/max-mondays-2026-07-27/",
-        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-        "start": "2026-07-27T06:00:00.000",
-        "end": "2026-07-27T21:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "gbl-forever-forward_great-league_ultra-league_master-league-split-2",
-        "name": "Great League, Ultra League, and Master League | Forever Forward",
-        "eventType": "go-battle-league",
-        "heading": "GO Battle League",
-        "link": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-2/",
-        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-        "start": "2026-07-21T20:00:00.000Z",
-        "end": "2026-07-28T20:00:00.000Z",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "mega-salamence-in-mega-raids-july-2026",
         "name": "Mega Salamence in Mega Raids",
@@ -1113,6 +1065,22 @@
         "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
         "start": "2026-09-02T18:00:00.000",
         "end": "2026-09-02T19:00:00.000",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
+        "eventID": "pokemon-go-fest-2026-mega-finale",
+        "name": "Pokémon GO Fest 2026: Mega Finale",
+        "eventType": "pokemon-go-fest",
+        "heading": "Pokémon GO Fest",
+        "link": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jpg?v2",
+        "start": "2026-09-05T10:00:00.000",
+        "end": "2026-09-06T19:00:00.000",
         "extraData": {
           "generic": {
             "hasSpawns": false,
@@ -5230,31 +5198,6 @@
         "published": "2026-07-27T07:00:27+00:00"
       }
     ],
-    "leekduck_twitter": [
-      {
-        "title": "Pokémon GO Fest: Mega Finale has been announced for the weekend of September 5–6, 2026. \n\nOne...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3162\"><img src=\"https://cdn4.telesco.pe/file/TAatEAw8j2V1b2KlmOAqKcYsb5gtKun1nuphjoJVENnw23Pm8fO3RfKcFTRx2LJ-mjDB8J3eYIIig86OBGGDrcRnjjahoAjEchIfCGbRsTUsqFjXv9McYX3O1Y63QuYCcFiJAVhG2ajqjtoydx2CTdOhvZ62i-6EDGtxFPCQjdFKdEGdDMvoJFJFRya8-t0r8DCkaDz0DrKXg3ckiWPR1ns63MyZ4rAYOALO-Lw3EEsxxLn9ey1iE44yMhq7dU507cZa_Edsr9yZpow7Qw6NrmcSUb-SNgNG1HNsPRWuJKTFBF74Rr7sIwakVpo8DUmADGkaZn6KxsjDRIglhyZaKA.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3162",
-        "published": "2026-07-28T13:20:55+00:00"
-      },
-      {
-        "title": "Kyurem returns to 5-star raids in Pokémon GO from Wednesday, July 29, 2026, to Tuesday, August 4,...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3161\"><img src=\"https://cdn4.telesco.pe/file/vkU0-qIxezzEFbPVv4huNgeTCqCmaXaVGkhNBupyp8q7dl5rnmIWxx3X3WMMUfOkZjJ3c5-Nb6o5VJTzEOzqdRmDtniSXAAOQjugRhtVWQkanlYN8yD2xH7upw1lIz-VoO-b6MRDKmOmYfl0TK_77pel1Kxr2DAZXLbCpP137hYNDjQ-lRdw5G4RthH1vh8t137coYK8418iNcRk7lEzQeZ1WnoZ698eT5y7bE48ifj05PU_0RPaA8u7NAsfIY2MJnCPPkSAZFjNuQTj_rdn1qVsi1XGHjAxfIn3a8_9OlJrOCFyh2SKm0ngrOj-JCb2Ztv1OxJkh8drqu9ZOwye2A.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3161",
-        "published": "2026-07-28T07:40:54+00:00"
-      },
-      {
-        "title": "This week’s Choose Your Path features Impidimp and Morelull in Timed Research and Field Research....",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3160\"><img src=\"https://cdn4.telesco.pe/file/Hv1HlrDRSQ0RsmcrsfAIVqSDKf1Zwq1J66ImHMU7kX3Ww6v8im_nt2LKNClDZM70BX7KZOlglzRXO4qtzCs_ZL66Bos4U9BamfjKRUGT53ew_Exl-BqeA-BGhR00dyr1FSaUADuh625x1F9rxG-7EMHttcUIoQ3wJCWxBLmKwcS8zKfqs9Ccu7EOSrvDOg6ovl6Wj245A5GyYWOqhZjbSifyOpZAliv36wTLQpNs0eKZOPYOTwAFufNs35yGOz_2F-jyMZpea4YYjPRr4IYifc-hbQBPzxQqZuQPYu_mXiCGKoTVsIqv8F1knbVkKOU49ZzJAA0-VCvNe5rnMuEiIQ.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3160",
-        "published": "2026-07-27T21:50:54+00:00"
-      },
-      {
-        "title": "Encounter Rayquaza in free Timed Research in Pokémon GO&#33;\n\nTrainers will also be able to earn...",
-        "summary": "<a href=\"https://t.me/LeekDuckTwitter/3159\"><img src=\"https://cdn4.telesco.pe/file/kgP0gS-ZWTrHSvG7KGVpkGQ2MjJjUFUuykApBdl_IJvMY0ZR2o8RcZY7u1E0GHuMq_2xCOb7YvlVZWdDrf-uHozIcjjq0rz-8BYAIRwc7VYi3HdR0wg7XJXTg2ubuiGh5F3uPhiyGPRlwFP0SkL8MzINlxKiifr-_fbTlcKjMnI8nwVY1Sebpl_nyC9wjnzHllK83pX8137P1VptnzaghmVb9xJX_A_BJwS0PtlvT3iS9emfopk-rE5OMUjgkR2e4TJbWCwpWKUsEO9u_KEBmvI4gq10cVXK6VZOQUGXh46E-Dfh-ExkuoAdyJGSfKF-h370Gez7-w-TRDHng36LWw.jpg\" /></a><br /><div class=\"tgme_widget_message_text js-message_text\" dir",
-        "link": "https://t.me/LeekDuckTwitter/3159",
-        "published": "2026-07-24T21:00:54+00:00"
-      }
-    ]
+    "leekduck_twitter": []
   }
 }
