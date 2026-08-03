@@ -1,32 +1,36 @@
-📅 Pokémon GO - Sunday 02 de August de 2026
+📅 Pokémon GO - 03 de Agosto de 2026
 
 🎉 Eventos activos
-• Choose Your Path: Fairy Trail (hasta el 03 de agosto)
-• GO Pass: July (hasta el 04 de agosto)
-• Great League and Master Premier | Forever Forward (hasta el 04 de agosto)
-• Shadow Palkia in Shadow Raids (hasta el 04 de agosto)
-• Kyurem in 5-star Raid Battles (hasta el 04 de agosto)
-• Mega Aggron in Mega Raids (hasta el 04 de agosto)
+• Choose Your Path: Fairy Trail (hasta hoy a las 8:00 PM)
+• Dynamax Magmar during Max Monday (hasta hoy a las 9:00 PM)
+• GO Pass: July (hasta mañana a las 10:00 AM)
+• Great League and Master Premier | Forever Forward (hasta mañana a las 8:00 PM)
+• Shadow Palkia in Shadow Raids (hasta mañana a las 10:00 PM)
+• Kyurem in 5-star Raid Battles (hasta mañana a las 10:00 PM)
+• Mega Aggron in Mega Raids (hasta mañana a las 10:00 PM)
+• LEGO Stores and Pokémon GO (hasta 30 de Septiembre a las 11:59 PM)
+• Forever Forward (hasta 08 de Septiembre a las 10:00 AM)
 
 🎉 Próximos eventos
-• Dynamax Magmar during Max Monday (empieza el 03 de agosto)
-• Summer Marathon: Arctic Embers (empieza el 04 de agosto)
+• Summer Marathon: Arctic Embers (empieza mañana a las 10:00 AM)
+• GO Pass: August (empieza mañana a las 10:00 AM)
 
 ⚔️ Raids activas
-• 5 Estrellas: Kyurem (variocolor disponible)
-• Mega Raids: Mega Aggron (variocolor disponible)
-• Shadow Raids: Shadow Palkia (variocolor disponible)
-• 3 Estrellas: Hisuian Samurott (variocolor disponible), Excadrill (variocolor disponible), Drampa (variocolor disponible)
-• 1 Estrella: Larvitar (variocolor disponible), Cranidos (variocolor disponible), Shieldon (variocolor disponible), Sinistea (variocolor disponible)
+• 5 estrellas: Kyurem (puede ser shiny)
+• Mega: Mega Aggron (puede ser shiny)
+• Sombra: Shadow Palkia (puede ser shiny)
+• 3 estrellas: Hisuian Samurott (puede ser shiny), Excadrill (puede ser shiny), Drampa (puede ser shiny)
+• 1 estrella: Larvitar (puede ser shiny), Cranidos (puede ser shiny), Shieldon (puede ser shiny), Sinistea (puede ser shiny)
 
 🟣 Dynamax / Max Battles
-• Bulbasaur, Charmander, Squirtle, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip, Turtwig, Chimchar, Piplup, Snivy, Tepig, Oshawott, Chespin, Fennekin, Froakie, Rowlet, Litten, Popplio, Grookey, Scorbunny, Sobble, Sprigatito, Fuecoco, Quaxly
+• Bulbasaur (shiny), Charmander (shiny), Squirtle (shiny), Chikorita (shiny), Cyndaquil (shiny), Totodile (shiny), Treecko (shiny), Torchic (shiny), Mudkip (shiny), Turtwig (shiny), Chimchar (shiny), Piplup (shiny), Snivy (shiny), Tepig (shiny), Oshawott (shiny), Chespin (shiny), Fennekin (shiny), Froakie (shiny), Rowlet (shiny), Litten (shiny), Popplio (shiny), Grookey (shiny), Scorbunny (shiny), Sobble, Sprigatito (shiny), Fuecoco (shiny), Quaxly (shiny)
 
 📰 Noticias importantes
-• Esta semana (3-9 de agosto) tendremos cambio de jefes de incursión con Uxie, Mesprit, Azelf. Además, el Summer Marathon lanza a Snom variocolor y un Día de Eclosión de Fuego y Hielo con Magby y Smoochum.
-• Gigantamax Rillaboom estuvo en Max Battle Day el 1 de agosto, ¡con su versión variocolor disponible por primera vez!
+• LEGO Stores x Pokémon GO Stamp Rally, Raids and More! (Agosto 3 - Septiembre 30)
+• This Week in Pokémon GO: August 3-9, 2026 (Resumen de eventos de la semana)
 
 🎯 Prioridad de hoy
-• Aprovecha las últimas horas para hacer incursiones de Kyurem, Mega Aggron y Shadow Palkia.
-• Completa las tareas de investigación de campo con recompensas de Pokémon variocolor.
-• Si te interesa, participa en el evento "Choose Your Path: Fairy Trail" antes de que termine.
+• Participa en las incursiones de Kyurem y Mega Aggron para aprovechar sus versiones shiny.
+• Completa tareas de investigación de campo que den Pokémon shiny como recompensa.
+• Aprovecha el evento Dynamax Magmar para capturar a Magmar.
+• Si te interesa, participa en el evento Choose Your Path: Fairy Trail antes de que termine hoy.
