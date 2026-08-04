@@ -1,41 +1,9 @@
 {
-  "generated_at_utc": "2026-08-03T18:26:11.790543+00:00",
-  "today_venezuela": "2026-08-03",
-  "today_venezuela_readable": "Monday 03 de August de 2026",
+  "generated_at_utc": "2026-08-04T13:44:09.543595+00:00",
+  "today_venezuela": "2026-08-04",
+  "today_venezuela_readable": "Tuesday 04 de August de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "choose-your-path-fairy-trail-2026",
-        "name": "Choose Your Path: Fairy Trail",
-        "eventType": "choose-your-path",
-        "heading": "Choose Your Path",
-        "link": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/",
-        "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-        "start": "2026-07-28T10:00:00.000",
-        "end": "2026-08-03T20:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
-      {
-        "eventID": "max-mondays-2026-08-03",
-        "name": "Dynamax Magmar during Max Monday",
-        "eventType": "max-mondays",
-        "heading": "Max Mondays",
-        "link": "https://leekduck.com/events/max-mondays-2026-08-03/",
-        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-        "start": "2026-08-03T06:00:00.000",
-        "end": "2026-08-03T21:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "go-pass-july-2026",
         "name": "GO Pass: July",
@@ -1820,6 +1788,88 @@
       }
     ],
     "research": [
+      {
+        "text": "<span>Explore 2 km</span>",
+        "rewards": [
+          {
+            "name": "Ponyta",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm77.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 683,
+              "max": 727
+            }
+          },
+          {
+            "name": "Slugma",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm218.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 351,
+              "max": 383
+            }
+          },
+          {
+            "name": "Snover",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm459.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 460,
+              "max": 497
+            }
+          },
+          {
+            "name": "Vanillite",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm582.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 409,
+              "max": 443
+            }
+          }
+        ]
+      },
+      {
+        "text": "<span>Spin 10 PokéStops or Gyms</span>",
+        "rewards": [
+          {
+            "name": "Ponyta",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm77.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 683,
+              "max": 727
+            }
+          },
+          {
+            "name": "Slugma",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm218.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 351,
+              "max": 383
+            }
+          },
+          {
+            "name": "Snover",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm459.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 460,
+              "max": 497
+            }
+          },
+          {
+            "name": "Vanillite",
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm582.icon.png",
+            "canBeShiny": true,
+            "combatPower": {
+              "min": 409,
+              "max": 443
+            }
+          }
+        ]
+      },
       {
         "text": "<span>Defeat a Team GO Rocket Grunt</span>",
         "rewards": [
@@ -4923,6 +4973,12 @@
     "oficial": [],
     "gohub_events": [
       {
+        "title": "Summer Marathon: Arctic Embers Event",
+        "summary": "<p>Shiny Snom makes their Pokémon GO debuts during the Summer Marathon: Arctic Embers event! Running from Tuesday, August 4, at 10:00 a.m. to Monday, August 10, 2026, at 8:00 p.m. local time, the event features a new GO Pass, boosted Shiny rates for select Pokémon, timed research, and more. This guide covers everything you need [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/\">Summer Marathon: Arctic Embers Event</a> appeared first on <a",
+        "link": "https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/",
+        "published": "2026-08-04T05:54:46+00:00"
+      },
+      {
         "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
         "summary": "<p>Trainers in the US, UK, Poland, France, Germany, and Australia can join in the Lego fun with in person activities, and special raids, research and a stamp rally in Pokémon GO, with adventures at participating LEGO Store locations between August 3 and September 30, 2026*. Visit https://www.lego.com/stores to find your nearest LEGO store! The following [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/\">LEGO Stores x Pokém",
         "link": "https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/",
@@ -4942,6 +4998,12 @@
       }
     ],
     "gohub_news": [
+      {
+        "title": "GO Pass August 2026: Latias, Bonuses and Lucky Trinket returns!",
+        "summary": "<p>Pokémon GO&#8217;s August 2026 GO Pass&#160;and GO Pass Deluxe feature exclusive rewards, including an encounter with Latias, XP and Stardust bonuses, and the return of the Lucky Trinket! This is the third and final GO Pass of the Forever Forward season. Trainers can earn GO Points by completing Pass Tasks, unlock milestone rewards through ranking [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/guide/go-pass-august-2026-latias-bonuses-and-lucky-trinket-returns/\">GO Pass Augus",
+        "link": "https://pokemongohub.net/post/guide/go-pass-august-2026-latias-bonuses-and-lucky-trinket-returns/",
+        "published": "2026-08-04T07:00:44+00:00"
+      },
       {
         "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
         "summary": "<p>Trainers in the US, UK, Poland, France, Germany, and Australia can join in the Lego fun with in person activities, and special raids, research and a stamp rally in Pokémon GO, with adventures at participating LEGO Store locations between August 3 and September 30, 2026*. Visit https://www.lego.com/stores to find your nearest LEGO store! The following [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/\">LEGO Stores x Pokém",
