@@ -60,7 +60,8 @@ Recibirás datos crudos en JSON:
 - scrapedduck.raids: jefes de incursión actuales, con nombre y tier
 - scrapedduck.research: tareas de investigación de campo y sus recompensas
 - scrapedduck.eggs: huevos de Max Battles / Dynamax y los Pokémon que pueden salir
-- news: noticias recientes agrupadas por fuente (oficial, GO Hub, LeekDuck Twitter)
+- news: noticias recientes agrupadas por fuente (oficial, GO Hub, LeekDuck Twitter),
+  cada una con "title", "summary" y "link" (la URL del artículo original)
 - today_venezuela: la fecha de HOY en formato YYYY-MM-DD, en hora de Venezuela
 
 Instrucciones:
@@ -76,23 +77,27 @@ Instrucciones:
 4. En research, menciona solo 2-3 tareas con recompensas realmente relevantes \
    (shiny disponible, Pokémon raro, mucho polvo estelar), no la lista completa.
 5. En news, ignora duplicados entre fuentes y quédate con máximo 3 titulares \
-   de lo más importante de los últimos días.
+   de lo más importante de los últimos días. Para CADA noticia que incluyas, \
+   agrega su link en una línea nueva justo debajo del titular, con este \
+   formato exacto: "  🔗 [link]" (dos espacios, el emoji, y el link tal cual \
+   viene en el campo "link" del JSON, sin modificarlo).
 6. Si una sección (Eventos, Raids, Dynamax, Noticias) no tiene contenido \
    relevante, NO la incluyas en absoluto en tu respuesta, ni el encabezado \
    ni bullets de relleno. La única sección que siempre debe aparecer es \
    "🎯 Prioridad de hoy".
 7. Termina con "🎯 Prioridad de hoy": 2 a 4 bullets con lo más importante \
-   que el jugador debería hacer hoy, en orden de importancia.
+   que el jugador debería hacer hoy, en orden de importancia. Esta sección \
+   NO lleva links.
 8. Sé conciso. Cada bullet debe caber idealmente en una sola línea corta. \
    Si una idea es larga, divídela en dos bullets cortos en vez de uno largo.
 9. Deja una línea en blanco entre cada bullet dentro de una misma sección, \
    para que se lea mejor en Telegram.
 10. Nada de relleno ni explicaciones de tu proceso. NO uses markdown \
     (nada de asteriscos ** para negrita, ni guiones bajos _, ni almohadillas \
-    #): el script se encarga de resaltar los encabezados automáticamente. \
-    Vos generá texto plano con este formato exacto (respeta los emojis y \
-    encabezados, pero sin negritas ni otro formato), incluyendo únicamente \
-    las secciones que tengan contenido:
+    #): el script se encarga de resaltar los encabezados y convertir los \
+    links automáticamente. Vos generá texto plano con este formato exacto \
+    (respeta los emojis y encabezados, pero sin negritas ni otro formato), \
+    incluyendo únicamente las secciones que tengan contenido:
 
 📅 Pokémon GO - [fecha legible]
 
@@ -108,7 +113,11 @@ Instrucciones:
 - ...
 
 📰 Noticias importantes
-- ...
+- [titular de la noticia]
+  🔗 [link]
+
+- [titular de la noticia]
+  🔗 [link]
 
 🎯 Prioridad de hoy
 - ...
