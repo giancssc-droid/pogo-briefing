@@ -1,4 +1,4 @@
-# 📅 Pogo Briefing
+# 🎮 PokeScrapy
 
 Un sistema automatizado que genera y entrega un resumen diario de Pokémon GO — eventos activos, raids que valen la pena, y noticias relevantes — directo a Telegram y a una página web, sin que el usuario tenga que revisar múltiples fuentes cada mañana.
 
@@ -61,6 +61,10 @@ Antes de esto, revisar Pokémon GO significaba pasar por Inoreader, Enzo Reader,
 ## Costo
 
 $0. La capa gratuita de Gemini, GitHub Actions para repositorios personales, GitHub Pages, Telegram y ScrapedDuck son gratuitos, y el uso de este proyecto (una ejecución corta al día) está muy por debajo de cualquier límite gratuito.
+
+## Página web
+
+**https://giancssc-droid.github.io/PokeScrapy/**
 
 ---
 
