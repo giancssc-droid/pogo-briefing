@@ -1,25 +1,9 @@
 {
-  "generated_at_utc": "2026-08-05T13:40:04.560899+00:00",
-  "today_venezuela": "2026-08-05",
-  "today_venezuela_readable": "Wednesday 05 de August de 2026",
+  "generated_at_utc": "2026-08-06T13:38:23.537060+00:00",
+  "today_venezuela": "2026-08-06",
+  "today_venezuela_readable": "Thursday 06 de August de 2026",
   "scrapedduck": {
     "events": [
-      {
-        "eventID": "raidhour20260805",
-        "name": "Uxie, Mesprit, and Azelf Raid Hour",
-        "eventType": "raid-hour",
-        "heading": "Raid Hour",
-        "link": "https://leekduck.com/events/raidhour20260805/",
-        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-        "start": "2026-08-05T18:00:00.000",
-        "end": "2026-08-05T19:00:00.000",
-        "extraData": {
-          "generic": {
-            "hasSpawns": false,
-            "hasFieldResearchTasks": false
-          }
-        }
-      },
       {
         "eventID": "pokemonspotlighthour2026-08-06",
         "name": "Delibird Spotlight Hour",
@@ -837,17 +821,33 @@
         }
       },
       {
+        "eventID": "pokemon-world-championships-2026-timed-research-twitch-drops",
+        "name": "Twitch Drops for 2026 Pokémon World Championships",
+        "eventType": "research",
+        "heading": "Research",
+        "link": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drops/2026-worlds-go-drops.jpg",
+        "start": "2026-08-28T16:00:00.000Z",
+        "end": "2026-08-31T03:00:00.000Z",
+        "extraData": {
+          "generic": {
+            "hasSpawns": false,
+            "hasFieldResearchTasks": false
+          }
+        }
+      },
+      {
         "eventID": "pokemon-xp-2026-worlds",
-        "name": "Pokémon XP &amp; 2026 Worlds",
+        "name": "PokémonXP &amp; 2026 Worlds",
         "eventType": "event",
         "heading": "Event",
         "link": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
-        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-25-pokemon-xp-2026-worlds/pokemon-xp-2026-worlds.jpg",
         "start": "2026-08-25T10:00:00.000",
         "end": "2026-08-30T20:00:00.000",
         "extraData": {
           "generic": {
-            "hasSpawns": false,
+            "hasSpawns": true,
             "hasFieldResearchTasks": false
           }
         }
@@ -4819,6 +4819,12 @@
     "oficial": [],
     "gohub_events": [
       {
+        "title": "Pokémon GO 2026 World Championships Event Guide",
+        "summary": "<p>The Pokémon GO celebration surrounding the 2026 Pokémon World Championships begins on August 25 with PokémonXP before transitioning into the main Worlds event from August 28–30. Trainers worldwide can encounter two new costumed Pikachu, hunt event-themed Pokémon, obtain valuable featured attacks, progress through a limited-time GO Pass and earn exclusive Timed Research through Twitch Drops. [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/pokemon-go-2026-world-championsh",
+        "link": "https://pokemongohub.net/post/event/pokemon-go-2026-world-championships-event-guide/",
+        "published": "2026-08-05T16:55:12+00:00"
+      },
+      {
         "title": "Summer Marathon: Arctic Embers Event",
         "summary": "<p>Shiny Snom makes their Pokémon GO debuts during the Summer Marathon: Arctic Embers event! Running from Tuesday, August 4, at 10:00 a.m. to Monday, August 10, 2026, at 8:00 p.m. local time, the event features a new GO Pass, boosted Shiny rates for select Pokémon, timed research, and more. This guide covers everything you need [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/\">Summer Marathon: Arctic Embers Event</a> appeared first on <a",
         "link": "https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/",
@@ -4829,15 +4835,15 @@
         "summary": "<p>Trainers in the US, UK, Poland, France, Germany, and Australia can join in the Lego fun with in person activities, and special raids, research and a stamp rally in Pokémon GO, with adventures at participating LEGO Store locations between August 3 and September 30, 2026*. Visit https://www.lego.com/stores to find your nearest LEGO store! The following [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/\">LEGO Stores x Pokém",
         "link": "https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/",
         "published": "2026-08-03T09:17:45+00:00"
-      },
-      {
-        "title": "This Week in Pokémon GO: August 3-9, 2026",
-        "summary": "<p>Pokémon GO’s August 3-9 2026 week has us well into the post-GO Fest season of Forever Forward! The Summer Marathon releases shiny Snom, and a Fire and Ice Hatch Day features Magby and Smoochum. Plus the weekly rotating Raid Hours, Spotlight Hour, Dynamax Battles and Mega Raids. ⭐Highlights Raid Boss Change (August 5): Uxie,&#160;Mesprit,&#160;Azelf and [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-3-9-2026/\">This Week in Pokémon GO: Augu",
-        "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-3-9-2026/",
-        "published": "2026-08-02T09:54:48+00:00"
       }
     ],
     "gohub_news": [
+      {
+        "title": "Pokémon News Weekly Roundup: Pokopia Bubbly Basin DLC, Pokémon & ESA Collaboration, and More!",
+        "summary": "<p>This week has been a big week for Pokémon news! Pokémon has teamed up with the European Space Agency to tease an exciting series of events, plus the first Pokopia DLC Bubbly Basin has been released, and more! The European Space Agency (ESA) and Pokémon are teaming up for World Space Week this year! World [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/news/pokemon-news-weekly-roundup-pokopia-bubbly-basin-dlc-pokemon-esa-collaboration-and-more/\">Pokémon News Weekly Roundup: Po",
+        "link": "https://pokemongohub.net/post/news/pokemon-news-weekly-roundup-pokopia-bubbly-basin-dlc-pokemon-esa-collaboration-and-more/",
+        "published": "2026-08-06T10:00:54+00:00"
+      },
       {
         "title": "GO Pass August 2026: Latias, Bonuses and Lucky Trinket returns!",
         "summary": "<p>Pokémon GO&#8217;s August 2026 GO Pass&#160;and GO Pass Deluxe feature exclusive rewards, including an encounter with Latias, XP and Stardust bonuses, and the return of the Lucky Trinket! This is the third and final GO Pass of the Forever Forward season. Trainers can earn GO Points by completing Pass Tasks, unlock milestone rewards through ranking [&#8230;]</p>\n<p>The post <a href=\"https://pokemongohub.net/post/guide/go-pass-august-2026-latias-bonuses-and-lucky-trinket-returns/\">GO Pass Augus",
