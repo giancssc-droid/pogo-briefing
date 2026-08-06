@@ -7,7 +7,7 @@ diario de Pokémon GO.
 
 Salidas:
 1. briefing.md                        -> versión en texto plano
-2. docs/pogo-briefing/index.html      -> versión web (para GitHub Pages)
+2. docs/index.html      -> versión web (para GitHub Pages)
 3. Mensaje enviado por Telegram (si están configuradas las variables de entorno)
 
 Variables de entorno necesarias (se configuran como "Secrets" en GitHub):
@@ -32,7 +32,7 @@ import requests
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "latest.json")
 MD_OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "briefing.md")
 HTML_OUTPUT_PATH = os.path.join(
-    os.path.dirname(__file__), "docs", "pogo-briefing", "index.html"
+    os.path.dirname(__file__), "docs", "index.html"
 )
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
