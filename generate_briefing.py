@@ -47,6 +47,10 @@ GEMINI_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 )
 
+# Encabezados de sección que el modelo puede generar. Se usan para detectar
+# qué líneas resaltar en negrita al enviar por Telegram.
+SECTION_HEADERS = ("📅", "🎉", "⚔️", "🟣", "📰", "🎯")
+
 SYSTEM_PROMPT = """\
 Eres un asistente que redacta un briefing diario de Pokémon GO en español, \
 para un jugador que quiere saber en 30 segundos qué hacer hoy.
@@ -64,42 +68,51 @@ Instrucciones:
    decidir qué eventos están ACTIVOS hoy, cuáles ya terminaron (ignóralos) y \
    cuáles son próximos (menciona como máximo 2, si empiezan en los próximos 5 días).
 2. En raids, agrupa por tier (5 estrellas / Mega / 3 estrellas / 1 estrella / Sombra) \
-   y destaca solo los que probablemente valga la pena hacer (legendarios, \
-   Mega, shiny disponible). No listes los 20 jefes de tier 1 si no aportan nada.
+   y destaca SOLO los que probablemente valga la pena hacer (legendarios, \
+   Mega, shiny disponible). Máximo 4-5 líneas en total en esta sección: no \
+   listes cada shiny disponible de tier 1 si no aporta nada nuevo.
 3. En eggs, estos representan lo que antes llamábamos "Dynamax activo". \
-   Lista los Pokémon disponibles.
-4. En research, menciona solo las tareas con recompensas relevantes \
+   Lista los Pokémon disponibles en una sola línea corta.
+4. En research, menciona solo 2-3 tareas con recompensas realmente relevantes \
    (shiny disponible, Pokémon raro, mucho polvo estelar), no la lista completa.
-5. En news, ignora duplicados entre fuentes y quédate con lo más importante \
-   de los últimos días. Si no hay nada relevante, omite la sección.
-6. Termina con una sección "🎯 Prioridad de hoy": 2 a 4 bullets con lo más \
-   importante que el jugador debería hacer hoy, en orden de importancia.
-7. Sé conciso. Nada de relleno ni explicaciones de tu proceso. NO uses \
-   markdown (nada de asteriscos ** para negrita, ni guiones bajos _, ni \
-   almohadillas #): este texto se envía tal cual a Telegram como texto \
-   plano, así que cualquier símbolo de formato se vería feo, literal, \
-   en el mensaje. Usa exactamente este formato (respeta los emojis y \
-   encabezados, pero sin negritas ni otro formato):
+5. En news, ignora duplicados entre fuentes y quédate con máximo 3 titulares \
+   de lo más importante de los últimos días.
+6. Si una sección (Eventos, Raids, Dynamax, Noticias) no tiene contenido \
+   relevante, NO la incluyas en absoluto en tu respuesta, ni el encabezado \
+   ni bullets de relleno. La única sección que siempre debe aparecer es \
+   "🎯 Prioridad de hoy".
+7. Termina con "🎯 Prioridad de hoy": 2 a 4 bullets con lo más importante \
+   que el jugador debería hacer hoy, en orden de importancia.
+8. Sé conciso. Cada bullet debe caber idealmente en una sola línea corta. \
+   Si una idea es larga, divídela en dos bullets cortos en vez de uno largo.
+9. Deja una línea en blanco entre cada bullet dentro de una misma sección, \
+   para que se lea mejor en Telegram.
+10. Nada de relleno ni explicaciones de tu proceso. NO uses markdown \
+    (nada de asteriscos ** para negrita, ni guiones bajos _, ni almohadillas \
+    #): el script se encarga de resaltar los encabezados automáticamente. \
+    Vos generá texto plano con este formato exacto (respeta los emojis y \
+    encabezados, pero sin negritas ni otro formato), incluyendo únicamente \
+    las secciones que tengan contenido:
 
 📅 Pokémon GO - [fecha legible]
 
 🎉 Eventos activos
-• ...
+- ...
+
+- ...
 
 ⚔️ Raids activas
-• ...
+- ...
 
 🟣 Dynamax / Max Battles
-• ...
+- ...
 
 📰 Noticias importantes
-• ...
+- ...
 
 🎯 Prioridad de hoy
-• ...
+- ...
 
-Si alguna sección no tiene contenido relevante, escribe "• Nada destacado hoy" \
-en esa sección en vez de omitir el encabezado.
 Responde ÚNICAMENTE con el briefing en ese formato, sin texto antes ni después.
 """
 
@@ -249,15 +262,44 @@ def save_html(briefing_text: str, today_readable: str):
         f.write(html)
 
 
+def escape_html(text: str) -> str:
+    """Escapa caracteres especiales de HTML para que Telegram no rompa el
+    parseo cuando el texto contenga un '&', '<' o '>' suelto (por ejemplo,
+    en un nombre de evento o noticia)."""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def format_for_telegram(raw_text: str) -> str:
+    """Convierte los encabezados de sección (📅, 🎉, ⚔️, 🟣, 📰, 🎯) en
+    negrita real usando el modo HTML de Telegram, y escapa el resto del
+    texto para evitar errores de parseo."""
+    lines = raw_text.split("\n")
+    formatted_lines = []
+    for line in lines:
+        stripped = line.strip()
+        is_header = stripped.startswith(SECTION_HEADERS) and not stripped.startswith("•")
+        if is_header:
+            formatted_lines.append(f"<b>{escape_html(line)}</b>")
+        else:
+            formatted_lines.append(escape_html(line))
+    return "\n".join(formatted_lines)
+
+
 def send_telegram(briefing_text: str):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("[INFO] Telegram no configurado, se omite el envío.")
         return
 
+    formatted_text = format_for_telegram(briefing_text)
+
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     resp = requests.post(
         url,
-        json={"chat_id": TELEGRAM_CHAT_ID, "text": briefing_text},
+        json={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": formatted_text,
+            "parse_mode": "HTML",
+        },
         timeout=20,
     )
     if resp.ok:
