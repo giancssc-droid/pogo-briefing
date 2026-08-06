@@ -279,16 +279,24 @@ def escape_html(text: str) -> str:
 
 
 def format_for_telegram(raw_text: str) -> str:
-    """Convierte los encabezados de sección (📅, 🎉, ⚔️, 🟣, 📰, 🎯) en
-    negrita real usando el modo HTML de Telegram, y escapa el resto del
-    texto para evitar errores de parseo."""
+    """Convierte los encabezados de sección en negrita real y las líneas de
+    link (🔗 https://...) en hipervínculos clickeables, usando el modo HTML
+    de Telegram. Escapa el resto del texto para evitar errores de parseo."""
     lines = raw_text.split("\n")
     formatted_lines = []
     for line in lines:
         stripped = line.strip()
         is_header = stripped.startswith(SECTION_HEADERS) and not stripped.startswith("•")
+        is_link_line = stripped.startswith("🔗")
+
         if is_header:
             formatted_lines.append(f"<b>{escape_html(line)}</b>")
+        elif is_link_line:
+            url = stripped.replace("🔗", "", 1).strip()
+            indent = line[: len(line) - len(line.lstrip())]
+            formatted_lines.append(
+                f'{indent}🔗 <a href="{escape_html(url)}">Leer noticia</a>'
+            )
         else:
             formatted_lines.append(escape_html(line))
     return "\n".join(formatted_lines)
